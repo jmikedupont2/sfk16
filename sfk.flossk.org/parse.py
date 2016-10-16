@@ -6,10 +6,14 @@ for l in f.readlines():
     html_doc += l
 soup = BeautifulSoup(html_doc, 'html.parser')
 
-#print(soup.)
+
 for d in soup.find_all('div', class_='speaker'):
-    print "Speaker" + d.h4.text
+    #print "Speaker" + d.h4.text
+    d.id_="Speaker_" + d.h4.text
 
 for d in soup.find_all('div', class_='event'):
-    print "Talk"+ d.h3.text
+    #print "Talk"+ d.h3.text
+    d.id_="Talk_" + d.h3.text
     
+
+print(soup.prettify())
