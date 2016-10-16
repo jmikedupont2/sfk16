@@ -1,0 +1,2004 @@
+
+
+SpeakerÁdám Podolcsdák
+
+
+SpeakerAjkuna Mujo
+
+
+SpeakerAlket Rexhepi
+
+
+SpeakerAltin Ukshini
+
+
+SpeakerAndy Mabbett
+
+
+SpeakerAnxhela Hyseni
+
+
+SpeakerAnxhelo Lushka
+
+
+SpeakerBashkim Shala
+
+
+SpeakerBesfort Guri
+
+
+SpeakerBetim Drenica
+
+
+SpeakerBhagyashree Padalkar
+
+
+SpeakerBlinera Meta
+
+
+SpeakerChris Lamb
+
+
+SpeakerChris Ward
+
+
+SpeakerChristopher Guess
+
+
+SpeakerDashamir Hoxha
+
+
+SpeakerDimitar Poposki
+
+
+SpeakerEgzontina Krasniqi
+
+
+SpeakerElio Qoshi
+
+
+SpeakerEndrit Bytyqi
+
+
+SpeakerFatbardh Veseli
+
+
+SpeakerGabriel Mičko
+
+
+SpeakerGiannis Konstantinidis
+
+
+SpeakerItalo Vignoli
+
+
+SpeakerJames Michael Dupont
+
+
+SpeakerJona Azizaj
+
+
+SpeakerJos Poortvliet
+
+
+SpeakerKosovare Sahatqija
+
+
+SpeakerKostaq Cipo
+
+
+SpeakerMarinela Gogo
+
+
+SpeakerNick Doiron
+
+
+SpeakerOzren Muic
+
+
+SpeakerPeter Corbett
+
+
+SpeakerRedon Skikuli
+
+
+SpeakerRustam Mehmandarov
+
+
+SpeakerSam Tuke
+
+
+SpeakerThomas Levine
+
+
+SpeakerVictor Nițu
+
+
+SpeakerZlatko Trajcheski
+events:
+- &id003
+  capacity: 200
+  capacity_is_custom: false
+  category_id: null
+  changed: '2016-10-15T14:59:33Z'
+  created: '2016-10-13T17:15:38Z'
+  currency: USD
+  description: {html: null, text: null}
+  end: {local: '2016-10-22T18:00:00', timezone: Europe/Belgrade, utc: '2016-10-22T16:00:00Z'}
+  format_id: null
+  hide_end_date: false
+  hide_start_date: false
+  id: '28584821972'
+  is_locked: false
+  is_reserved_seating: false
+  is_series: false
+  is_series_parent: false
+  listed: true
+  locale: en_US
+  logo:
+    aspect_ratio: '2'
+    crop_mask:
+      height: 480
+      top_left: {x: 0, y: 30}
+      width: 960
+    edge_color: '#b3b2b0'
+    edge_color_set: true
+    id: '25028716'
+    original: {height: 540, url: 'https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F25028716%2F190126692399%2F1%2Foriginal.jpg?s=4de2af539c5a2953c34f8fd0caa2510c',
+      width: 960}
+    url: https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F25028716%2F190126692399%2F1%2Foriginal.jpg?h=200&w=450&rect=0%2C30%2C960%2C480&s=f377331699169be7c1f0c4f22e9af934
+  logo_id: '25028716'
+  name: {html: Software Freedom Kosova - Conference Day, text: Software Freedom Kosova
+      - Conference Day}
+  online_event: false
+  organizer_id: '6873583621'
+  privacy_setting: unlocked
+  resource_uri: https://www.eventbriteapi.com/v3/events/28584821972/
+  shareable: true
+  source: create_2.0
+  speaker: ' '
+  start: {local: '2016-10-22T09:15:00', timezone: Europe/Belgrade, utc: '2016-10-22T07:15:00Z'}
+  status: live
+  subcategory_id: null
+  tx_time_limit: 480
+  url: https://www.eventbrite.com/e/software-freedom-kosova-conference-day-tickets-28584821972?aff=ebapi
+  venue_id: '17017211'
+- &id007
+  capacity: 15
+  capacity_is_custom: false
+  category_id: null
+  changed: '2016-10-15T13:06:37Z'
+  created: '2016-10-13T17:25:09Z'
+  currency: USD
+  description: {html: null, text: null}
+  end: {local: '2016-10-23T17:00:00', timezone: Europe/Belgrade, utc: '2016-10-23T15:00:00Z'}
+  format_id: null
+  hide_end_date: false
+  hide_start_date: false
+  html: "<div class=\"event\">\n <div class=\"event-inner\">\n  <div class=\"icon\"\
+    >\n   <i class=\"fa fa-2x fa-clock-o\">\n   </i>\n   <span class=\"time\">\n \
+    \   15:30 - 17:00\n   </span>\n  </div>\n  <div class=\"description\">\n   <h3>\n\
+    \    Functional Programming with Javascript and Ramda.js\n   </h3>\n   <p>\n \
+    \   This workshop will give a hands-on introduction to functional programming\
+    \ paradigm.  Including functional programming concepts, such as: curry, closure,\
+    \ point-free programming, composition, programming in a Monad style etc. Looking\
+    \ at the trends of functional programming usage in other programming languages\
+    \ like Scala and Haskell, there came the idea for a full-featured-and-focus Javascript\
+    \ library for Functional Programming paradigm: Ramda-js. This workshop will help\
+    \ participants learning  how math aspect of functional programming can be incorporated\
+    \ in our applications and can improve our platform performance as well as can\
+    \ save us the development time.\n   </p>\n   <span class=\"name\">\n    Endrit\
+    \ Bytyqi\n   </span>\n   <div class=\"eventbrite-workshop\">\n    <a href=\"https://www.eventbrite.com/e/endrit-bytyqi-functional-programming-with-javascript-and-ramdajs-tickets-28584989473\"\
+    \ target=\"_blank\">\n     book your seat\n    </a>\n   </div>\n  </div>\n </div>\n\
+    </div>\n"
+  id: '28584989473'
+  is_locked: false
+  is_reserved_seating: false
+  is_series: false
+  is_series_parent: false
+  listed: true
+  locale: en_US
+  logo:
+    aspect_ratio: '2'
+    crop_mask:
+      height: 480
+      top_left: {x: 0, y: 30}
+      width: 960
+    edge_color: '#b3b2b0'
+    edge_color_set: true
+    id: '25029113'
+    original: {height: 540, url: 'https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F25029113%2F190126692399%2F1%2Foriginal.jpg?s=c5fdb027eabfdd9f160d36ca704d3ee4',
+      width: 960}
+    url: https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F25029113%2F190126692399%2F1%2Foriginal.jpg?h=200&w=450&rect=0%2C30%2C960%2C480&s=38d3b2c25ed99fb7b2adee34b209cc4a
+  logo_id: '25029113'
+  name: {html: Endrit Bytyqi - Functional Programming with Javascript and Ramda.js,
+    text: Endrit Bytyqi - Functional Programming with Javascript and Ramda.js}
+  online_event: false
+  organizer_id: '6873583621'
+  privacy_setting: unlocked
+  resource_uri: https://www.eventbriteapi.com/v3/events/28584989473/
+  shareable: true
+  source: create_2.0
+  speaker: ' '
+  start: {local: '2016-10-23T15:30:00', timezone: Europe/Belgrade, utc: '2016-10-23T13:30:00Z'}
+  status: live
+  subcategory_id: null
+  tx_time_limit: 480
+  url: http://www.eventbrite.com/e/endrit-bytyqi-functional-programming-with-javascript-and-ramdajs-tickets-28584989473?aff=ebapi
+  venue_id: '17003392'
+- &id004
+  capacity: 15
+  capacity_is_custom: false
+  category_id: null
+  changed: '2016-10-13T17:21:18Z'
+  created: '2016-10-13T17:21:15Z'
+  currency: USD
+  description: {html: null, text: null}
+  end: {local: '2016-10-23T13:30:00', timezone: Europe/Belgrade, utc: '2016-10-23T11:30:00Z'}
+  format_id: null
+  hide_end_date: false
+  hide_start_date: false
+  html: "<div class=\"event\">\n <div class=\"event-inner\">\n  <div class=\"icon\"\
+    >\n   <i class=\"fa fa-2x fa-clock-o\">\n   </i>\n   <span class=\"time\">\n \
+    \   11:00 - 12:30\n   </span>\n  </div>\n  <div class=\"description\">\n   <h3>\n\
+    \    Creating a game with Godot\n   </h3>\n   <p>\n    A crash course on how Godot\
+    \ Engine works, demonstrated with a game\n   </p>\n   <span class=\"name\">\n\
+    \    Alket Rexhepi\n   </span>\n   <div class=\"eventbrite-workshop\">\n    <a\
+    \ href=\"https://www.eventbrite.com/e/alket-rexhepi-creating-a-game-with-godot-tickets-28584914248\"\
+    \ target=\"_blank\">\n     book your seat\n    </a>\n   </div>\n  </div>\n </div>\n\
+    </div>\n"
+  id: '28584914248'
+  is_locked: false
+  is_reserved_seating: false
+  is_series: false
+  is_series_parent: false
+  listed: true
+  locale: en_US
+  logo:
+    aspect_ratio: '2'
+    crop_mask:
+      height: 480
+      top_left: {x: 0, y: 30}
+      width: 960
+    edge_color: null
+    edge_color_set: true
+    id: '25028946'
+    original: {height: 540, url: 'https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F25028946%2F190126692399%2F1%2Foriginal.jpg?s=f8fcd7511ef3ab9dca3d89f55c5c28df',
+      width: 960}
+    url: https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F25028946%2F190126692399%2F1%2Foriginal.jpg?h=200&w=450&rect=0%2C30%2C960%2C480&s=ded70fee2ff918dde4581c2d818f0a3c
+  logo_id: '25028946'
+  name: {html: Alket Rexhepi - Creating a game with Godot, text: Alket Rexhepi - Creating
+      a game with Godot}
+  online_event: false
+  organizer_id: '6873583621'
+  privacy_setting: unlocked
+  resource_uri: https://www.eventbriteapi.com/v3/events/28584914248/
+  shareable: true
+  source: create_2.0
+  speaker: ' '
+  start: {local: '2016-10-23T11:00:00', timezone: Europe/Belgrade, utc: '2016-10-23T09:00:00Z'}
+  status: live
+  subcategory_id: null
+  tx_time_limit: 480
+  url: https://www.eventbrite.com/e/alket-rexhepi-creating-a-game-with-godot-tickets-28584914248?aff=ebapi
+  venue_id: '17017262'
+- &id005
+  capacity: 15
+  capacity_is_custom: false
+  category_id: null
+  changed: '2016-10-12T19:10:12Z'
+  created: '2016-10-12T19:10:09Z'
+  currency: USD
+  description: {html: null, text: null}
+  end: {local: '2016-10-21T12:55:00', timezone: Europe/Belgrade, utc: '2016-10-21T10:55:00Z'}
+  format_id: null
+  hide_end_date: false
+  hide_start_date: false
+  html: "<div class=\"event\">\n <div class=\"event-inner\">\n  <div class=\"icon\"\
+    >\n   <i class=\"fa fa-2x fa-clock-o\">\n   </i>\n   <span class=\"time\">\n \
+    \   12:00 - 12:55\n   </span>\n  </div>\n  <div class=\"description\">\n   <h3>\n\
+    \    Designing in API in open sourced Asp.Net\n   </h3>\n   <p>\n    This session\
+    \ will give a brief description of history and evolution of Asp.Net until it's\
+    \ \"core\" version that's full open source. In the session will be covered also\
+    \ step by step development of web APIs by touching several topics, like data serialization\
+    \ (JSON), authorization and middleware components.\n   </p>\n   <span class=\"\
+    name\">\n    Betim Drenica\n   </span>\n   <div class=\"eventbrite-workshop\"\
+    >\n    <a href=\"https://www.eventbrite.com/e/betim-drenica-designing-in-api-in-open-sourced-aspnet-tickets-28561961596\"\
+    \ target=\"_blank\">\n     book your seat\n    </a>\n   </div>\n  </div>\n </div>\n\
+    </div>\n"
+  id: '28561961596'
+  is_locked: false
+  is_reserved_seating: false
+  is_series: false
+  is_series_parent: false
+  listed: true
+  locale: en_US
+  logo:
+    aspect_ratio: '2'
+    crop_mask:
+      height: 960
+      top_left: {x: 0, y: 60}
+      width: 1920
+    edge_color: '#b2b2b0'
+    edge_color_set: true
+    id: '24996378'
+    original: {height: 1081, url: 'https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F24996378%2F190126692399%2F1%2Foriginal.jpg?s=d0851af2a1416db4f2ce404e4d256a05',
+      width: 1921}
+    url: https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F24996378%2F190126692399%2F1%2Foriginal.jpg?h=200&w=450&rect=0%2C60%2C1920%2C960&s=54c340ed22564f4d7c5b03b48357fbc9
+  logo_id: '24996378'
+  name: {html: Betim Drenica - Designing in API in open sourced Asp.Net, text: Betim
+      Drenica - Designing in API in open sourced Asp.Net}
+  online_event: false
+  organizer_id: '6873583621'
+  privacy_setting: unlocked
+  resource_uri: https://www.eventbriteapi.com/v3/events/28561961596/
+  shareable: true
+  source: create_2.0
+  speaker: ' '
+  start: {local: '2016-10-21T12:00:00', timezone: Europe/Belgrade, utc: '2016-10-21T10:00:00Z'}
+  status: live
+  subcategory_id: null
+  tx_time_limit: 480
+  url: https://www.eventbrite.com/e/betim-drenica-designing-in-api-in-open-sourced-aspnet-tickets-28561961596?aff=ebapi
+  venue_id: '17003392'
+- &id009
+  capacity: 15
+  capacity_is_custom: false
+  category_id: '102'
+  changed: '2016-10-15T17:38:59Z'
+  created: '2016-10-12T18:56:13Z'
+  currency: USD
+  description: {html: '<H3>Own-Mailbox (<A HREF="https://www.own-mailbox.com/" TARGET="_blank"
+      REL="noreferrer noopener nofollow noopener noreferrer nofollow">own-mailbox.com</A>,<A
+      HREF="https://twitter.com/Own_Mailbox" TARGET="_blank" TITLE="Own_Mailbox" REL="noreferrer
+      noopener nofollow noopener noreferrer nofollow">@Own_Mailbox</A>)</H3>
+
+      <P>is a personal and secure email server you can run in your home. In this workshop
+      we will install and set it up on RPi3 (<A HREF="https://www.raspberrypi.org/products/raspberry-pi-3-model-b/"
+      TARGET="_blank" REL="noreferrer noopener nofollow noopener noreferrer nofollow">raspberrypi.org</A>,<A
+      HREF="https://twitter.com/Raspberry_Pi" TARGET="_blank" REL="noreferrer noopener
+      nofollow noopener noreferrer nofollow">@Raspberry_Pi</A>).</P>
+
+      <H3>Dashamir Hoxha (<A HREF="http://dashohoxha.fs.al/" TARGET="_blank" REL="noreferrer
+      noopener nofollow noopener noreferrer nofollow"><SPAN>dashohoxha.fs.al</SPAN></A><SPAN>,</SPAN><A
+      HREF="https://twitter.com/dashohoxha" TARGET="_blank" REL="noreferrer noopener
+      nofollow noopener noreferrer nofollow"><SPAN>@dashohoxha</SPAN></A><SPAN>)</SPAN></H3>
+
+      <P><SPAN>a Computer Engineer with experience in software engineering, web application
+      developmenunt, Linux and network configuration/administration, configuration
+      management, documentation writing, and more</SPAN><BR></P>
+
+      <H3><SPAN>Venue</SPAN></H3>
+
+      <P><SPAN>Innovation Centre Kosovo (<A HREF="http://osm.org/go/xfpE5K9_c--?m=0"
+      TARGET="_blank" TITLE="Innovation Centre Kosovo" REL="noreferrer noopener nofollow
+      noopener noreferrer nofollow">http://osm.org/go/xfpE5K9_c--?m=0</A>)</SPAN></P>
+
+      <H3><SPAN>Conference</SPAN></H3>
+
+      <P><SPAN>This talk is part of #sfk16 <A HREF="http://sfk.flossk.org/sfk16/"
+      TARGET="_blank" REL="noreferrer noopener nofollow noopener noreferrer nofollow">sfk.flossk.org/sfk16/</A></SPAN></P>',
+    text: 'Own-Mailbox (own-mailbox.com,@Own_Mailbox)
+
+      is a personal and secure email server you can run in your home. In this workshop
+      we will install and set it up on RPi3 (raspberrypi.org,@Raspberry_Pi).
+
+      Dashamir Hoxha (dashohoxha.fs.al,@dashohoxha)
+
+      a Computer Engineer with experience in software engineering, web application
+      developmenunt, Linux and network configuration/administration, configuration
+      management, documentation writing, and more
+
+      Venue
+
+      Innovation Centre Kosovo (http://osm.org/go/xfpE5K9_c--?m=0)
+
+      Conference
+
+      This talk is part of #sfk16 sfk.flossk.org/sfk16/'}
+  end: {local: '2016-10-21T10:55:00', timezone: Europe/Belgrade, utc: '2016-10-21T08:55:00Z'}
+  format_id: '9'
+  hide_end_date: false
+  hide_start_date: false
+  html: "<div class=\"event\">\n <div class=\"event-inner\">\n  <div class=\"icon\"\
+    >\n   <i class=\"fa fa-2x fa-clock-o\">\n   </i>\n   <span class=\"time\">\n \
+    \   10:00 - 10:55\n   </span>\n  </div>\n  <div class=\"description\">\n   <h3>\n\
+    \    Install your Own-Mailbox on your RaspberryPi\n   </h3>\n   <p>\n    Own-Mailbox\
+    \ is a personal and secure email server you can run in your home. In this workshop\
+    \ we will install and set it up on RPi3.\n   </p>\n   <span class=\"name\">\n\
+    \    Dashamir Hoxha\n   </span>\n   <div class=\"eventbrite-workshop\">\n    <a\
+    \ href=\"https://www.eventbrite.com/e/dashamir-hoxha-install-your-own-mailbox-on-your-raspberrypi-tickets-28561598510\"\
+    \ target=\"_blank\">\n     book your seat\n    </a>\n   </div>\n  </div>\n </div>\n\
+    </div>\n"
+  id: '28561598510'
+  is_locked: false
+  is_reserved_seating: false
+  is_series: false
+  is_series_parent: false
+  listed: true
+  locale: en_US
+  logo:
+    aspect_ratio: '2'
+    crop_mask:
+      height: 230
+      top_left: {x: 0, y: 25}
+      width: 460
+    edge_color: null
+    edge_color_set: true
+    id: '25076881'
+    original: {height: 400, url: 'https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F25076881%2F109005364417%2F1%2Foriginal.jpg?s=4592631cac16a4d7d84eb9ed072b0bc4',
+      width: 461}
+    url: https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F25076881%2F109005364417%2F1%2Foriginal.jpg?h=200&w=450&rect=0%2C25%2C460%2C230&s=ed934a5e1ff110907fc82d7d48bde972
+  logo_id: '25076881'
+  name: {html: Dashamir Hoxha - Install your Own-Mailbox on your RaspberryPi, text: Dashamir
+      Hoxha - Install your Own-Mailbox on your RaspberryPi}
+  online_event: false
+  organizer_id: '6873583621'
+  privacy_setting: unlocked
+  resource_uri: https://www.eventbriteapi.com/v3/events/28561598510/
+  shareable: true
+  source: create_2.0
+  speaker: ' '
+  start: {local: '2016-10-21T10:00:00', timezone: Europe/Belgrade, utc: '2016-10-21T08:00:00Z'}
+  status: live
+  subcategory_id: '2004'
+  tx_time_limit: 480
+  url: http://www.eventbrite.com/e/dashamir-hoxha-install-your-own-mailbox-on-your-raspberrypi-tickets-28561598510?aff=ebapi
+  venue_id: '17038970'
+- &id011
+  capacity: 15
+  capacity_is_custom: false
+  category_id: null
+  changed: '2016-10-13T17:23:28Z'
+  created: '2016-10-13T17:23:26Z'
+  currency: USD
+  description: {html: null, text: null}
+  end: {local: '2016-10-23T15:30:00', timezone: Europe/Belgrade, utc: '2016-10-23T13:30:00Z'}
+  format_id: null
+  hide_end_date: false
+  hide_start_date: false
+  html: "<div class=\"event\">\n <div class=\"event-inner\">\n  <div class=\"icon\"\
+    >\n   <i class=\"fa fa-2x fa-clock-o\">\n   </i>\n   <span class=\"time\">\n \
+    \   13:00 - 15:30\n   </span>\n  </div>\n  <div class=\"description\">\n   <h3>\n\
+    \    WebRTC From Zero to Hero\n   </h3>\n   <p>\n    Showcase for building websites\
+    \ with real time capabilities. Covering full stack of WebRTC (p2p Audio, Video,\
+    \ File sharing) Your new dial application is one click away.\n   </p>\n   <span\
+    \ class=\"name\">\n    Gabriel Mi\u010Dko\n   </span>\n   <div class=\"eventbrite-workshop\"\
+    >\n    <a href=\"https://www.eventbrite.com/e/gabriel-micko-webrtc-from-zero-to-hero-tickets-28584954368\"\
+    \ target=\"_blank\">\n     book your seat\n    </a>\n   </div>\n  </div>\n </div>\n\
+    </div>\n"
+  id: '28584954368'
+  is_locked: false
+  is_reserved_seating: false
+  is_series: false
+  is_series_parent: false
+  listed: true
+  locale: en_US
+  logo:
+    aspect_ratio: '2'
+    crop_mask:
+      height: 480
+      top_left: {x: 0, y: 30}
+      width: 960
+    edge_color: '#b3b2b0'
+    edge_color_set: true
+    id: '25029037'
+    original: {height: 540, url: 'https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F25029037%2F190126692399%2F1%2Foriginal.jpg?s=11739a38fd428884a1f4c22d20692f3a',
+      width: 960}
+    url: https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F25029037%2F190126692399%2F1%2Foriginal.jpg?h=200&w=450&rect=0%2C30%2C960%2C480&s=a8b24eda159c9d7718313abce8e0f6cf
+  logo_id: '25029037'
+  name: {html: "Gabriel Mi\u010Dko - WebRTC From Zero to Hero", text: "Gabriel Mi\u010D\
+      ko - WebRTC From Zero to Hero"}
+  online_event: false
+  organizer_id: '6873583621'
+  privacy_setting: unlocked
+  resource_uri: https://www.eventbriteapi.com/v3/events/28584954368/
+  shareable: true
+  source: create_2.0
+  speaker: ' '
+  start: {local: '2016-10-23T13:00:00', timezone: Europe/Belgrade, utc: '2016-10-23T11:00:00Z'}
+  status: live
+  subcategory_id: null
+  tx_time_limit: 480
+  url: http://www.eventbrite.com/e/gabriel-micko-webrtc-from-zero-to-hero-tickets-28584954368?aff=ebapi
+  venue_id: '17003392'
+- capacity: 15
+  capacity_is_custom: false
+  category_id: null
+  changed: '2016-10-13T07:25:44Z'
+  created: '2016-10-13T07:25:42Z'
+  currency: USD
+  description: {html: null, text: null}
+  end: {local: '2016-10-21T16:30:00', timezone: Europe/Belgrade, utc: '2016-10-21T14:30:00Z'}
+  format_id: null
+  hide_end_date: false
+  hide_start_date: false
+  id: '28572182166'
+  is_locked: false
+  is_reserved_seating: false
+  is_series: false
+  is_series_parent: false
+  listed: true
+  locale: en_US
+  logo:
+    aspect_ratio: '2'
+    crop_mask:
+      height: 960
+      top_left: {x: 0, y: 60}
+      width: 1920
+    edge_color: '#b2b2b0'
+    edge_color_set: true
+    id: '25012655'
+    original: {height: 1081, url: 'https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F25012655%2F190126692399%2F1%2Foriginal.jpg?s=bd5b2eba17257d359a9406d78c5a667d',
+      width: 1921}
+    url: https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F25012655%2F190126692399%2F1%2Foriginal.jpg?h=200&w=450&rect=0%2C60%2C1920%2C960&s=04e6cf982115e58adba403a4da76b0a7
+  logo_id: '25012655'
+  name: {html: Egzontina Krasniqi &amp; Dashamir Hoxha - Building a website with GitHub
+      Pages + Jekyll, text: Egzontina Krasniqi & Dashamir Hoxha - Building a website
+      with GitHub Pages + Jekyll}
+  online_event: false
+  organizer_id: '6873583621'
+  privacy_setting: unlocked
+  resource_uri: https://www.eventbriteapi.com/v3/events/28572182166/
+  shareable: true
+  source: create_2.0
+  start: {local: '2016-10-21T14:00:00', timezone: Europe/Belgrade, utc: '2016-10-21T12:00:00Z'}
+  status: live
+  subcategory_id: null
+  tx_time_limit: 480
+  url: https://www.eventbrite.com/e/egzontina-krasniqi-dashamir-hoxha-building-a-website-with-github-pages-jekyll-tickets-28572182166?aff=ebapi
+  venue_id: '17010308'
+- &id010
+  capacity: 15
+  capacity_is_custom: false
+  category_id: null
+  changed: '2016-10-15T11:52:15Z'
+  created: '2016-10-12T19:06:52Z'
+  currency: USD
+  description: {html: null, text: null}
+  end: {local: '2016-10-21T11:55:00', timezone: Europe/Belgrade, utc: '2016-10-21T09:55:00Z'}
+  format_id: null
+  hide_end_date: false
+  hide_start_date: false
+  id: '28561882359'
+  is_locked: false
+  is_reserved_seating: false
+  is_series: false
+  is_series_parent: false
+  listed: true
+  locale: en_US
+  logo:
+    aspect_ratio: '2'
+    crop_mask:
+      height: 960
+      top_left: {x: 0, y: 60}
+      width: 1920
+    edge_color: '#b2b2b0'
+    edge_color_set: true
+    id: '24996244'
+    original: {height: 1081, url: 'https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F24996244%2F190126692399%2F1%2Foriginal.jpg?s=849749f1b7aeea86be225a9d44ee1d17',
+      width: 1921}
+    url: https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F24996244%2F190126692399%2F1%2Foriginal.jpg?h=200&w=450&rect=0%2C60%2C1920%2C960&s=843c9ba7a5f58a76b9cec63161617443
+  logo_id: '24996244'
+  name: {html: James Michael Dupont - Intro to Document Security with Gpg, text: James
+      Michael Dupont - Intro to Document Security with Gpg}
+  online_event: false
+  organizer_id: '6873583621'
+  privacy_setting: unlocked
+  resource_uri: https://www.eventbriteapi.com/v3/events/28561882359/
+  shareable: true
+  source: create_2.0
+  speaker: ' '
+  start: {local: '2016-10-21T11:00:00', timezone: Europe/Belgrade, utc: '2016-10-21T09:00:00Z'}
+  status: live
+  subcategory_id: null
+  tx_time_limit: 480
+  url: http://www.eventbrite.com/e/james-michael-dupont-intro-to-document-security-with-gpg-tickets-28561882359?aff=ebapi
+  venue_id: '17017262'
+- capacity: 15
+  capacity_is_custom: false
+  category_id: null
+  changed: '2016-10-12T19:16:17Z'
+  created: '2016-10-12T19:16:14Z'
+  currency: USD
+  description: {html: null, text: null}
+  end: {local: '2016-10-21T16:45:00', timezone: Europe/Belgrade, utc: '2016-10-21T14:45:00Z'}
+  format_id: null
+  hide_end_date: false
+  hide_start_date: false
+  id: '28562118064'
+  is_locked: false
+  is_reserved_seating: false
+  is_series: false
+  is_series_parent: false
+  listed: true
+  locale: en_US
+  logo:
+    aspect_ratio: '2'
+    crop_mask:
+      height: 960
+      top_left: {x: 0, y: 60}
+      width: 1920
+    edge_color: '#b2b2b0'
+    edge_color_set: true
+    id: '24996624'
+    original: {height: 1081, url: 'https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F24996624%2F190126692399%2F1%2Foriginal.jpg?s=0ffee279aec2de3b76a963693f893128',
+      width: 1921}
+    url: https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F24996624%2F190126692399%2F1%2Foriginal.jpg?h=200&w=450&rect=0%2C60%2C1920%2C960&s=b1a9db0d0c012ada1d5bda1183abb4df
+  logo_id: '24996624'
+  name: {html: Anxhelo Lushka &amp; Marinela Gogo - LibreOffice Localization Spring,
+    text: Anxhelo Lushka & Marinela Gogo - LibreOffice Localization Spring}
+  online_event: false
+  organizer_id: '6873583621'
+  privacy_setting: unlocked
+  resource_uri: https://www.eventbriteapi.com/v3/events/28562118064/
+  shareable: true
+  source: create_2.0
+  start: {local: '2016-10-21T16:00:00', timezone: Europe/Belgrade, utc: '2016-10-21T14:00:00Z'}
+  status: live
+  subcategory_id: null
+  tx_time_limit: 480
+  url: http://www.eventbrite.com/e/anxhelo-lushka-marinela-gogo-libreoffice-localization-spring-tickets-28562118064?aff=ebapi
+  venue_id: '17003392'
+- &id008
+  capacity: 10
+  capacity_is_custom: false
+  category_id: null
+  changed: '2016-10-13T17:16:59Z'
+  created: '2016-10-13T07:21:51Z'
+  currency: USD
+  description: {html: null, text: null}
+  end: {local: '2016-10-21T11:30:00', timezone: Europe/Belgrade, utc: '2016-10-21T09:30:00Z'}
+  format_id: null
+  hide_end_date: false
+  hide_start_date: false
+  html: "<div class=\"event\">\n <div class=\"event-inner\">\n  <div class=\"icon\"\
+    >\n   <i class=\"fa fa-2x fa-clock-o\">\n   </i>\n   <span class=\"time\">\n \
+    \   10:00 - 11:30\n   </span>\n  </div>\n  <div class=\"description\">\n   <h3>\n\
+    \    GLAM Wiki\n   </h3>\n   <p>\n    Wikipedia and GLAM: How galleries, libraries,\
+    \ archives, museums, and similar institutions, can benefit from working with Wikipedia\
+    \ and its multi-lingual sister projects, like Wikimedia Commons and Wikidata,\
+    \ to preserve heritage, tell stories and share the sum of all knowledge. Some\
+    \ tools will be demonstrated, so bring a laptop and sign up for a Wikipedia account\
+    \ in advance.\n   </p>\n   <span class=\"name\">\n    Andy Mabbett\n   </span>\n\
+    \   <div class=\"eventbrite-workshop\">\n    <a href=\"https://www.eventbrite.com/e/andy-mabbett-glam-wiki-tickets-28572125998\"\
+    \ target=\"_blank\">\n     book your seat\n    </a>\n   </div>\n  </div>\n </div>\n\
+    </div>\n"
+  id: '28572125998'
+  is_locked: false
+  is_reserved_seating: false
+  is_series: false
+  is_series_parent: false
+  listed: true
+  locale: en_US
+  logo:
+    aspect_ratio: '2'
+    crop_mask:
+      height: 960
+      top_left: {x: 0, y: 60}
+      width: 1920
+    edge_color: '#b2b2b0'
+    edge_color_set: true
+    id: '25012618'
+    original: {height: 1081, url: 'https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F25012618%2F190126692399%2F1%2Foriginal.jpg?s=40d3fd07c2636e11718582b5898bae58',
+      width: 1921}
+    url: https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F25012618%2F190126692399%2F1%2Foriginal.jpg?h=200&w=450&rect=0%2C60%2C1920%2C960&s=04a01e2349f452098573191454ade96b
+  logo_id: '25012618'
+  name: {html: Andy Mabbett - GLAM Wiki, text: Andy Mabbett - GLAM Wiki}
+  online_event: false
+  organizer_id: '6873583621'
+  privacy_setting: unlocked
+  resource_uri: https://www.eventbriteapi.com/v3/events/28572125998/
+  shareable: true
+  source: create_2.0
+  speaker: ' '
+  start: {local: '2016-10-21T10:00:00', timezone: Europe/Belgrade, utc: '2016-10-21T08:00:00Z'}
+  status: live
+  subcategory_id: null
+  tx_time_limit: 480
+  url: http://www.eventbrite.com/e/andy-mabbett-glam-wiki-tickets-28572125998?aff=ebapi
+  venue_id: '17010308'
+- &id001
+  capacity: 15
+  capacity_is_custom: false
+  category_id: null
+  changed: '2016-10-12T19:12:16Z'
+  created: '2016-10-12T19:12:13Z'
+  currency: USD
+  description: {html: null, text: null}
+  end: {local: '2016-10-21T14:55:00', timezone: Europe/Belgrade, utc: '2016-10-21T12:55:00Z'}
+  format_id: null
+  hide_end_date: false
+  hide_start_date: false
+  html: "<div class=\"event\">\n <div class=\"event-inner\">\n  <div class=\"icon\"\
+    >\n   <i class=\"fa fa-2x fa-clock-o\">\n   </i>\n   <span class=\"time\">\n \
+    \   14:00 - 14:55\n   </span>\n  </div>\n  <div class=\"description\">\n   <h3>\n\
+    \    #EcShlire Data Visualization\n   </h3>\n   <p>\n    The #EcShlir\xEB (#WalkFreely)\
+    \ app was co-developed/co-coded by Open Data Kosovo (ODK) and Girls Coding Kosova\
+    \ (GCK), with institutional support in gender issues from Kosovo Women\u2019s\
+    \ Network (KWN). This app is a civic-tech tool to fight against and raise awareness\
+    \ on sexual harassment in Kosovo all while maximizing youth engagement. One of\
+    \ the key features of the platform are the data that are received and shown inside\
+    \ the application. During this workshop we will be showing how to easily analyze\
+    \ the trends and how to make data easy readable. Also sharing the best practices\
+    \ of the tech used behind the platform. #EcShlire - How it started?, #EcShlire\
+    \ - Data Visualization, #EcShlire - Future Plans\n   </p>\n   <span class=\"name\"\
+    >\n    Kosovare Sahatqija\n   </span>\n   <div class=\"eventbrite-workshop\">\n\
+    \    <a href=\"https://www.eventbrite.com/e/kosovare-sahatqija-ecshlire-data-visualization-tickets-28562015758\"\
+    \ target=\"_blank\">\n     book your seat\n    </a>\n   </div>\n  </div>\n </div>\n\
+    </div>\n"
+  id: '28562015758'
+  is_locked: false
+  is_reserved_seating: false
+  is_series: false
+  is_series_parent: false
+  listed: true
+  locale: en_US
+  logo:
+    aspect_ratio: '2'
+    crop_mask:
+      height: 960
+      top_left: {x: 0, y: 60}
+      width: 1920
+    edge_color: '#b2b2b0'
+    edge_color_set: true
+    id: '24996481'
+    original: {height: 1081, url: 'https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F24996481%2F190126692399%2F1%2Foriginal.jpg?s=49cf51c835baea8c3f3357d1f1bd3fe6',
+      width: 1921}
+    url: https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F24996481%2F190126692399%2F1%2Foriginal.jpg?h=200&w=450&rect=0%2C60%2C1920%2C960&s=0c5f4262e8c80a6df7062e4dce0dd8e0
+  logo_id: '24996481'
+  name: {html: 'Kosovare Sahatqija - #EcShlire Data Visualization', text: 'Kosovare
+      Sahatqija - #EcShlire Data Visualization'}
+  online_event: false
+  organizer_id: '6873583621'
+  privacy_setting: unlocked
+  resource_uri: https://www.eventbriteapi.com/v3/events/28562015758/
+  shareable: true
+  source: create_2.0
+  speaker: ' '
+  start: {local: '2016-10-21T14:00:00', timezone: Europe/Belgrade, utc: '2016-10-21T12:00:00Z'}
+  status: live
+  subcategory_id: null
+  tx_time_limit: 480
+  url: http://www.eventbrite.com/e/kosovare-sahatqija-ecshlire-data-visualization-tickets-28562015758?aff=ebapi
+  venue_id: '17003392'
+- &id002
+  capacity: 10
+  capacity_is_custom: false
+  category_id: null
+  changed: '2016-10-13T17:29:09Z'
+  created: '2016-10-13T17:29:06Z'
+  currency: USD
+  description: {html: null, text: null}
+  end: {local: '2016-10-23T11:55:00', timezone: Europe/Berlin, utc: '2016-10-23T09:55:00Z'}
+  format_id: null
+  hide_end_date: false
+  hide_start_date: false
+  html: "<div class=\"event\">\n <div class=\"event-inner\">\n  <div class=\"icon\"\
+    >\n   <i class=\"fa fa-2x fa-clock-o\">\n   </i>\n   <span class=\"time\">\n \
+    \   11:00 - 11:55\n   </span>\n  </div>\n  <div class=\"description\">\n   <h3>\n\
+    \    A guide to the hardware and software that changes consumer experiences\n\
+    \   </h3>\n   <span class=\"name\">\n    Peter Corbett\n   </span>\n   <div class=\"\
+    eventbrite-workshop\">\n    <a href=\"https://www.eventbrite.com/e/peter-corbett-a-guide-to-the-hardware-and-software-that-changes-consumer-experiences-tickets-28585077737\"\
+    \ target=\"_blank\">\n     book your seat\n    </a>\n   </div>\n  </div>\n </div>\n\
+    </div>\n"
+  id: '28585077737'
+  is_locked: false
+  is_reserved_seating: false
+  is_series: false
+  is_series_parent: false
+  listed: true
+  locale: en_US
+  logo:
+    aspect_ratio: '2'
+    crop_mask:
+      height: 480
+      top_left: {x: 0, y: 30}
+      width: 960
+    edge_color: '#b3b2b0'
+    edge_color_set: true
+    id: '25029275'
+    original: {height: 540, url: 'https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F25029275%2F190126692399%2F1%2Foriginal.jpg?s=070385ba82c507c5c5476b19a2a66870',
+      width: 960}
+    url: https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F25029275%2F190126692399%2F1%2Foriginal.jpg?h=200&w=450&rect=0%2C30%2C960%2C480&s=5a356f3f9503b9265385cdc679df2353
+  logo_id: '25029275'
+  name: {html: Peter Corbett - A guide to the hardware and software that changes consumer
+      experiences, text: Peter Corbett - A guide to the hardware and software that
+      changes consumer experiences}
+  online_event: false
+  organizer_id: '6873583621'
+  privacy_setting: unlocked
+  resource_uri: https://www.eventbriteapi.com/v3/events/28585077737/
+  shareable: true
+  source: create_2.0
+  speaker: ' '
+  start: {local: '2016-10-23T11:00:00', timezone: Europe/Berlin, utc: '2016-10-23T09:00:00Z'}
+  status: live
+  subcategory_id: null
+  tx_time_limit: 480
+  url: http://www.eventbrite.com/e/peter-corbett-a-guide-to-the-hardware-and-software-that-changes-consumer-experiences-tickets-28585077737?aff=ebapi
+  venue_id: '17017401'
+- capacity: 15
+  capacity_is_custom: false
+  category_id: null
+  changed: '2016-10-12T19:13:53Z'
+  created: '2016-10-12T19:13:49Z'
+  currency: USD
+  description: {html: null, text: null}
+  end: {local: '2016-10-21T15:55:00', timezone: Europe/Belgrade, utc: '2016-10-21T13:55:00Z'}
+  format_id: null
+  hide_end_date: false
+  hide_start_date: false
+  id: '28562054875'
+  is_locked: false
+  is_reserved_seating: false
+  is_series: false
+  is_series_parent: false
+  listed: true
+  locale: en_US
+  logo:
+    aspect_ratio: '2'
+    crop_mask:
+      height: 960
+      top_left: {x: 0, y: 60}
+      width: 1920
+    edge_color: '#b2b2b0'
+    edge_color_set: true
+    id: '24996539'
+    original: {height: 1081, url: 'https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F24996539%2F190126692399%2F1%2Foriginal.jpg?s=197aa3356d7e38b507df195e373dd3d8',
+      width: 1921}
+    url: https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F24996539%2F190126692399%2F1%2Foriginal.jpg?h=200&w=450&rect=0%2C60%2C1920%2C960&s=e1ed1ed4726d424670dbe02ff463ac3a
+  logo_id: '24996539'
+  name: {html: Anxhela Hyseni &amp; Ajkuna Mujo - Say it in your language in Zanata,
+    text: Anxhela Hyseni & Ajkuna Mujo - Say it in your language in Zanata}
+  online_event: false
+  organizer_id: '6873583621'
+  privacy_setting: unlocked
+  resource_uri: https://www.eventbriteapi.com/v3/events/28562054875/
+  shareable: true
+  source: create_2.0
+  start: {local: '2016-10-21T15:00:00', timezone: Europe/Belgrade, utc: '2016-10-21T13:00:00Z'}
+  status: live
+  subcategory_id: null
+  tx_time_limit: 480
+  url: https://www.eventbrite.com/e/anxhela-hyseni-ajkuna-mujo-say-it-in-your-language-in-zanata-tickets-28562054875?aff=ebapi
+  venue_id: '17003392'
+- &id006
+  capacity: 10
+  capacity_is_custom: false
+  category_id: null
+  changed: '2016-10-13T17:30:39Z'
+  created: '2016-10-13T17:30:32Z'
+  currency: USD
+  description: {html: null, text: null}
+  end: {local: '2016-10-23T22:00:00', timezone: Europe/Berlin, utc: '2016-10-23T20:00:00Z'}
+  format_id: null
+  hide_end_date: false
+  hide_start_date: false
+  html: "<div class=\"event\">\n <div class=\"event-inner\">\n  <div class=\"icon\"\
+    >\n   <i class=\"fa fa-2x fa-clock-o\">\n   </i>\n   <span class=\"time\">\n \
+    \   (TBD)\n   </span>\n  </div>\n  <div class=\"description\">\n   <h3>\n    Electronics\
+    \ 101\n   </h3>\n   <span class=\"name\">\n    Dren Imeraj\n   </span>\n  </div>\n\
+    \ </div>\n</div>\n"
+  id: '28585104818'
+  is_locked: false
+  is_reserved_seating: false
+  is_series: false
+  is_series_parent: false
+  listed: true
+  locale: en_US
+  logo:
+    aspect_ratio: '2'
+    crop_mask:
+      height: 480
+      top_left: {x: 0, y: 30}
+      width: 960
+    edge_color: '#b3b2b0'
+    edge_color_set: true
+    id: '25029324'
+    original: {height: 540, url: 'https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F25029324%2F190126692399%2F1%2Foriginal.jpg?s=d493ee6d9f0e4d1feb31ea216ca9cfa6',
+      width: 960}
+    url: https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F25029324%2F190126692399%2F1%2Foriginal.jpg?h=200&w=450&rect=0%2C30%2C960%2C480&s=0604d7c161145b8d0b57e811a0c48197
+  logo_id: '25029324'
+  name: {html: Dren Imeraj  - Electronics 101, text: Dren Imeraj  - Electronics 101}
+  online_event: false
+  organizer_id: '6873583621'
+  privacy_setting: unlocked
+  resource_uri: https://www.eventbriteapi.com/v3/events/28585104818/
+  shareable: true
+  source: create_2.0
+  speaker: ' '
+  start: {local: '2016-10-23T19:00:00', timezone: Europe/Berlin, utc: '2016-10-23T17:00:00Z'}
+  status: live
+  subcategory_id: null
+  tx_time_limit: 480
+  url: https://www.eventbrite.com/e/dren-imeraj-electronics-101-tickets-28585104818?aff=ebapi
+  venue_id: '17017401'
+events2:
+  '#EcShlire Data Visualization': *id001
+  A guide to the hardware and software that changes consumer experiences: *id002
+  Conference Day: *id003
+  Creating a game with Godot: *id004
+  Designing in API in open sourced Asp.Net: *id005
+  Electronics 101: *id006
+  Functional Programming with Javascript and Ramda.js: *id007
+  GLAM Wiki: *id008
+  Install your Own-Mailbox on your RaspberryPi: *id009
+  Intro to Document Security with Gpg: *id010
+  WebRTC From Zero to Hero: *id011
+speakers:
+  Adam_Podolcsdak: {details: "<div class=\"container\">\n <div class=\"row\">\n  <div\
+      \ class=\"col-lg-8 col-lg-offset-2\" id=\"speaker-detail\">\n   <div class=\"\
+      row\">\n    <button class=\"mfp-close\" title=\"Close (Esc)\" type=\"button\"\
+      >\n     \xD7\n    </button>\n    <div class=\"col-md-4 col-lg-4\">\n     <img\
+      \ alt=\"\" class=\"img-responsive\" src=\"img/speakers/AdamPodolcsak.jpg\"/>\n\
+      \     <i class=\"fa fa-lg fa-globe\">\n     </i>\n     <a href=\"http://competterra.com/index.php?home_en\"\
+      \ style=\"width: 30px\" target=\"_blank\">\n      Site\n     </a>\n    </div>\n\
+      \    <div class=\"col-md-8 col-lg-8\">\n     <h2>\n      \xC1d\xE1m Podolcsd\xE1\
+      k\n     </h2>\n     <h3>\n     </h3>\n     <p>\n      Mr. \xC1d\xE1m Podolcsd\xE1\
+      k is highly experienced project manager, with training in project management\
+      \ a strong background in Computer Science, and experience of the application\
+      \ of modern management methods for IT lifecycle management. He is experienced\
+      \ in planning and management of large international projects. He has degrees\
+      \ and certificates, which are highly relevant to managing changes, re-engineering\
+      \ business processes, design and implement software applications for Public\
+      \ Administration, especially Land Registration: MSc Economist in Management\
+      \ and Leadership, BSc in Computer Science, BSc Engineering with specialisation\
+      \ in Land Surveying, Completed university training in Project Management Expert\
+      \ (Absolutorium), Certificate for Public Administration, Professional Land Administration\
+      \ Qualification. As a senior IT expert with strong Land Administration background\
+      \ he is highly skilled in IT strategy development, conceptualisation of GIS/LIS\
+      \ systems, definition of architecture, leading the formation of physical architecture,\
+      \ system analysis, data modelling, elaboration of user and system requirements;\
+      \ knowledge of GIS software applications. Competent personal computer user,\
+      \ word-processing, spreadsheets, project management tools.\n     </p>\n    </div>\n\
+      \   </div>\n  </div>\n </div>\n</div>", header: "<div class=\"speaker col-xs-12\
+      \ col-sm-4 col-md-3 col-lg-3\" id=\"Speaker_Adam_Podolcsdak\">\n <figure>\n\
+      \  <img alt=\"\" src=\"img/speakers/AdamPodolcsak.jpg\" style=\"width: 213px;\
+      \ height: 213px;\">\n   <figcaption>\n    <h4>\n     \xC1d\xE1m Podolcsd\xE1\
+      k\n    </h4>\n    <p>\n     Mr. \xC1d\xE1m Podolcsd\xE1k, is IT/GIS expert,\
+      \ with over than 20 years of..\n    </p>\n    <a class=\"speaker-detail\" href=\"\
+      speaker-detail.php?speakerId=64\">\n     <i class=\"fa fa-lg fa-external-link\"\
+      >\n     </i>\n    </a>\n    <div class=\"social\">\n     <a href=\"http://competterra.com/index.php?home_en\"\
+      \ target=\"_blank\">\n      <i class=\"fa fa-2x fa-globe\">\n      </i>\n  \
+      \   </a>\n    </div>\n   </figcaption>\n  </img>\n </figure>\n <h4>\n  \xC1\
+      d\xE1m Podolcsd\xE1k\n </h4>\n <span class=\"title hide\">\n </span>\n</div>\n"}
+  Ajkuna_Mujo: {details: "<div class=\"container\">\n <div class=\"row\">\n  <div\
+      \ class=\"col-lg-8 col-lg-offset-2\" id=\"speaker-detail\">\n   <div class=\"\
+      row\">\n    <button class=\"mfp-close\" title=\"Close (Esc)\" type=\"button\"\
+      >\n     \xD7\n    </button>\n    <div class=\"col-md-4 col-lg-4\">\n     <img\
+      \ alt=\"\" class=\"img-responsive\" src=\"img/speakers/AjkunaMujo.jpg\"/>\n\
+      \    </div>\n    <div class=\"col-md-8 col-lg-8\">\n     <h2>\n      Ajkuna\
+      \ Mujo\n     </h2>\n     <h3>\n     </h3>\n     <p>\n      Ajkuna Mujo is from\
+      \ Tirana, Albania. She studies Computer Science at Faculty of Natural Sciences\
+      \ (FSHN), University of Tirana. She was second best at a Godot competition.\
+      \ On April 2016, she joined Open Labs Hackerspace and learned about the importance\
+      \ of open source technology. There she met Fedora and started contributing with\
+      \ the translating team. Volunteering in OSCAL16 has been a one of the most beautiful\
+      \ experience for her. She has participated in the Girls Code Fest Marathon and\
+      \ the team (code eaters) she was in, was one of the winning teams. Ajkuna is\
+      \ member in a couple of organizations in her country and is working very hard\
+      \ to be one of the best developers. Her aim is to enforce woman power in open\
+      \ source.\n     </p>\n    </div>\n   </div>\n  </div>\n </div>\n</div>", header: "<div\
+      \ class=\"speaker col-xs-12 col-sm-4 col-md-3 col-lg-3\" id=\"Speaker_Ajkuna_Mujo\"\
+      >\n <figure>\n  <img alt=\"\" src=\"img/speakers/AjkunaMujo.jpg\" style=\"width:\
+      \ 213px; height: 213px;\">\n   <figcaption>\n    <h4>\n     Ajkuna Mujo\n  \
+      \  </h4>\n    <p>\n     Ajkuna is in her last year of computer science studies\
+      \ and she loves contributing for Fedora\n    </p>\n    <a class=\"speaker-detail\"\
+      \ href=\"speaker-detail.php?speakerId=45\">\n     <i class=\"fa fa-lg fa-external-link\"\
+      >\n     </i>\n    </a>\n    <div class=\"social\">\n    </div>\n   </figcaption>\n\
+      \  </img>\n </figure>\n <h4>\n  Ajkuna Mujo\n </h4>\n <span class=\"title hide\"\
+      >\n </span>\n</div>\n"}
+  Alket_Rexhepi: {details: "<div class=\"container\">\n <div class=\"row\">\n  <div\
+      \ class=\"col-lg-8 col-lg-offset-2\" id=\"speaker-detail\">\n   <div class=\"\
+      row\">\n    <button class=\"mfp-close\" title=\"Close (Esc)\" type=\"button\"\
+      >\n     \xD7\n    </button>\n    <div class=\"col-md-4 col-lg-4\">\n     <img\
+      \ alt=\"\" class=\"img-responsive\" src=\"img/speakers/AlketRexhepi.jpg\"/>\n\
+      \     <i class=\"fa fa-lg fa-twitter\">\n     </i>\n     <a href=\"http://twitter.com/alketii\"\
+      \ target=\"_blank\">\n      @alketii\n     </a>\n     <br/>\n    </div>\n  \
+      \  <div class=\"col-md-8 col-lg-8\">\n     <h2>\n      Alket Rexhepi\n     </h2>\n\
+      \     <h3>\n      Godot Engine\n     </h3>\n     <p>\n      Alket is a hobbyist\
+      \ game developer also involved with development of Godot Game Engine. He developed\
+      \ or took part in development of several libre games.\n     </p>\n    </div>\n\
+      \   </div>\n  </div>\n </div>\n</div>", header: "<div class=\"speaker col-xs-12\
+      \ col-sm-4 col-md-3 col-lg-3\" id=\"Speaker_Alket_Rexhepi\">\n <figure>\n  <img\
+      \ alt=\"\" src=\"img/speakers/AlketRexhepi.jpg\" style=\"width: 213px; height:\
+      \ 213px;\">\n   <figcaption>\n    <h4>\n     Alket Rexhepi\n    </h4>\n    <p>\n\
+      \     Alket is a hobbyist game developer also involved with development of Godot\
+      \ Game Engine. He..\n    </p>\n    <a class=\"speaker-detail\" href=\"speaker-detail.php?speakerId=37\"\
+      >\n     <i class=\"fa fa-lg fa-external-link\">\n     </i>\n    </a>\n    <div\
+      \ class=\"social\">\n     <a href=\"http://twitter.com/alketii\" target=\"_blank\"\
+      >\n      <i class=\"fa fa-2x fa-twitter-square\">\n      </i>\n     </a>\n \
+      \   </div>\n   </figcaption>\n  </img>\n </figure>\n <h4>\n  Alket Rexhepi\n\
+      \ </h4>\n <span class=\"title hide\">\n  Godot Engine\n </span>\n</div>\n"}
+  Altin_Ukshini: {details: "<div class=\"container\">\n <div class=\"row\">\n  <div\
+      \ class=\"col-lg-8 col-lg-offset-2\" id=\"speaker-detail\">\n   <div class=\"\
+      row\">\n    <button class=\"mfp-close\" title=\"Close (Esc)\" type=\"button\"\
+      >\n     \xD7\n    </button>\n    <div class=\"col-md-4 col-lg-4\">\n     <img\
+      \ alt=\"\" class=\"img-responsive\" src=\"img/speakers/AltinUkshini.jpg\"/>\n\
+      \     <i class=\"fa fa-lg fa-facebook-square\">\n     </i>\n     <a href=\"\
+      http://facebook.com/altinukshini\" target=\"_blank\">\n      altinukshini\n\
+      \     </a>\n     <br/>\n     <i class=\"fa fa-lg fa-twitter\">\n     </i>\n\
+      \     <a href=\"http://twitter.com/altinukshini\" target=\"_blank\">\n     \
+      \ @altinukshini\n     </a>\n     <br/>\n     <i class=\"fa fa-lg fa-globe\"\
+      >\n     </i>\n     <a href=\"http://altinukshini.wordpress.com\" style=\"width:\
+      \ 30px\" target=\"_blank\">\n      Site\n     </a>\n    </div>\n    <div class=\"\
+      col-md-8 col-lg-8\">\n     <h2>\n      Altin Ukshini\n     </h2>\n     <h3>\n\
+      \      FLOSSK\n     </h3>\n     <p>\n      Altin Ukshini (21 y/o), is a Free\
+      \ Libre and Open Source Software (FLOSS) and Open Knowledge activist since 2009.\
+      \ The last couple of years, he has been working on promoting, developing and\
+      \ translating Free and Open Source Software, alone and through FLOSSK.\n\nAs\
+      \ an active community guy, he has passionately co-founded and led tech projects\
+      \ and events in Kosovo and United States. Altin currently works at IPKO Telecom\
+      \ in Prishtina as a Linux System administrator, and leads and manages Prishtina\
+      \ Hackerspace - a local hackerspace/makerspace which he co-founded in 2014.\n\
+      \nHe ran FLOSSK (Free Libre and Open Source Software Kosova) as president of\
+      \ the executive board during 2014-2015. Altin was board member at STIKK (Kosovo\
+      \ Association of Information and Communication Technology), a Mozilla Representative,\
+      \ Senior Program Assistant at IPKO Foundation, and back at age 16 a Junior software\
+      \ developer at UNICEF Innovations Lab Kosovo.\n     </p>\n    </div>\n   </div>\n\
+      \  </div>\n </div>\n</div>", header: "<div class=\"speaker col-xs-12 col-sm-4\
+      \ col-md-3 col-lg-3\" id=\"Speaker_Altin_Ukshini\">\n <figure>\n  <img alt=\"\
+      \" src=\"img/speakers/AltinUkshini.jpg\" style=\"width: 213px; height: 213px;\"\
+      >\n   <figcaption>\n    <h4>\n     Altin Ukshini\n    </h4>\n    <p>\n     Altin\
+      \ is a FLOSS hacktivist and former board president of FLOSSK. He currently works\
+      \ as a linux..\n    </p>\n    <a class=\"speaker-detail\" href=\"speaker-detail.php?speakerId=35\"\
+      >\n     <i class=\"fa fa-lg fa-external-link\">\n     </i>\n    </a>\n    <div\
+      \ class=\"social\">\n     <a href=\"http://altinukshini.wordpress.com\" target=\"\
+      _blank\">\n      <i class=\"fa fa-2x fa-globe\">\n      </i>\n     </a>\n  \
+      \   <a href=\"http://facebook.com/altinukshini\" target=\"_blank\">\n      <i\
+      \ class=\"fa fa-2x fa-facebook-square\">\n      </i>\n     </a>\n     <a href=\"\
+      http://twitter.com/altinukshini\" target=\"_blank\">\n      <i class=\"fa fa-2x\
+      \ fa-twitter-square\">\n      </i>\n     </a>\n    </div>\n   </figcaption>\n\
+      \  </img>\n </figure>\n <h4>\n  Altin Ukshini\n </h4>\n <span class=\"title\
+      \ hide\">\n  FLOSSK\n </span>\n</div>\n"}
+  Andy_Mabbett: {details: "<div class=\"container\">\n <div class=\"row\">\n  <div\
+      \ class=\"col-lg-8 col-lg-offset-2\" id=\"speaker-detail\">\n   <div class=\"\
+      row\">\n    <button class=\"mfp-close\" title=\"Close (Esc)\" type=\"button\"\
+      >\n     \xD7\n    </button>\n    <div class=\"col-md-4 col-lg-4\">\n     <img\
+      \ alt=\"\" class=\"img-responsive\" src=\"img/speakers/AndyMabbett.jpg\"/>\n\
+      \     <i class=\"fa fa-lg fa-twitter\">\n     </i>\n     <a href=\"http://twitter.com/pigsonthewing\"\
+      \ target=\"_blank\">\n      @pigsonthewing\n     </a>\n     <br/>\n     <i class=\"\
+      fa fa-lg fa-globe\">\n     </i>\n     <a href=\"http://pigsonthewing.org.uk\"\
+      \ style=\"width: 30px\" target=\"_blank\">\n      Site\n     </a>\n    </div>\n\
+      \    <div class=\"col-md-8 col-lg-8\">\n     <h2>\n      Andy Mabbett\n    \
+      \ </h2>\n     <h3>\n     </h3>\n     <p>\n      Andy Mabbett, FRSA,  has been\
+      \ a volunteer Wikipedia editor since 2003 and is also active on other Wikimedia\
+      \ projects, such as Wikidata. He provides professional consultancy and training\
+      \ to organisations interested in working with the Wikimedia community. He has\
+      \ given talks about Wikimedia projects on five continents. He has worked as\
+      \ Wikimedian in Residence at a number of art galleries and museums, with the\
+      \ Royal Society of Chemistry, and currently at ORCID.  He is also the author\
+      \ of books about Pink Floyd.\n     </p>\n    </div>\n   </div>\n  </div>\n </div>\n\
+      </div>", header: "<div class=\"speaker col-xs-12 col-sm-4 col-md-3 col-lg-3\"\
+      \ id=\"Speaker_Andy_Mabbett\">\n <figure>\n  <img alt=\"\" src=\"img/speakers/AndyMabbett.jpg\"\
+      \ style=\"width: 213px; height: 213px;\">\n   <figcaption>\n    <h4>\n     Andy\
+      \ Mabbett\n    </h4>\n    <p>\n     Serial Wikimedian in Residence, at a number\
+      \ of art galleries and museums, and with the Royal..\n    </p>\n    <a class=\"\
+      speaker-detail\" href=\"speaker-detail.php?speakerId=59\">\n     <i class=\"\
+      fa fa-lg fa-external-link\">\n     </i>\n    </a>\n    <div class=\"social\"\
+      >\n     <a href=\"http://pigsonthewing.org.uk\" target=\"_blank\">\n      <i\
+      \ class=\"fa fa-2x fa-globe\">\n      </i>\n     </a>\n     <a href=\"http://twitter.com/pigsonthewing\"\
+      \ target=\"_blank\">\n      <i class=\"fa fa-2x fa-twitter-square\">\n     \
+      \ </i>\n     </a>\n    </div>\n   </figcaption>\n  </img>\n </figure>\n <h4>\n\
+      \  Andy Mabbett\n </h4>\n <span class=\"title hide\">\n </span>\n</div>\n"}
+  Anxhela_Hyseni: {details: "<div class=\"container\">\n <div class=\"row\">\n  <div\
+      \ class=\"col-lg-8 col-lg-offset-2\" id=\"speaker-detail\">\n   <div class=\"\
+      row\">\n    <button class=\"mfp-close\" title=\"Close (Esc)\" type=\"button\"\
+      >\n     \xD7\n    </button>\n    <div class=\"col-md-4 col-lg-4\">\n     <img\
+      \ alt=\"\" class=\"img-responsive\" src=\"img/speakers/AnxhelaHyseni.jpg\"/>\n\
+      \    </div>\n    <div class=\"col-md-8 col-lg-8\">\n     <h2>\n      Anxhela\
+      \ Hyseni\n     </h2>\n     <h3>\n      Open Labs Hackerspace\n     </h3>\n \
+      \    <p>\n      Anxhela Hyseni (20 years old) was born in Tirana, Albania, in\
+      \ 1996. She is in the last year of her Bachelor studies for computer science,\
+      \ in the University of Tirana.\nShe is a part time gamer, in March she had a\
+      \ training for creating games in GoDot, where she had great results. One month\
+      \ later, she joined Open Labs Hackerspace and started contributing in Fedora,\
+      \ since then her heart felt for open source technology. Volunteering in OSCAL\
+      \ 16 has been a great experience for her. She has attended the Girls Code Fest\
+      \ Marathon and the team she was in, was one of the winning teams. Anxhela is\
+      \ on her way of becoming a full stack developer and doing her best while being\
+      \ a member in a couple of organizations in her country. She strongly believes\
+      \ in her power as a woman and in open source as well.\n     </p>\n    </div>\n\
+      \   </div>\n  </div>\n </div>\n</div>", header: "<div class=\"speaker col-xs-12\
+      \ col-sm-4 col-md-3 col-lg-3\" id=\"Speaker_Anxhela_Hyseni\">\n <figure>\n \
+      \ <img alt=\"\" src=\"img/speakers/AnxhelaHyseni.jpg\" style=\"width: 213px;\
+      \ height: 213px;\">\n   <figcaption>\n    <h4>\n     Anxhela Hyseni\n    </h4>\n\
+      \    <p>\n     She is studying computer science. A contributor at Fedora and\
+      \ she believes in the power of open..\n    </p>\n    <a class=\"speaker-detail\"\
+      \ href=\"speaker-detail.php?speakerId=46\">\n     <i class=\"fa fa-lg fa-external-link\"\
+      >\n     </i>\n    </a>\n    <div class=\"social\">\n    </div>\n   </figcaption>\n\
+      \  </img>\n </figure>\n <h4>\n  Anxhela Hyseni\n </h4>\n <span class=\"title\
+      \ hide\">\n  Open Labs Hackerspace\n </span>\n</div>\n"}
+  Anxhelo_Lushka: {details: "<div class=\"container\">\n <div class=\"row\">\n  <div\
+      \ class=\"col-lg-8 col-lg-offset-2\" id=\"speaker-detail\">\n   <div class=\"\
+      row\">\n    <button class=\"mfp-close\" title=\"Close (Esc)\" type=\"button\"\
+      >\n     \xD7\n    </button>\n    <div class=\"col-md-4 col-lg-4\">\n     <img\
+      \ alt=\"\" class=\"img-responsive\" src=\"img/speakers/AnxheloLushka.jpg\"/>\n\
+      \    </div>\n    <div class=\"col-md-8 col-lg-8\">\n     <h2>\n      Anxhelo\
+      \ Lushka\n     </h2>\n     <h3>\n      Open Labs Hackerspace\n     </h3>\n \
+      \    <p>\n      Anxhelo is a 19 year old student from Albania, studying Computer\
+      \ Science Engineering in Tirana. He is a design passionate and a contributor\
+      \ in several open source projects, including Fedora, LibreOffice and etc. He\
+      \ enjoys spending his free time by working in projects, hanging out with friends\
+      \ and learning new things.\n     </p>\n    </div>\n   </div>\n  </div>\n </div>\n\
+      </div>", header: "<div class=\"speaker col-xs-12 col-sm-4 col-md-3 col-lg-3\"\
+      \ id=\"Speaker_Anxhelo_Lushka\">\n <figure>\n  <img alt=\"\" src=\"img/speakers/AnxheloLushka.jpg\"\
+      \ style=\"width: 213px; height: 213px;\">\n   <figcaption>\n    <h4>\n     Anxhelo\
+      \ Lushka\n    </h4>\n    <p>\n     Anxhelo is a 19 year old student from Albania.\
+      \ He is a design passionate and a contributor in..\n    </p>\n    <a class=\"\
+      speaker-detail\" href=\"speaker-detail.php?speakerId=58\">\n     <i class=\"\
+      fa fa-lg fa-external-link\">\n     </i>\n    </a>\n    <div class=\"social\"\
+      >\n    </div>\n   </figcaption>\n  </img>\n </figure>\n <h4>\n  Anxhelo Lushka\n\
+      \ </h4>\n <span class=\"title hide\">\n  Open Labs Hackerspace\n </span>\n</div>\n"}
+  Bashkim_Shala: {details: "<div class=\"container\">\n <div class=\"row\">\n  <div\
+      \ class=\"col-lg-8 col-lg-offset-2\" id=\"speaker-detail\">\n   <div class=\"\
+      row\">\n    <button class=\"mfp-close\" title=\"Close (Esc)\" type=\"button\"\
+      >\n     \xD7\n    </button>\n    <div class=\"col-md-4 col-lg-4\">\n     <img\
+      \ alt=\"\" class=\"img-responsive\" src=\"img/speakers/BashkimShala.jpg\"/>\n\
+      \    </div>\n    <div class=\"col-md-8 col-lg-8\">\n     <h2>\n      Bashkim\
+      \ Shala\n     </h2>\n     <h3>\n     </h3>\n     <p>\n      Bashkim Shala has\
+      \ bachelor degree on \"Computers Science\" UP/FSHMN. He is about to graduate\
+      \ in master degree in AAB university. He has a long experience on Linux, Php/MySql.\
+      \ He has two certifications on Mikrotik. Since march 2015 he works as web scraper\
+      \ at \"FirmaGraphix\" company, where he has gained lot of experience on Python\
+      \ and Perl.\n     </p>\n    </div>\n   </div>\n  </div>\n </div>\n</div>", header: "<div\
+      \ class=\"speaker col-xs-12 col-sm-4 col-md-3 col-lg-3\" id=\"Speaker_Bashkim_Shala\"\
+      >\n <figure>\n  <img alt=\"\" src=\"img/speakers/BashkimShala.jpg\" style=\"\
+      width: 213px; height: 213px;\">\n   <figcaption>\n    <h4>\n     Bashkim Shala\n\
+      \    </h4>\n    <p>\n     A coder who is passionate after open source.\n   \
+      \ </p>\n    <a class=\"speaker-detail\" href=\"speaker-detail.php?speakerId=61\"\
+      >\n     <i class=\"fa fa-lg fa-external-link\">\n     </i>\n    </a>\n    <div\
+      \ class=\"social\">\n    </div>\n   </figcaption>\n  </img>\n </figure>\n <h4>\n\
+      \  Bashkim Shala\n </h4>\n <span class=\"title hide\">\n </span>\n</div>\n"}
+  Besfort_Guri: {details: "<div class=\"container\">\n <div class=\"row\">\n  <div\
+      \ class=\"col-lg-8 col-lg-offset-2\" id=\"speaker-detail\">\n   <div class=\"\
+      row\">\n    <button class=\"mfp-close\" title=\"Close (Esc)\" type=\"button\"\
+      >\n     \xD7\n    </button>\n    <div class=\"col-md-4 col-lg-4\">\n     <img\
+      \ alt=\"\" class=\"img-responsive\" src=\"img/speakers/DSC05696.JPG\"/>\n  \
+      \  </div>\n    <div class=\"col-md-8 col-lg-8\">\n     <h2>\n      Besfort Guri\n\
+      \     </h2>\n     <h3>\n      FLOSSK\n     </h3>\n     <p>\n      Besfort is\
+      \ founder and CEO of OpS-IN. OpS-IN is startup company focused in Spatial information\
+      \ and databases including GIS solutions. He was software developer in different\
+      \ companies. He is member of FLOSSK &amp; HOTOSM. Open Data Advocate.\n    \
+      \ </p>\n    </div>\n   </div>\n  </div>\n </div>\n</div>", header: "<div class=\"\
+      speaker col-xs-12 col-sm-4 col-md-3 col-lg-3\" id=\"Speaker_Besfort_Guri\">\n\
+      \ <figure>\n  <img alt=\"\" src=\"img/speakers/DSC05696.JPG\" style=\"width:\
+      \ 213px; height: 213px;\">\n   <figcaption>\n    <h4>\n     Besfort Guri\n \
+      \   </h4>\n    <p>\n     Besfort is founder and CEO of OpS-IN. He is member\
+      \ of FLOSSK &amp; HOTOSM. Open Data Advocate.\n    </p>\n    <a class=\"speaker-detail\"\
+      \ href=\"speaker-detail.php?speakerId=34\">\n     <i class=\"fa fa-lg fa-external-link\"\
+      >\n     </i>\n    </a>\n    <div class=\"social\">\n    </div>\n   </figcaption>\n\
+      \  </img>\n </figure>\n <h4>\n  Besfort Guri\n </h4>\n <span class=\"title hide\"\
+      >\n  FLOSSK\n </span>\n</div>\n"}
+  Betim_Drenica: {details: "<div class=\"container\">\n <div class=\"row\">\n  <div\
+      \ class=\"col-lg-8 col-lg-offset-2\" id=\"speaker-detail\">\n   <div class=\"\
+      row\">\n    <button class=\"mfp-close\" title=\"Close (Esc)\" type=\"button\"\
+      >\n     \xD7\n    </button>\n    <div class=\"col-md-4 col-lg-4\">\n     <img\
+      \ alt=\"\" class=\"img-responsive\" src=\"img/speakers/BetimDrenica.jpg\"/>\n\
+      \     <i class=\"fa fa-lg fa-twitter\">\n     </i>\n     <a href=\"http://twitter.com/betimdrenica\"\
+      \ target=\"_blank\">\n      @betimdrenica\n     </a>\n     <br/>\n     <i class=\"\
+      fa fa-lg fa-globe\">\n     </i>\n     <a href=\"http://betimdrenica.com\" style=\"\
+      width: 30px\" target=\"_blank\">\n      Site\n     </a>\n    </div>\n    <div\
+      \ class=\"col-md-8 col-lg-8\">\n     <h2>\n      Betim Drenica\n     </h2>\n\
+      \     <h3>\n     </h3>\n     <p>\n      Betim has more than 12 years experience\
+      \ as software developer. He is focused in software architectures with a dedication\
+      \ in cloud and mobile.\n     </p>\n    </div>\n   </div>\n  </div>\n </div>\n\
+      </div>", header: "<div class=\"speaker col-xs-12 col-sm-4 col-md-3 col-lg-3\"\
+      \ id=\"Speaker_Betim_Drenica\">\n <figure>\n  <img alt=\"\" src=\"img/speakers/BetimDrenica.jpg\"\
+      \ style=\"width: 213px; height: 213px;\">\n   <figcaption>\n    <h4>\n     Betim\
+      \ Drenica\n    </h4>\n    <p>\n     Betim is a software architect with experience\
+      \ in cloud and mobile.\n    </p>\n    <a class=\"speaker-detail\" href=\"speaker-detail.php?speakerId=31\"\
+      >\n     <i class=\"fa fa-lg fa-external-link\">\n     </i>\n    </a>\n    <div\
+      \ class=\"social\">\n     <a href=\"http://betimdrenica.com\" target=\"_blank\"\
+      >\n      <i class=\"fa fa-2x fa-globe\">\n      </i>\n     </a>\n     <a href=\"\
+      http://twitter.com/betimdrenica\" target=\"_blank\">\n      <i class=\"fa fa-2x\
+      \ fa-twitter-square\">\n      </i>\n     </a>\n    </div>\n   </figcaption>\n\
+      \  </img>\n </figure>\n <h4>\n  Betim Drenica\n </h4>\n <span class=\"title\
+      \ hide\">\n </span>\n</div>\n"}
+  Bhagyashree_Padalkar: {details: "<div class=\"container\">\n <div class=\"row\"\
+      >\n  <div class=\"col-lg-8 col-lg-offset-2\" id=\"speaker-detail\">\n   <div\
+      \ class=\"row\">\n    <button class=\"mfp-close\" title=\"Close (Esc)\" type=\"\
+      button\">\n     \xD7\n    </button>\n    <div class=\"col-md-4 col-lg-4\">\n\
+      \     <img alt=\"\" class=\"img-responsive\" src=\"img/speakers/BhagyashreePadalkar.jpg\"\
+      />\n     <i class=\"fa fa-lg fa-twitter\">\n     </i>\n     <a href=\"http://twitter.com/BeePadalkar\"\
+      \ target=\"_blank\">\n      @BeePadalkar\n     </a>\n     <br/>\n     <i class=\"\
+      fa fa-lg fa-globe\">\n     </i>\n     <a href=\"http://bee2502.github.io/\"\
+      \ style=\"width: 30px\" target=\"_blank\">\n      Site\n     </a>\n    </div>\n\
+      \    <div class=\"col-md-8 col-lg-8\">\n     <h2>\n      Bhagyashree Padalkar\n\
+      \     </h2>\n     <h3>\n      Fedora\n     </h3>\n     <p>\n      Bhagyashree(or\
+      \ Bee) is a recent graduate of the Indian Institute of Technology, Guwahati,\
+      \ India.She currently works as a researcher in decision making at Max Planck\
+      \ Institute, Berlin. Her primary research interests lie in understanding human\
+      \ behavior in information-rich online social environments. Her research draws\
+      \ heavily from Machine Learning and Natural Language Processing techniques.\
+      \ At Fedora, she works closely with the Community Operations team mostly contributing\
+      \ on metrics-related tasks. She is also a Google Summer of Code 2016 Mentor\
+      \ for Fedora, actively involved with the Fedora Women, Diversity Team and is\
+      \ a Marathi translator for Fedora. She also helped organize the 2015 Nov/Dec\
+      \ Fedora Election Cycle and is working towards being a Fedora Ambassador. She\
+      \ goes by bee2502 in IRC.\n     </p>\n    </div>\n   </div>\n  </div>\n </div>\n\
+      </div>", header: "<div class=\"speaker col-xs-12 col-sm-4 col-md-3 col-lg-3\"\
+      \ id=\"Speaker_Bhagyashree_Padalkar\">\n <figure>\n  <img alt=\"\" src=\"img/speakers/BhagyashreePadalkar.jpg\"\
+      \ style=\"width: 213px; height: 213px;\">\n   <figcaption>\n    <h4>\n     Bhagyashree\
+      \ Padalkar\n    </h4>\n    <p>\n     When she is not daydreaming, Bee contributes\
+      \ to Fedora CommOps and Diversity on metrics, does..\n    </p>\n    <a class=\"\
+      speaker-detail\" href=\"speaker-detail.php?speakerId=44\">\n     <i class=\"\
+      fa fa-lg fa-external-link\">\n     </i>\n    </a>\n    <div class=\"social\"\
+      >\n     <a href=\"http://bee2502.github.io/\" target=\"_blank\">\n      <i class=\"\
+      fa fa-2x fa-globe\">\n      </i>\n     </a>\n     <a href=\"http://twitter.com/BeePadalkar\"\
+      \ target=\"_blank\">\n      <i class=\"fa fa-2x fa-twitter-square\">\n     \
+      \ </i>\n     </a>\n    </div>\n   </figcaption>\n  </img>\n </figure>\n <h4>\n\
+      \  Bhagyashree Padalkar\n </h4>\n <span class=\"title hide\">\n  Fedora\n </span>\n\
+      </div>\n"}
+  Blinera_Meta: {details: "<div class=\"container\">\n <div class=\"row\">\n  <div\
+      \ class=\"col-lg-8 col-lg-offset-2\" id=\"speaker-detail\">\n   <div class=\"\
+      row\">\n    <button class=\"mfp-close\" title=\"Close (Esc)\" type=\"button\"\
+      >\n     \xD7\n    </button>\n    <div class=\"col-md-4 col-lg-4\">\n     <img\
+      \ alt=\"\" class=\"img-responsive\" src=\"img/speakers/BlineraMeta.jpg\"/>\n\
+      \     <i class=\"fa fa-lg fa-globe\">\n     </i>\n     <a href=\"http://opendatakosovo.org\"\
+      \ style=\"width: 30px\" target=\"_blank\">\n      Site\n     </a>\n    </div>\n\
+      \    <div class=\"col-md-8 col-lg-8\">\n     <h2>\n      Blinera Meta\n    \
+      \ </h2>\n     <h3>\n      Open Data Kosovo\n     </h3>\n     <p>\n      Blinera\
+      \ Meta is currently working as Deputy Director at Open Data Kosovo. She studied\
+      \ Public Policy and Management in Rochester Institute of Technology, Kosovo\
+      \ and International Relations in University of Georgia, USA. In her previous\
+      \ work she was been tackling issues of development, dealing closely with LGBT\
+      \ rights,  environmental protection and data collection, and promoting access\
+      \ to justice. She is excited about transformation through technology, travel,\
+      \ and beautiful eating.\n     </p>\n    </div>\n   </div>\n  </div>\n </div>\n\
+      </div>", header: "<div class=\"speaker col-xs-12 col-sm-4 col-md-3 col-lg-3\"\
+      \ id=\"Speaker_Blinera_Meta\">\n <figure>\n  <img alt=\"\" src=\"img/speakers/BlineraMeta.jpg\"\
+      \ style=\"width: 213px; height: 213px;\">\n   <figcaption>\n    <h4>\n     Blinera\
+      \ Meta\n    </h4>\n    <p>\n     Deputy Director at Open Data Kosovo. Interested\
+      \ in development and innovation - keen on a..\n    </p>\n    <a class=\"speaker-detail\"\
+      \ href=\"speaker-detail.php?speakerId=28\">\n     <i class=\"fa fa-lg fa-external-link\"\
+      >\n     </i>\n    </a>\n    <div class=\"social\">\n     <a href=\"http://opendatakosovo.org\"\
+      \ target=\"_blank\">\n      <i class=\"fa fa-2x fa-globe\">\n      </i>\n  \
+      \   </a>\n    </div>\n   </figcaption>\n  </img>\n </figure>\n <h4>\n  Blinera\
+      \ Meta\n </h4>\n <span class=\"title hide\">\n  Open Data Kosovo\n </span>\n\
+      </div>\n"}
+  Chris_Lamb: {details: "<div class=\"container\">\n <div class=\"row\">\n  <div class=\"\
+      col-lg-8 col-lg-offset-2\" id=\"speaker-detail\">\n   <div class=\"row\">\n\
+      \    <button class=\"mfp-close\" title=\"Close (Esc)\" type=\"button\">\n  \
+      \   \xD7\n    </button>\n    <div class=\"col-md-4 col-lg-4\">\n     <img alt=\"\
+      \" class=\"img-responsive\" src=\"img/speakers/ChrisLamb.jpg\"/>\n     <i class=\"\
+      fa fa-lg fa-twitter\">\n     </i>\n     <a href=\"http://twitter.com/lolamby\"\
+      \ target=\"_blank\">\n      @lolamby\n     </a>\n     <br/>\n     <i class=\"\
+      fa fa-lg fa-globe\">\n     </i>\n     <a href=\"https://chris-lamb.co.uk/\"\
+      \ style=\"width: 30px\" target=\"_blank\">\n      Site\n     </a>\n    </div>\n\
+      \    <div class=\"col-md-8 col-lg-8\">\n     <h2>\n      Chris Lamb\n     </h2>\n\
+      \     <h3>\n     </h3>\n     <p>\n      Chris is 30-year-old freelance software\
+      \ engineer. He is passionate about creating things using software and is the\
+      \ author of dozens of open-source projects and contributor to 100s of others.\
+      \ Chris has been been an official Debian Developer since 2008. He is an avid\
+      \ triathlete, cellist and lutenist, regularly performing in public concerts.\n\
+      \     </p>\n    </div>\n   </div>\n  </div>\n </div>\n</div>", header: "<div\
+      \ class=\"speaker col-xs-12 col-sm-4 col-md-3 col-lg-3\" id=\"Speaker_Chris_Lamb\"\
+      >\n <figure>\n  <img alt=\"\" src=\"img/speakers/ChrisLamb.jpg\" style=\"width:\
+      \ 213px; height: 213px;\">\n   <figcaption>\n    <h4>\n     Chris Lamb\n   \
+      \ </h4>\n    <p>\n     Debian Develope, freelance programmer.\n    </p>\n  \
+      \  <a class=\"speaker-detail\" href=\"speaker-detail.php?speakerId=47\">\n \
+      \    <i class=\"fa fa-lg fa-external-link\">\n     </i>\n    </a>\n    <div\
+      \ class=\"social\">\n     <a href=\"https://chris-lamb.co.uk/\" target=\"_blank\"\
+      >\n      <i class=\"fa fa-2x fa-globe\">\n      </i>\n     </a>\n     <a href=\"\
+      http://twitter.com/lolamby\" target=\"_blank\">\n      <i class=\"fa fa-2x fa-twitter-square\"\
+      >\n      </i>\n     </a>\n    </div>\n   </figcaption>\n  </img>\n </figure>\n\
+      \ <h4>\n  Chris Lamb\n </h4>\n <span class=\"title hide\">\n </span>\n</div>\n"}
+  Chris_Ward: {details: "<div class=\"container\">\n <div class=\"row\">\n  <div class=\"\
+      col-lg-8 col-lg-offset-2\" id=\"speaker-detail\">\n   <div class=\"row\">\n\
+      \    <button class=\"mfp-close\" title=\"Close (Esc)\" type=\"button\">\n  \
+      \   \xD7\n    </button>\n    <div class=\"col-md-4 col-lg-4\">\n     <img alt=\"\
+      \" class=\"img-responsive\" src=\"img/speakers/ChrisWard.jpg\"/>\n     <i class=\"\
+      fa fa-lg fa-twitter\">\n     </i>\n     <a href=\"http://twitter.com/chrischinch\"\
+      \ target=\"_blank\">\n      @chrischinch\n     </a>\n     <br/>\n     <i class=\"\
+      fa fa-lg fa-globe\">\n     </i>\n     <a href=\"http://gregariousmammal.com\"\
+      \ style=\"width: 30px\" target=\"_blank\">\n      Site\n     </a>\n    </div>\n\
+      \    <div class=\"col-md-8 col-lg-8\">\n     <h2>\n      Chris Ward\n     </h2>\n\
+      \     <h3>\n     </h3>\n     <p>\n      Chris is a Developer, Writer, and full\
+      \ of crazy ideas. After 15 years as a developer he realized that my skills lie\
+      \ in helping others understand technical subjects. He achieves this through\
+      \ technical writing, blogging, networking and educating people through presentations\
+      \ and workshops.\n     </p>\n    </div>\n   </div>\n  </div>\n </div>\n</div>",
+    header: "<div class=\"speaker col-xs-12 col-sm-4 col-md-3 col-lg-3\" id=\"Speaker_Chris_Ward\"\
+      >\n <figure>\n  <img alt=\"\" src=\"img/speakers/ChrisWard.jpg\" style=\"width:\
+      \ 213px; height: 213px;\">\n   <figcaption>\n    <h4>\n     Chris Ward\n   \
+      \ </h4>\n    <p>\n     Explains cool tech to the World. Technical Writer and\
+      \ blogger. He has crazy projects in progress..\n    </p>\n    <a class=\"speaker-detail\"\
+      \ href=\"speaker-detail.php?speakerId=36\">\n     <i class=\"fa fa-lg fa-external-link\"\
+      >\n     </i>\n    </a>\n    <div class=\"social\">\n     <a href=\"http://gregariousmammal.com\"\
+      \ target=\"_blank\">\n      <i class=\"fa fa-2x fa-globe\">\n      </i>\n  \
+      \   </a>\n     <a href=\"http://twitter.com/chrischinch\" target=\"_blank\"\
+      >\n      <i class=\"fa fa-2x fa-twitter-square\">\n      </i>\n     </a>\n \
+      \   </div>\n   </figcaption>\n  </img>\n </figure>\n <h4>\n  Chris Ward\n </h4>\n\
+      \ <span class=\"title hide\">\n </span>\n</div>\n"}
+  Christopher_Guess: {details: "<div class=\"container\">\n <div class=\"row\">\n\
+      \  <div class=\"col-lg-8 col-lg-offset-2\" id=\"speaker-detail\">\n   <div class=\"\
+      row\">\n    <button class=\"mfp-close\" title=\"Close (Esc)\" type=\"button\"\
+      >\n     \xD7\n    </button>\n    <div class=\"col-md-4 col-lg-4\">\n     <img\
+      \ alt=\"\" class=\"img-responsive\" src=\"img/speakers/ChristopherGuess.jpg\"\
+      />\n     <i class=\"fa fa-lg fa-twitter\">\n     </i>\n     <a href=\"http://twitter.com/cguess\"\
+      \ target=\"_blank\">\n      @cguess\n     </a>\n     <br/>\n    </div>\n   \
+      \ <div class=\"col-md-8 col-lg-8\">\n     <h2>\n      Christopher Guess\n  \
+      \   </h2>\n     <h3>\n      International Center For Journalists / Organized\
+      \ Crime and Corruption Reporting Project\n     </h3>\n     <p>\n      Christopher\
+      \ Guess is a Knight International Journalism Fellow working with the Organized\
+      \ Crime and Corruption Reporting Project in Sarajevo. Originally from the United\
+      \ States, he has been based in Bosnia and Herzegovina for nearly two years working\
+      \ on open source and free technology solutions for journalism. He has previously\
+      \ worked on technology for low income citizens as a Blue Ridge Labs Fellow.\
+      \  As a specialist in mobile development Christopher cofounded a number of tech\
+      \ startups in the US around disaster relief communications and transit ticketing.\
+      \ Aside from a technologist, Christopher has been a practicing writer and photojournalist\
+      \ covering such events as United States elections and African poverty.\n   \
+      \  </p>\n    </div>\n   </div>\n  </div>\n </div>\n</div>", header: "<div class=\"\
+      speaker col-xs-12 col-sm-4 col-md-3 col-lg-3\" id=\"Speaker_Christopher_Guess\"\
+      >\n <figure>\n  <img alt=\"\" src=\"img/speakers/ChristopherGuess.jpg\" style=\"\
+      width: 213px; height: 213px;\">\n   <figcaption>\n    <h4>\n     Christopher\
+      \ Guess\n    </h4>\n    <p>\n     Christopher is a Knight International Journalism\
+      \ Fellow with OCCRP, based in Sarajevo working on..\n    </p>\n    <a class=\"\
+      speaker-detail\" href=\"speaker-detail.php?speakerId=57\">\n     <i class=\"\
+      fa fa-lg fa-external-link\">\n     </i>\n    </a>\n    <div class=\"social\"\
+      >\n     <a href=\"http://twitter.com/cguess\" target=\"_blank\">\n      <i class=\"\
+      fa fa-2x fa-twitter-square\">\n      </i>\n     </a>\n    </div>\n   </figcaption>\n\
+      \  </img>\n </figure>\n <h4>\n  Christopher Guess\n </h4>\n <span class=\"title\
+      \ hide\">\n  International Center For Journalists / Organized Crime and Corruption\
+      \ Reporting Project\n </span>\n</div>\n"}
+  Dashamir_Hoxha: {details: "<div class=\"container\">\n <div class=\"row\">\n  <div\
+      \ class=\"col-lg-8 col-lg-offset-2\" id=\"speaker-detail\">\n   <div class=\"\
+      row\">\n    <button class=\"mfp-close\" title=\"Close (Esc)\" type=\"button\"\
+      >\n     \xD7\n    </button>\n    <div class=\"col-md-4 col-lg-4\">\n     <img\
+      \ alt=\"\" class=\"img-responsive\" src=\"img/speakers/DashamirHoxha.jpg\"/>\n\
+      \     <i class=\"fa fa-lg fa-globe\">\n     </i>\n     <a href=\"http://dashohoxha.fs.al/\"\
+      \ style=\"width: 30px\" target=\"_blank\">\n      Site\n     </a>\n    </div>\n\
+      \    <div class=\"col-md-8 col-lg-8\">\n     <h2>\n      Dashamir Hoxha\n  \
+      \   </h2>\n     <h3>\n      FLOSS\n     </h3>\n     <p>\n      Computer Engineer\
+      \ with experience in software engineering, web application development, Linux\
+      \ and network configuration/administration, configuration management, documentation\
+      \ writing, and more.\n     </p>\n    </div>\n   </div>\n  </div>\n </div>\n\
+      </div>", header: "<div class=\"speaker col-xs-12 col-sm-4 col-md-3 col-lg-3\"\
+      \ id=\"Speaker_Dashamir_Hoxha\">\n <figure>\n  <img alt=\"\" src=\"img/speakers/DashamirHoxha.jpg\"\
+      \ style=\"width: 213px; height: 213px;\">\n   <figcaption>\n    <h4>\n     Dashamir\
+      \ Hoxha\n    </h4>\n    <p>\n     Computer Engineer with experience in software\
+      \ engineering, web development, linux..\n    </p>\n    <a class=\"speaker-detail\"\
+      \ href=\"speaker-detail.php?speakerId=30\">\n     <i class=\"fa fa-lg fa-external-link\"\
+      >\n     </i>\n    </a>\n    <div class=\"social\">\n     <a href=\"http://dashohoxha.fs.al/\"\
+      \ target=\"_blank\">\n      <i class=\"fa fa-2x fa-globe\">\n      </i>\n  \
+      \   </a>\n    </div>\n   </figcaption>\n  </img>\n </figure>\n <h4>\n  Dashamir\
+      \ Hoxha\n </h4>\n <span class=\"title hide\">\n  FLOSS\n </span>\n</div>\n"}
+  Dimitar_Poposki: {details: "<div class=\"container\">\n <div class=\"row\">\n  <div\
+      \ class=\"col-lg-8 col-lg-offset-2\" id=\"speaker-detail\">\n   <div class=\"\
+      row\">\n    <button class=\"mfp-close\" title=\"Close (Esc)\" type=\"button\"\
+      >\n     \xD7\n    </button>\n    <div class=\"col-md-4 col-lg-4\">\n     <img\
+      \ alt=\"\" class=\"img-responsive\" src=\"img/speakers/DimitarPoposki.jpg\"\
+      />\n     <i class=\"fa fa-lg fa-globe\">\n     </i>\n     <a href=\"http://dimitarwebpage.wix.com/dimitar\"\
+      \ style=\"width: 30px\" target=\"_blank\">\n      Site\n     </a>\n    </div>\n\
+      \    <div class=\"col-md-8 col-lg-8\">\n     <h2>\n      Dimitar Poposki\n \
+      \    </h2>\n     <h3>\n     </h3>\n     <p>\n      Information Professional\
+      \ with 15 years of academic library experience. Information literacy trainer\
+      \ that actively advocates Open Access, Open Educational Resources, Open Science\
+      \ and Open Data. Promoter of privacy and the role of libraries as providers\
+      \ of free and anonymous access to information in egalitarian societies as an\
+      \ answer to the global technological digital divide and mass surveillance. Profound\
+      \ understanding of the most essential parts of global information infrastructure\
+      \ and the role of openness in the development of global information highway.\
+      \ Involved in a PhD program at Open Universiteit in the Netherlands (Open Innovation\
+      \ in OER/MOOCs, Critical Consciousness in Pedagogy).\n     </p>\n    </div>\n\
+      \   </div>\n  </div>\n </div>\n</div>", header: "<div class=\"speaker col-xs-12\
+      \ col-sm-4 col-md-3 col-lg-3\" id=\"Speaker_Dimitar_Poposki\">\n <figure>\n\
+      \  <img alt=\"\" src=\"img/speakers/DimitarPoposki.jpg\" style=\"width: 213px;\
+      \ height: 213px;\">\n   <figcaption>\n    <h4>\n     Dimitar Poposki\n    </h4>\n\
+      \    <p>\n     An ordinary person with a critical mindset.\n    </p>\n    <a\
+      \ class=\"speaker-detail\" href=\"speaker-detail.php?speakerId=33\">\n     <i\
+      \ class=\"fa fa-lg fa-external-link\">\n     </i>\n    </a>\n    <div class=\"\
+      social\">\n     <a href=\"http://dimitarwebpage.wix.com/dimitar\" target=\"\
+      _blank\">\n      <i class=\"fa fa-2x fa-globe\">\n      </i>\n     </a>\n  \
+      \  </div>\n   </figcaption>\n  </img>\n </figure>\n <h4>\n  Dimitar Poposki\n\
+      \ </h4>\n <span class=\"title hide\">\n </span>\n</div>\n"}
+  Egzontina_Krasniqi: {details: "<div class=\"container\">\n <div class=\"row\">\n\
+      \  <div class=\"col-lg-8 col-lg-offset-2\" id=\"speaker-detail\">\n   <div class=\"\
+      row\">\n    <button class=\"mfp-close\" title=\"Close (Esc)\" type=\"button\"\
+      >\n     \xD7\n    </button>\n    <div class=\"col-md-4 col-lg-4\">\n     <img\
+      \ alt=\"\" class=\"img-responsive\" src=\"img/speakers/EgzontinaKrasniqi.jpg\"\
+      />\n     <i class=\"fa fa-lg fa-globe\">\n     </i>\n     <a href=\"https://egzontina.github.io/egzontina/\"\
+      \ style=\"width: 30px\" target=\"_blank\">\n      Site\n     </a>\n    </div>\n\
+      \    <div class=\"col-md-8 col-lg-8\">\n     <h2>\n      Egzontina Krasniqi\n\
+      \     </h2>\n     <h3>\n      Open Data Kosovo\n     </h3>\n     <p>\n     \
+      \ Egzontina works as a Software Developer at Open Data Kosovo. She is currently\
+      \ pursuing her master degrees in Computer Engineering at the University of Prishtina.\
+      \ She is also an active member of Girls Coding Kosova.\n     </p>\n    </div>\n\
+      \   </div>\n  </div>\n </div>\n</div>", header: "<div class=\"speaker col-xs-12\
+      \ col-sm-4 col-md-3 col-lg-3\" id=\"Speaker_Egzontina_Krasniqi\">\n <figure>\n\
+      \  <img alt=\"\" src=\"img/speakers/EgzontinaKrasniqi.jpg\" style=\"width: 213px;\
+      \ height: 213px;\">\n   <figcaption>\n    <h4>\n     Egzontina Krasniqi\n  \
+      \  </h4>\n    <p>\n     Egzontina is a passionate Software Developer at Open\
+      \ Data Kosovo.\n    </p>\n    <a class=\"speaker-detail\" href=\"speaker-detail.php?speakerId=54\"\
+      >\n     <i class=\"fa fa-lg fa-external-link\">\n     </i>\n    </a>\n    <div\
+      \ class=\"social\">\n     <a href=\"https://egzontina.github.io/egzontina/\"\
+      \ target=\"_blank\">\n      <i class=\"fa fa-2x fa-globe\">\n      </i>\n  \
+      \   </a>\n    </div>\n   </figcaption>\n  </img>\n </figure>\n <h4>\n  Egzontina\
+      \ Krasniqi\n </h4>\n <span class=\"title hide\">\n  Open Data Kosovo\n </span>\n\
+      </div>\n"}
+  Elio_Qoshi: {details: "<div class=\"container\">\n <div class=\"row\">\n  <div class=\"\
+      col-lg-8 col-lg-offset-2\" id=\"speaker-detail\">\n   <div class=\"row\">\n\
+      \    <button class=\"mfp-close\" title=\"Close (Esc)\" type=\"button\">\n  \
+      \   \xD7\n    </button>\n    <div class=\"col-md-4 col-lg-4\">\n     <img alt=\"\
+      \" class=\"img-responsive\" src=\"img/speakers/elio_qoshi.jpg\"/>\n    </div>\n\
+      \    <div class=\"col-md-8 col-lg-8\">\n     <h2>\n      Elio Qoshi\n     </h2>\n\
+      \     <h3>\n      Ura\n     </h3>\n     <p>\n      Elio Qoshi is founder of\
+      \ Open Source Design startup Ura which helps open source projects improve their\
+      \ visual design and User Experience. He is a Mozilla Tech Speaker &amp; Representative,\
+      \ Fedora Ambassador, Tor UX Designer and Board Member at Open Labs Albania.\
+      \ He writes for SitePoint about topics he cares about, usually Free Open Source,\
+      \ Design &amp;  Community. Elio is one of the organizers behind Open Source\
+      \ Conference Albania (OSCAL) which started back in 2014. He also contributes\
+      \ to the Free Software Foundation Europe, Wikimedia, Glucosio and GalliumOS.\
+      \ He loves cycling and playing video games in his free time.\n     </p>\n  \
+      \  </div>\n   </div>\n  </div>\n </div>\n</div>", header: "<div class=\"speaker\
+      \ col-xs-12 col-sm-4 col-md-3 col-lg-3\" id=\"Speaker_Elio_Qoshi\">\n <figure>\n\
+      \  <img alt=\"\" src=\"img/speakers/elio_qoshi.jpg\" style=\"width: 213px; height:\
+      \ 213px;\">\n   <figcaption>\n    <h4>\n     Elio Qoshi\n    </h4>\n    <p>\n\
+      \     Elio is founder of Ura Design. a Mozilla Tech Speaker, Tor Designer, Open\
+      \ Labs Albania Board..\n    </p>\n    <a class=\"speaker-detail\" href=\"speaker-detail.php?speakerId=41\"\
+      >\n     <i class=\"fa fa-lg fa-external-link\">\n     </i>\n    </a>\n    <div\
+      \ class=\"social\">\n    </div>\n   </figcaption>\n  </img>\n </figure>\n <h4>\n\
+      \  Elio Qoshi\n </h4>\n <span class=\"title hide\">\n  Ura\n </span>\n</div>\n"}
+  Endrit_Bytyqi: {details: "<div class=\"container\">\n <div class=\"row\">\n  <div\
+      \ class=\"col-lg-8 col-lg-offset-2\" id=\"speaker-detail\">\n   <div class=\"\
+      row\">\n    <button class=\"mfp-close\" title=\"Close (Esc)\" type=\"button\"\
+      >\n     \xD7\n    </button>\n    <div class=\"col-md-4 col-lg-4\">\n     <img\
+      \ alt=\"\" class=\"img-responsive\" src=\"img/speakers/EndritBytyqi.jpg\"/>\n\
+      \    </div>\n    <div class=\"col-md-8 col-lg-8\">\n     <h2>\n      Endrit\
+      \ Bytyqi\n     </h2>\n     <h3>\n     </h3>\n     <p>\n      Endrit Bytyqi is\
+      \ an open data and knowledge advocate, who contributes on promoting local software\
+      \ development initiatives for social good and open society. As an open data\
+      \ advocate at Open Data Kosovo, he\x92s all about making sense of abstract and\
+      \ puzzling data. A hacktivist with a passion on all things tech.\n     </p>\n\
+      \    </div>\n   </div>\n  </div>\n </div>\n</div>", header: "<div class=\"speaker\
+      \ col-xs-12 col-sm-4 col-md-3 col-lg-3\" id=\"Speaker_Endrit_Bytyqi\">\n <figure>\n\
+      \  <img alt=\"\" src=\"img/speakers/EndritBytyqi.jpg\" style=\"width: 213px;\
+      \ height: 213px;\">\n   <figcaption>\n    <h4>\n     Endrit Bytyqi\n    </h4>\n\
+      \    <p>\n     Endrit Bytyqi, is an open knowledge advocate from ODK, who contributes\
+      \ on promoting local..\n    </p>\n    <a class=\"speaker-detail\" href=\"speaker-detail.php?speakerId=42\"\
+      >\n     <i class=\"fa fa-lg fa-external-link\">\n     </i>\n    </a>\n    <div\
+      \ class=\"social\">\n    </div>\n   </figcaption>\n  </img>\n </figure>\n <h4>\n\
+      \  Endrit Bytyqi\n </h4>\n <span class=\"title hide\">\n </span>\n</div>\n"}
+  Fatbardh_Veseli: {details: "<div class=\"container\">\n <div class=\"row\">\n  <div\
+      \ class=\"col-lg-8 col-lg-offset-2\" id=\"speaker-detail\">\n   <div class=\"\
+      row\">\n    <button class=\"mfp-close\" title=\"Close (Esc)\" type=\"button\"\
+      >\n     \xD7\n    </button>\n    <div class=\"col-md-4 col-lg-4\">\n     <img\
+      \ alt=\"\" class=\"img-responsive\" src=\"img/speakers/FatbardhVeseli.jpg\"\
+      />\n     <i class=\"fa fa-lg fa-twitter\">\n     </i>\n     <a href=\"http://twitter.com/fatbardhi\"\
+      \ target=\"_blank\">\n      @fatbardhi\n     </a>\n     <br/>\n     <i class=\"\
+      fa fa-lg fa-globe\">\n     </i>\n     <a href=\"https://m-chair.de/index.php/staff/12\"\
+      \ style=\"width: 30px\" target=\"_blank\">\n      Site\n     </a>\n    </div>\n\
+      \    <div class=\"col-md-8 col-lg-8\">\n     <h2>\n      Fatbardh Veseli\n \
+      \    </h2>\n     <h3>\n     </h3>\n     <p>\n      Fatbardh is a researcher\
+      \ at Goethe University Frankfurt in the area of security and privacy technologies.\
+      \ He has been involved in various European research and innovation projects\
+      \ in this field of privacy-enhancing identity management, and held talks at\
+      \ conferences and workshops word-wide. His main research interests, which is\
+      \ also core of his doctoral studies, include assessment and evaluation of Privacy-enhancing\
+      \ attribute-based credential technologies, identification of their challenges,\
+      \ and their applications in real life.\n     </p>\n    </div>\n   </div>\n \
+      \ </div>\n </div>\n</div>", header: "<div class=\"speaker col-xs-12 col-sm-4\
+      \ col-md-3 col-lg-3\" id=\"Speaker_Fatbardh_Veseli\">\n <figure>\n  <img alt=\"\
+      \" src=\"img/speakers/FatbardhVeseli.jpg\" style=\"width: 213px; height: 213px;\"\
+      >\n   <figcaption>\n    <h4>\n     Fatbardh Veseli\n    </h4>\n    <p>\n   \
+      \  Fatbardh is a researcher with a strong interest and passion about an open,\
+      \ secure, and..\n    </p>\n    <a class=\"speaker-detail\" href=\"speaker-detail.php?speakerId=53\"\
+      >\n     <i class=\"fa fa-lg fa-external-link\">\n     </i>\n    </a>\n    <div\
+      \ class=\"social\">\n     <a href=\"https://m-chair.de/index.php/staff/12\"\
+      \ target=\"_blank\">\n      <i class=\"fa fa-2x fa-globe\">\n      </i>\n  \
+      \   </a>\n     <a href=\"http://twitter.com/fatbardhi\" target=\"_blank\">\n\
+      \      <i class=\"fa fa-2x fa-twitter-square\">\n      </i>\n     </a>\n   \
+      \ </div>\n   </figcaption>\n  </img>\n </figure>\n <h4>\n  Fatbardh Veseli\n\
+      \ </h4>\n <span class=\"title hide\">\n </span>\n</div>\n"}
+  Gabriel_Micko: {details: "<div class=\"container\">\n <div class=\"row\">\n  <div\
+      \ class=\"col-lg-8 col-lg-offset-2\" id=\"speaker-detail\">\n   <div class=\"\
+      row\">\n    <button class=\"mfp-close\" title=\"Close (Esc)\" type=\"button\"\
+      >\n     \xD7\n    </button>\n    <div class=\"col-md-4 col-lg-4\">\n     <img\
+      \ alt=\"\" class=\"img-responsive\" src=\"img/speakers/GabrielMicko.jpg\"/>\n\
+      \     <i class=\"fa fa-lg fa-twitter\">\n     </i>\n     <a href=\"http://twitter.com/gabriel_micko\"\
+      \ target=\"_blank\">\n      @gabriel_micko\n     </a>\n     <br/>\n     <i class=\"\
+      fa fa-lg fa-globe\">\n     </i>\n     <a href=\"http://webrtc.rocks\" style=\"\
+      width: 30px\" target=\"_blank\">\n      Site\n     </a>\n    </div>\n    <div\
+      \ class=\"col-md-8 col-lg-8\">\n     <h2>\n      Gabriel Mi\u010Dko\n     </h2>\n\
+      \     <h3>\n      Mozilla\n     </h3>\n     <p>\n      Gabriel is working as\
+      \ a Front-end Developer Specialist for DoclerHolding based in Budapest. Mozilla\
+      \ Tech Speaker and enthusiastic voluntary at Hungarian Mozilla Community. He\
+      \ is interested in everything related to web. The world of open source impresses\
+      \ him as well. WebRTC geek, React lover and devotee of the web platform.\n \
+      \    </p>\n    </div>\n   </div>\n  </div>\n </div>\n</div>", header: "<div\
+      \ class=\"speaker col-xs-12 col-sm-4 col-md-3 col-lg-3\" id=\"Speaker_Gabriel_Micko\"\
+      >\n <figure>\n  <img alt=\"\" src=\"img/speakers/GabrielMicko.jpg\" style=\"\
+      width: 213px; height: 213px;\">\n   <figcaption>\n    <h4>\n     Gabriel Mi\u010D\
+      ko\n    </h4>\n    <p>\n     Front-end Dev Specialist @DoclerHolding, Public\
+      \ Speaker - #mozTechSpeakers, Contributor..\n    </p>\n    <a class=\"speaker-detail\"\
+      \ href=\"speaker-detail.php?speakerId=39\">\n     <i class=\"fa fa-lg fa-external-link\"\
+      >\n     </i>\n    </a>\n    <div class=\"social\">\n     <a href=\"http://webrtc.rocks\"\
+      \ target=\"_blank\">\n      <i class=\"fa fa-2x fa-globe\">\n      </i>\n  \
+      \   </a>\n     <a href=\"http://twitter.com/gabriel_micko\" target=\"_blank\"\
+      >\n      <i class=\"fa fa-2x fa-twitter-square\">\n      </i>\n     </a>\n \
+      \   </div>\n   </figcaption>\n  </img>\n </figure>\n <h4>\n  Gabriel Mi\u010D\
+      ko\n </h4>\n <span class=\"title hide\">\n  Mozilla\n </span>\n</div>\n"}
+  Giannis_Konstantinidis: {details: "<div class=\"container\">\n <div class=\"row\"\
+      >\n  <div class=\"col-lg-8 col-lg-offset-2\" id=\"speaker-detail\">\n   <div\
+      \ class=\"row\">\n    <button class=\"mfp-close\" title=\"Close (Esc)\" type=\"\
+      button\">\n     \xD7\n    </button>\n    <div class=\"col-md-4 col-lg-4\">\n\
+      \     <img alt=\"\" class=\"img-responsive\" src=\"img/speakers/GIannisKonstantinidis.jpg\"\
+      />\n     <i class=\"fa fa-lg fa-globe\">\n     </i>\n     <a href=\"http://konstantinidis.cc\"\
+      \ style=\"width: 30px\" target=\"_blank\">\n      Site\n     </a>\n    </div>\n\
+      \    <div class=\"col-md-8 col-lg-8\">\n     <h2>\n      Giannis Konstantinidis\n\
+      \     </h2>\n     <h3>\n      Mozilla\n     </h3>\n     <p>\n      Giannis Konstantinidis\
+      \ was born in Thessaloniki, Greece. He is currently an undergraduate student\
+      \ at the Dept. of Information &amp; Communication Systems Engineering of the\
+      \ University of the Aegean in Samos island, Greece and also a freelance front-end\
+      \ web developer. For the last seven years, Giannis has been part of several\
+      \ free &amp; open source communities, including the Fedora Project and Mozilla,\
+      \ where he has made multiple contributions. In total, he has contributed to\
+      \ more than twelve separate projects.\nGiannis loves traveling both domestically\
+      \ and abroad in order to participate at conferences and events. Within his university\
+      \ he helps drive certain community and project related efforts.\n     </p>\n\
+      \    </div>\n   </div>\n  </div>\n </div>\n</div>", header: "<div class=\"speaker\
+      \ col-xs-12 col-sm-4 col-md-3 col-lg-3\" id=\"Speaker_Giannis_Konstantinidis\"\
+      >\n <figure>\n  <img alt=\"\" src=\"img/speakers/GIannisKonstantinidis.jpg\"\
+      \ style=\"width: 213px; height: 213px;\">\n   <figcaption>\n    <h4>\n     Giannis\
+      \ Konstantinidis\n    </h4>\n    <p>\n     Giannis Konstantinidis is a free\
+      \ &amp; open source software advocate and Mozilla TechSpeaker...\n    </p>\n\
+      \    <a class=\"speaker-detail\" href=\"speaker-detail.php?speakerId=38\">\n\
+      \     <i class=\"fa fa-lg fa-external-link\">\n     </i>\n    </a>\n    <div\
+      \ class=\"social\">\n     <a href=\"http://konstantinidis.cc\" target=\"_blank\"\
+      >\n      <i class=\"fa fa-2x fa-globe\">\n      </i>\n     </a>\n    </div>\n\
+      \   </figcaption>\n  </img>\n </figure>\n <h4>\n  Giannis Konstantinidis\n </h4>\n\
+      \ <span class=\"title hide\">\n  Mozilla\n </span>\n</div>\n"}
+  Italo_Vignoli: {details: "<div class=\"container\">\n <div class=\"row\">\n  <div\
+      \ class=\"col-lg-8 col-lg-offset-2\" id=\"speaker-detail\">\n   <div class=\"\
+      row\">\n    <button class=\"mfp-close\" title=\"Close (Esc)\" type=\"button\"\
+      >\n     \xD7\n    </button>\n    <div class=\"col-md-4 col-lg-4\">\n     <img\
+      \ alt=\"\" class=\"img-responsive\" src=\"img/speakers/ItaloVignoli.jpg\"/>\n\
+      \    </div>\n    <div class=\"col-md-8 col-lg-8\">\n     <h2>\n      Italo Vignoli\n\
+      \     </h2>\n     <h3>\n      The Document Foundation\n     </h3>\n     <p>\n\
+      \      Italo Vignoli is a long time free software advocate, has been an active\
+      \ member of the OpenOffice project from 2004 to 2010, has founded the LibreOffice\
+      \ project in 2010, and is currently a team member at The Document Foundation\
+      \ handling marketing, certification and community development. He is also a\
+      \ director at Open Source Initiative (OSI).\n     </p>\n    </div>\n   </div>\n\
+      \  </div>\n </div>\n</div>", header: "<div class=\"speaker col-xs-12 col-sm-4\
+      \ col-md-3 col-lg-3\" id=\"Speaker_Italo_Vignoli\">\n <figure>\n  <img alt=\"\
+      \" src=\"img/speakers/ItaloVignoli.jpg\" style=\"width: 213px; height: 213px;\"\
+      >\n   <figcaption>\n    <h4>\n     Italo Vignoli\n    </h4>\n    <p>\n     Italo\
+      \ Vignoli is a free software advocate, and a founder of the LibreOffice project\n\
+      \    </p>\n    <a class=\"speaker-detail\" href=\"speaker-detail.php?speakerId=43\"\
+      >\n     <i class=\"fa fa-lg fa-external-link\">\n     </i>\n    </a>\n    <div\
+      \ class=\"social\">\n    </div>\n   </figcaption>\n  </img>\n </figure>\n <h4>\n\
+      \  Italo Vignoli\n </h4>\n <span class=\"title hide\">\n  The Document Foundation\n\
+      \ </span>\n</div>\n"}
+  James_Michael_Dupont: {details: "<div class=\"container\">\n <div class=\"row\"\
+      >\n  <div class=\"col-lg-8 col-lg-offset-2\" id=\"speaker-detail\">\n   <div\
+      \ class=\"row\">\n    <button class=\"mfp-close\" title=\"Close (Esc)\" type=\"\
+      button\">\n     \xD7\n    </button>\n    <div class=\"col-md-4 col-lg-4\">\n\
+      \     <img alt=\"\" class=\"img-responsive\" src=\"img/speakers/JamesMichaelDupont.jpg\"\
+      />\n     <i class=\"fa fa-lg fa-twitter\">\n     </i>\n     <a href=\"http://twitter.com/H4ck3rm1k3\"\
+      \ target=\"_blank\">\n      @H4ck3rm1k3\n     </a>\n     <br/>\n     <i class=\"\
+      fa fa-lg fa-globe\">\n     </i>\n     <a href=\"https://github.com/h4ck3rm1k3\"\
+      \ style=\"width: 30px\" target=\"_blank\">\n      Site\n     </a>\n    </div>\n\
+      \    <div class=\"col-md-8 col-lg-8\">\n     <h2>\n      James Michael Dupont\n\
+      \     </h2>\n     <h3>\n      FLOSSK\n     </h3>\n     <p>\n      Dedicated\
+      \ Software developer who is passionate about freedom.\n     </p>\n    </div>\n\
+      \   </div>\n  </div>\n </div>\n</div>", header: "<div class=\"speaker col-xs-12\
+      \ col-sm-4 col-md-3 col-lg-3\" id=\"Speaker_James_Michael_Dupont\">\n <figure>\n\
+      \  <img alt=\"\" src=\"img/speakers/JamesMichaelDupont.jpg\" style=\"width:\
+      \ 213px; height: 213px;\">\n   <figcaption>\n    <h4>\n     James Michael Dupont\n\
+      \    </h4>\n    <p>\n     Dedicated Software developer who is passionate about\
+      \ freedom.\n    </p>\n    <a class=\"speaker-detail\" href=\"speaker-detail.php?speakerId=66\"\
+      >\n     <i class=\"fa fa-lg fa-external-link\">\n     </i>\n    </a>\n    <div\
+      \ class=\"social\">\n     <a href=\"https://github.com/h4ck3rm1k3\" target=\"\
+      _blank\">\n      <i class=\"fa fa-2x fa-globe\">\n      </i>\n     </a>\n  \
+      \   <a href=\"http://twitter.com/H4ck3rm1k3\" target=\"_blank\">\n      <i class=\"\
+      fa fa-2x fa-twitter-square\">\n      </i>\n     </a>\n    </div>\n   </figcaption>\n\
+      \  </img>\n </figure>\n <h4>\n  James Michael Dupont\n </h4>\n <span class=\"\
+      title hide\">\n  FLOSSK\n </span>\n</div>\n"}
+  Jona_Azizaj: {details: "<div class=\"container\">\n <div class=\"row\">\n  <div\
+      \ class=\"col-lg-8 col-lg-offset-2\" id=\"speaker-detail\">\n   <div class=\"\
+      row\">\n    <button class=\"mfp-close\" title=\"Close (Esc)\" type=\"button\"\
+      >\n     \xD7\n    </button>\n    <div class=\"col-md-4 col-lg-4\">\n     <img\
+      \ alt=\"\" class=\"img-responsive\" src=\"img/speakers/JonaAzizaj.jpg\"/>\n\
+      \     <i class=\"fa fa-lg fa-twitter\">\n     </i>\n     <a href=\"http://twitter.com/jonatoni\"\
+      \ target=\"_blank\">\n      @jonatoni\n     </a>\n     <br/>\n     <i class=\"\
+      fa fa-lg fa-globe\">\n     </i>\n     <a href=\"http://jona.azizaj.com\" style=\"\
+      width: 30px\" target=\"_blank\">\n      Site\n     </a>\n    </div>\n    <div\
+      \ class=\"col-md-8 col-lg-8\">\n     <h2>\n      Jona Azizaj\n     </h2>\n \
+      \    <h3>\n      Fedora Project and Open Labs Hackerspace\n     </h3>\n    \
+      \ <p>\n      Jona is a student of Business Informatics at the University of\
+      \ Tirana, and also a hacktivist of Open Labs. She is passionate about philosophy\
+      \ of Open Source and she believes in transparency and cooperation, open and\
+      \ free Internet. She has been working on promoting FLOSS in Albania. Also she\
+      \ has been working on Fedora Localization Project to bring everything around\
+      \ Fedora closer to her community. She is really interested on empowering woman\
+      \ in society because women participation in open technology and culture is very\
+      \ important so we should all pay more attention.\"\n     </p>\n    </div>\n\
+      \   </div>\n  </div>\n </div>\n</div>", header: "<div class=\"speaker col-xs-12\
+      \ col-sm-4 col-md-3 col-lg-3\" id=\"Speaker_Jona_Azizaj\">\n <figure>\n  <img\
+      \ alt=\"\" src=\"img/speakers/JonaAzizaj.jpg\" style=\"width: 213px; height:\
+      \ 213px;\">\n   <figcaption>\n    <h4>\n     Jona Azizaj\n    </h4>\n    <p>\n\
+      \     Jona is a student of Business Informatics at the University of Tirana.\
+      \ She is a member of Open..\n    </p>\n    <a class=\"speaker-detail\" href=\"\
+      speaker-detail.php?speakerId=40\">\n     <i class=\"fa fa-lg fa-external-link\"\
+      >\n     </i>\n    </a>\n    <div class=\"social\">\n     <a href=\"http://jona.azizaj.com\"\
+      \ target=\"_blank\">\n      <i class=\"fa fa-2x fa-globe\">\n      </i>\n  \
+      \   </a>\n     <a href=\"http://twitter.com/jonatoni\" target=\"_blank\">\n\
+      \      <i class=\"fa fa-2x fa-twitter-square\">\n      </i>\n     </a>\n   \
+      \ </div>\n   </figcaption>\n  </img>\n </figure>\n <h4>\n  Jona Azizaj\n </h4>\n\
+      \ <span class=\"title hide\">\n  Fedora Project and Open Labs Hackerspace\n\
+      \ </span>\n</div>\n"}
+  Jos_Poortvliet: {details: "<div class=\"container\">\n <div class=\"row\">\n  <div\
+      \ class=\"col-lg-8 col-lg-offset-2\" id=\"speaker-detail\">\n   <div class=\"\
+      row\">\n    <button class=\"mfp-close\" title=\"Close (Esc)\" type=\"button\"\
+      >\n     \xD7\n    </button>\n    <div class=\"col-md-4 col-lg-4\">\n     <img\
+      \ alt=\"\" class=\"img-responsive\" src=\"img/speakers/JosPoortvliet.jpg\"/>\n\
+      \     <i class=\"fa fa-lg fa-twitter\">\n     </i>\n     <a href=\"http://twitter.com/jospoortvliet\"\
+      \ target=\"_blank\">\n      @jospoortvliet\n     </a>\n     <br/>\n     <i class=\"\
+      fa fa-lg fa-globe\">\n     </i>\n     <a href=\"http://blog.jospoortvliet.com\"\
+      \ style=\"width: 30px\" target=\"_blank\">\n      Site\n     </a>\n    </div>\n\
+      \    <div class=\"col-md-8 col-lg-8\">\n     <h2>\n      Jos Poortvliet\n  \
+      \   </h2>\n     <h3>\n      Nextcloud\n     </h3>\n     <p>\n      People person,\
+      \ technology enthusiast and all-things-open evangelist. I have managed and marketed\
+      \ communities for over a decade, getting started in the KDE community, followed\
+      \ by working as openSUSE Community Manager at SUSE and ownCloud. Currently I\
+      \ take care of communication and marketing at Nextcloud. I am busy growing the\
+      \ Nextcloud community, speaking at and organizing conferences and writing about\
+      \ my passions ranging from psychology and people in communities to innovative\
+      \ technology.\n     </p>\n    </div>\n   </div>\n  </div>\n </div>\n</div>",
+    header: "<div class=\"speaker col-xs-12 col-sm-4 col-md-3 col-lg-3\" id=\"Speaker_Jos_Poortvliet\"\
+      >\n <figure>\n  <img alt=\"\" src=\"img/speakers/JosPoortvliet.jpg\" style=\"\
+      width: 213px; height: 213px;\">\n   <figcaption>\n    <h4>\n     Jos Poortvliet\n\
+      \    </h4>\n    <p>\n     People person, technology enthusiast and all-things-open\
+      \ evangelist.\n    </p>\n    <a class=\"speaker-detail\" href=\"speaker-detail.php?speakerId=63\"\
+      >\n     <i class=\"fa fa-lg fa-external-link\">\n     </i>\n    </a>\n    <div\
+      \ class=\"social\">\n     <a href=\"http://blog.jospoortvliet.com\" target=\"\
+      _blank\">\n      <i class=\"fa fa-2x fa-globe\">\n      </i>\n     </a>\n  \
+      \   <a href=\"http://twitter.com/jospoortvliet\" target=\"_blank\">\n      <i\
+      \ class=\"fa fa-2x fa-twitter-square\">\n      </i>\n     </a>\n    </div>\n\
+      \   </figcaption>\n  </img>\n </figure>\n <h4>\n  Jos Poortvliet\n </h4>\n <span\
+      \ class=\"title hide\">\n  Nextcloud\n </span>\n</div>\n"}
+  Kosovare_Sahatqija: {details: "<div class=\"container\">\n <div class=\"row\">\n\
+      \  <div class=\"col-lg-8 col-lg-offset-2\" id=\"speaker-detail\">\n   <div class=\"\
+      row\">\n    <button class=\"mfp-close\" title=\"Close (Esc)\" type=\"button\"\
+      >\n     \xD7\n    </button>\n    <div class=\"col-md-4 col-lg-4\">\n     <img\
+      \ alt=\"\" class=\"img-responsive\" src=\"img/speakers/KosovareSahatqija.jpg\"\
+      />\n    </div>\n    <div class=\"col-md-8 col-lg-8\">\n     <h2>\n      Kosovare\
+      \ Sahatqija\n     </h2>\n     <h3>\n      Open Data Kosovo\n     </h3>\n   \
+      \  <p>\n      Kosovare Sahatqija works as a Project Coordinator/Software Developer\
+      \ at Open Data Kosovo. The leading of #EcShlir\xEB related efforts. She has\
+      \ a bachelor degree in Computer Science at the South East European University\
+      \ (SEEU). She is also an active member of Girls Coding Kosova.\n     </p>\n\
+      \    </div>\n   </div>\n  </div>\n </div>\n</div>", header: "<div class=\"speaker\
+      \ col-xs-12 col-sm-4 col-md-3 col-lg-3\" id=\"Speaker_Kosovare_Sahatqija\">\n\
+      \ <figure>\n  <img alt=\"\" src=\"img/speakers/KosovareSahatqija.jpg\" style=\"\
+      width: 213px; height: 213px;\">\n   <figcaption>\n    <h4>\n     Kosovare Sahatqija\n\
+      \    </h4>\n    <p>\n     Kosovare Sahatqija works as a Project Coordinator/Software\
+      \ Developer at Open Data Kosovo. The..\n    </p>\n    <a class=\"speaker-detail\"\
+      \ href=\"speaker-detail.php?speakerId=65\">\n     <i class=\"fa fa-lg fa-external-link\"\
+      >\n     </i>\n    </a>\n    <div class=\"social\">\n    </div>\n   </figcaption>\n\
+      \  </img>\n </figure>\n <h4>\n  Kosovare Sahatqija\n </h4>\n <span class=\"\
+      title hide\">\n  Open Data Kosovo\n </span>\n</div>\n"}
+  Kostaq_Cipo: {details: "<div class=\"container\">\n <div class=\"row\">\n  <div\
+      \ class=\"col-lg-8 col-lg-offset-2\" id=\"speaker-detail\">\n   <div class=\"\
+      row\">\n    <button class=\"mfp-close\" title=\"Close (Esc)\" type=\"button\"\
+      >\n     \xD7\n    </button>\n    <div class=\"col-md-4 col-lg-4\">\n     <img\
+      \ alt=\"\" class=\"img-responsive\" src=\"img/speakers/KostaCipo.jpg\"/>\n \
+      \    <i class=\"fa fa-lg fa-globe\">\n     </i>\n     <a href=\"http://www.c-systems.al\"\
+      \ style=\"width: 30px\" target=\"_blank\">\n      Site\n     </a>\n    </div>\n\
+      \    <div class=\"col-md-8 col-lg-8\">\n     <h2>\n      Kostaq Cipo\n     </h2>\n\
+      \     <h3>\n     </h3>\n     <p>\n      Programmer Analyst/Business Analyst\
+      \ experienced in various programming languages and platforms, system analysis\
+      \ and design with expertise in object-oriented software development using Java\
+      \ (JEE, J2SE), C, C++ and .NET. Passionate about Agile software development\
+      \ practices and quality improvement through the effective use of knowledge,\
+      \ information, and communication. IT Project Manager with expertise in developing\
+      \ and implementing complex projects according to PMI Standards and PMF (Project\
+      \ Management Framework).\n     </p>\n    </div>\n   </div>\n  </div>\n </div>\n\
+      </div>", header: "<div class=\"speaker col-xs-12 col-sm-4 col-md-3 col-lg-3\"\
+      \ id=\"Speaker_Kostaq_Cipo\">\n <figure>\n  <img alt=\"\" src=\"img/speakers/KostaCipo.jpg\"\
+      \ style=\"width: 213px; height: 213px;\">\n   <figcaption>\n    <h4>\n     Kostaq\
+      \ Cipo\n    </h4>\n    <p>\n     Programmer Analyst/Business Analyst experienced\
+      \ in various programming languages and platforms,..\n    </p>\n    <a class=\"\
+      speaker-detail\" href=\"speaker-detail.php?speakerId=48\">\n     <i class=\"\
+      fa fa-lg fa-external-link\">\n     </i>\n    </a>\n    <div class=\"social\"\
+      >\n     <a href=\"http://www.c-systems.al\" target=\"_blank\">\n      <i class=\"\
+      fa fa-2x fa-globe\">\n      </i>\n     </a>\n    </div>\n   </figcaption>\n\
+      \  </img>\n </figure>\n <h4>\n  Kostaq Cipo\n </h4>\n <span class=\"title hide\"\
+      >\n </span>\n</div>\n"}
+  Marinela_Gogo: {details: "<div class=\"container\">\n <div class=\"row\">\n  <div\
+      \ class=\"col-lg-8 col-lg-offset-2\" id=\"speaker-detail\">\n   <div class=\"\
+      row\">\n    <button class=\"mfp-close\" title=\"Close (Esc)\" type=\"button\"\
+      >\n     \xD7\n    </button>\n    <div class=\"col-md-4 col-lg-4\">\n     <img\
+      \ alt=\"\" class=\"img-responsive\" src=\"img/speakers/MarinelaGogo.jpg\"/>\n\
+      \    </div>\n    <div class=\"col-md-8 col-lg-8\">\n     <h2>\n      Marinela\
+      \ Gogo\n     </h2>\n     <h3>\n      Open Labs Albania\n     </h3>\n     <p>\n\
+      \      Marinela Gogo is a Business Informatics student and also a member of\
+      \ Open Labs Hackerspace. She believes in the \"power\" of open source software,\
+      \ that is the main reason why she is promoting free open source software and\
+      \ also contributing on localization projects. \nShe is currently working on\
+      \ the translations platform of The Document Foundation to complete translating\
+      \ as soon as possible the LibreOffice Userinterface, which is now very close\
+      \ to the finish. Programming is included in her hobies as she knows Java, C++,\
+      \ html, JavaScript and php bases. She is learning more languages and she thinks\
+      \ that knowledge should always be combined with at least a little bit of creativity-\
+      \ it is a combination that wins!\n     </p>\n    </div>\n   </div>\n  </div>\n\
+      \ </div>\n</div>", header: "<div class=\"speaker col-xs-12 col-sm-4 col-md-3\
+      \ col-lg-3\" id=\"Speaker_Marinela_Gogo\">\n <figure>\n  <img alt=\"\" src=\"\
+      img/speakers/MarinelaGogo.jpg\" style=\"width: 213px; height: 213px;\">\n  \
+      \ <figcaption>\n    <h4>\n     Marinela Gogo\n    </h4>\n    <p>\n     Marinela\
+      \ Gogo is a member of Open Labs Hackerspace that promotes FLOSS and she is also\
+      \ a..\n    </p>\n    <a class=\"speaker-detail\" href=\"speaker-detail.php?speakerId=56\"\
+      >\n     <i class=\"fa fa-lg fa-external-link\">\n     </i>\n    </a>\n    <div\
+      \ class=\"social\">\n    </div>\n   </figcaption>\n  </img>\n </figure>\n <h4>\n\
+      \  Marinela Gogo\n </h4>\n <span class=\"title hide\">\n  Open Labs Albania\n\
+      \ </span>\n</div>\n"}
+  Nick_Doiron: {details: "<div class=\"container\">\n <div class=\"row\">\n  <div\
+      \ class=\"col-lg-8 col-lg-offset-2\" id=\"speaker-detail\">\n   <div class=\"\
+      row\">\n    <button class=\"mfp-close\" title=\"Close (Esc)\" type=\"button\"\
+      >\n     \xD7\n    </button>\n    <div class=\"col-md-4 col-lg-4\">\n     <img\
+      \ alt=\"\" class=\"img-responsive\" src=\"img/speakers/NickDoiron.jpg\"/>\n\
+      \     <i class=\"fa fa-lg fa-twitter\">\n     </i>\n     <a href=\"http://twitter.com/mapmeld\"\
+      \ target=\"_blank\">\n      @mapmeld\n     </a>\n     <br/>\n     <i class=\"\
+      fa fa-lg fa-globe\">\n     </i>\n     <a href=\"https://github.com/mapmeld\"\
+      \ style=\"width: 30px\" target=\"_blank\">\n      Site\n     </a>\n    </div>\n\
+      \    <div class=\"col-md-8 col-lg-8\">\n     <h2>\n      Nick Doiron\n     </h2>\n\
+      \     <h3>\n     </h3>\n     <p>\n      Nick is a full-stack web developer and\
+      \ mapmaker based in New York. In the past, he has traveled to schools with One\
+      \ Laptop per Child, opened election data in Myanmar, mapped cities with Code\
+      \ for America, and made mobile sites for the Museum of Modern Art.\n     </p>\n\
+      \    </div>\n   </div>\n  </div>\n </div>\n</div>", header: "<div class=\"speaker\
+      \ col-xs-12 col-sm-4 col-md-3 col-lg-3\" id=\"Speaker_Nick_Doiron\">\n <figure>\n\
+      \  <img alt=\"\" src=\"img/speakers/NickDoiron.jpg\" style=\"width: 213px; height:\
+      \ 213px;\">\n   <figcaption>\n    <h4>\n     Nick Doiron\n    </h4>\n    <p>\n\
+      \     Nick is a full-stack developer and mapmaker. In the past he worked with\
+      \ One Laptop per Child,..\n    </p>\n    <a class=\"speaker-detail\" href=\"\
+      speaker-detail.php?speakerId=52\">\n     <i class=\"fa fa-lg fa-external-link\"\
+      >\n     </i>\n    </a>\n    <div class=\"social\">\n     <a href=\"https://github.com/mapmeld\"\
+      \ target=\"_blank\">\n      <i class=\"fa fa-2x fa-globe\">\n      </i>\n  \
+      \   </a>\n     <a href=\"http://twitter.com/mapmeld\" target=\"_blank\">\n \
+      \     <i class=\"fa fa-2x fa-twitter-square\">\n      </i>\n     </a>\n    </div>\n\
+      \   </figcaption>\n  </img>\n </figure>\n <h4>\n  Nick Doiron\n </h4>\n <span\
+      \ class=\"title hide\">\n </span>\n</div>\n"}
+  Ozren_Muic: {details: "<div class=\"container\">\n <div class=\"row\">\n  <div class=\"\
+      col-lg-8 col-lg-offset-2\" id=\"speaker-detail\">\n   <div class=\"row\">\n\
+      \    <button class=\"mfp-close\" title=\"Close (Esc)\" type=\"button\">\n  \
+      \   \xD7\n    </button>\n    <div class=\"col-md-4 col-lg-4\">\n     <img alt=\"\
+      \" class=\"img-responsive\" src=\"img/speakers/OzrenMuic.jpg\"/>\n     <i class=\"\
+      fa fa-lg fa-twitter\">\n     </i>\n     <a href=\"http://twitter.com/OzrenMuic\"\
+      \ target=\"_blank\">\n      @OzrenMuic\n     </a>\n     <br/>\n     <i class=\"\
+      fa fa-lg fa-globe\">\n     </i>\n     <a href=\"http://ozrenmuic.from.hr\" style=\"\
+      width: 30px\" target=\"_blank\">\n      Site\n     </a>\n    </div>\n    <div\
+      \ class=\"col-md-8 col-lg-8\">\n     <h2>\n      Ozren Muic\n     </h2>\n  \
+      \   <h3>\n     </h3>\n     <p>\n      Ozren Mui\u0107 spent many years learning\
+      \ what people want while working in marketing. After helping a friend on a software\
+      \ project, he dived into user experience design and never looked back. Now after\
+      \ working with and for many different companies and on numerous projects, he\
+      \ is helping people to make better software. Versed in user experience, information\
+      \ architecture and interaction design, he is trying to make as many happy users\
+      \ as he possibly can by creating accessible and usable software. Currently building\
+      \ apps and improving websites for web.burza digital agency in Zagreb, Croatia.\n\
+      \     </p>\n    </div>\n   </div>\n  </div>\n </div>\n</div>", header: "<div\
+      \ class=\"speaker col-xs-12 col-sm-4 col-md-3 col-lg-3\" id=\"Speaker_Ozren_Muic\"\
+      >\n <figure>\n  <img alt=\"\" src=\"img/speakers/OzrenMuic.jpg\" style=\"width:\
+      \ 213px; height: 213px;\">\n   <figcaption>\n    <h4>\n     Ozren Muic\n   \
+      \ </h4>\n    <p>\n     Ozren Mui\u0107 is a passionate UX professional, trying\
+      \ to make as many happy users as possible..\n    </p>\n    <a class=\"speaker-detail\"\
+      \ href=\"speaker-detail.php?speakerId=49\">\n     <i class=\"fa fa-lg fa-external-link\"\
+      >\n     </i>\n    </a>\n    <div class=\"social\">\n     <a href=\"http://ozrenmuic.from.hr\"\
+      \ target=\"_blank\">\n      <i class=\"fa fa-2x fa-globe\">\n      </i>\n  \
+      \   </a>\n     <a href=\"http://twitter.com/OzrenMuic\" target=\"_blank\">\n\
+      \      <i class=\"fa fa-2x fa-twitter-square\">\n      </i>\n     </a>\n   \
+      \ </div>\n   </figcaption>\n  </img>\n </figure>\n <h4>\n  Ozren Muic\n </h4>\n\
+      \ <span class=\"title hide\">\n </span>\n</div>\n"}
+  Peter_Corbett: {details: "<div class=\"container\">\n <div class=\"row\">\n  <div\
+      \ class=\"col-lg-8 col-lg-offset-2\" id=\"speaker-detail\">\n   <div class=\"\
+      row\">\n    <button class=\"mfp-close\" title=\"Close (Esc)\" type=\"button\"\
+      >\n     \xD7\n    </button>\n    <div class=\"col-md-4 col-lg-4\">\n     <img\
+      \ alt=\"\" class=\"img-responsive\" src=\"img/speakers/PeterCorbet.jpg\"/>\n\
+      \     <i class=\"fa fa-lg fa-twitter\">\n     </i>\n     <a href=\"http://twitter.com/corbett3000\"\
+      \ target=\"_blank\">\n      @corbett3000\n     </a>\n     <br/>\n     <i class=\"\
+      fa fa-lg fa-globe\">\n     </i>\n     <a href=\"https://isl.co/team/peter-corbett/\"\
+      \ style=\"width: 30px\" target=\"_blank\">\n      Site\n     </a>\n    </div>\n\
+      \    <div class=\"col-md-8 col-lg-8\">\n     <h2>\n      Peter Corbett\n   \
+      \  </h2>\n     <h3>\n     </h3>\n     <p>\n      Peter Corbett is the founder\
+      \ and CEO of iStrategyLabs - a digital agency that develops solutions to clients\
+      \ challenges and brings them to life in the online and offline world. A tireless\
+      \ champion of innovation, and disruptors everywhere - Peter has become a globally\
+      \ sought after speaker and mentor. His network extends deeply across the 70\
+      \ countries around the world where he is mentored startups, keynoted conferences\
+      \ and facilitated workshops on business formation, hardware prototyping and\
+      \ creative marketing approaches.\n     </p>\n    </div>\n   </div>\n  </div>\n\
+      \ </div>\n</div>", header: "<div class=\"speaker col-xs-12 col-sm-4 col-md-3\
+      \ col-lg-3\" id=\"Speaker_Peter_Corbett\">\n <figure>\n  <img alt=\"\" src=\"\
+      img/speakers/PeterCorbet.jpg\" style=\"width: 213px; height: 213px;\">\n   <figcaption>\n\
+      \    <h4>\n     Peter Corbett\n    </h4>\n    <p>\n     Peter Corbett is the\
+      \ founder and CEO of iStrategyLabs - a digital agency that develops solutions..\n\
+      \    </p>\n    <a class=\"speaker-detail\" href=\"speaker-detail.php?speakerId=60\"\
+      >\n     <i class=\"fa fa-lg fa-external-link\">\n     </i>\n    </a>\n    <div\
+      \ class=\"social\">\n     <a href=\"https://isl.co/team/peter-corbett/\" target=\"\
+      _blank\">\n      <i class=\"fa fa-2x fa-globe\">\n      </i>\n     </a>\n  \
+      \   <a href=\"http://twitter.com/corbett3000\" target=\"_blank\">\n      <i\
+      \ class=\"fa fa-2x fa-twitter-square\">\n      </i>\n     </a>\n    </div>\n\
+      \   </figcaption>\n  </img>\n </figure>\n <h4>\n  Peter Corbett\n </h4>\n <span\
+      \ class=\"title hide\">\n </span>\n</div>\n"}
+  Redon_Skikuli: {details: "<div class=\"container\">\n <div class=\"row\">\n  <div\
+      \ class=\"col-lg-8 col-lg-offset-2\" id=\"speaker-detail\">\n   <div class=\"\
+      row\">\n    <button class=\"mfp-close\" title=\"Close (Esc)\" type=\"button\"\
+      >\n     \xD7\n    </button>\n    <div class=\"col-md-4 col-lg-4\">\n     <img\
+      \ alt=\"\" class=\"img-responsive\" src=\"img/speakers/Redon_Skikuli_OpenLabs.jpg\"\
+      />\n     <i class=\"fa fa-lg fa-twitter\">\n     </i>\n     <a href=\"http://twitter.com/rskikuli\"\
+      \ target=\"_blank\">\n      @rskikuli\n     </a>\n     <br/>\n     <i class=\"\
+      fa fa-lg fa-globe\">\n     </i>\n     <a href=\"http://redon.skikuli.com\" style=\"\
+      width: 30px\" target=\"_blank\">\n      Site\n     </a>\n    </div>\n    <div\
+      \ class=\"col-md-8 col-lg-8\">\n     <h2>\n      Redon Skikuli\n     </h2>\n\
+      \     <h3>\n      Open Labs Hackerspace\n     </h3>\n     <p>\n      A hacktivist,\
+      \ open knowledge/culture promoter located in the Balkans area. In 2012 co-founded\
+      \ Open Labs Hackersace, the Tirana based community promoting the idea of free\
+      \ open source technologies, the concept of the commons, copyright reform in\
+      \ the digital age and open data.\nA Mozilla Representative for Albania, co-organizer\
+      \ of OSCAL, Wikipedia Weekend &amp; Mozilla Weekend. Redon is also an OpenStreetMap\
+      \ editor, a Wikimedian and initiator of Wiki Loves Maps &amp; Wiki Loves Audio\
+      \ projects.\n     </p>\n    </div>\n   </div>\n  </div>\n </div>\n</div>", header: "<div\
+      \ class=\"speaker col-xs-12 col-sm-4 col-md-3 col-lg-3\" id=\"Speaker_Redon_Skikuli\"\
+      >\n <figure>\n  <img alt=\"\" src=\"img/speakers/Redon_Skikuli_OpenLabs.jpg\"\
+      \ style=\"width: 213px; height: 213px;\">\n   <figcaption>\n    <h4>\n     Redon\
+      \ Skikuli\n    </h4>\n    <p>\n     Open Labs Hackerspace member, Mozillian,\
+      \ OSCAL co-organizer, OpenStreetMaper, LibreOffice..\n    </p>\n    <a class=\"\
+      speaker-detail\" href=\"speaker-detail.php?speakerId=29\">\n     <i class=\"\
+      fa fa-lg fa-external-link\">\n     </i>\n    </a>\n    <div class=\"social\"\
+      >\n     <a href=\"http://redon.skikuli.com\" target=\"_blank\">\n      <i class=\"\
+      fa fa-2x fa-globe\">\n      </i>\n     </a>\n     <a href=\"http://twitter.com/rskikuli\"\
+      \ target=\"_blank\">\n      <i class=\"fa fa-2x fa-twitter-square\">\n     \
+      \ </i>\n     </a>\n    </div>\n   </figcaption>\n  </img>\n </figure>\n <h4>\n\
+      \  Redon Skikuli\n </h4>\n <span class=\"title hide\">\n  Open Labs Hackerspace\n\
+      \ </span>\n</div>\n"}
+  Rustam_Mehmandarov: {details: "<div class=\"container\">\n <div class=\"row\">\n\
+      \  <div class=\"col-lg-8 col-lg-offset-2\" id=\"speaker-detail\">\n   <div class=\"\
+      row\">\n    <button class=\"mfp-close\" title=\"Close (Esc)\" type=\"button\"\
+      >\n     \xD7\n    </button>\n    <div class=\"col-md-4 col-lg-4\">\n     <img\
+      \ alt=\"\" class=\"img-responsive\" src=\"img/speakers/RustamMehmandarov.jpg\"\
+      />\n     <i class=\"fa fa-lg fa-twitter\">\n     </i>\n     <a href=\"http://twitter.com/rmehmandarov\"\
+      \ target=\"_blank\">\n      @rmehmandarov\n     </a>\n     <br/>\n     <i class=\"\
+      fa fa-lg fa-globe\">\n     </i>\n     <a href=\"http://mehmandarov.com\" style=\"\
+      width: 30px\" target=\"_blank\">\n      Site\n     </a>\n    </div>\n    <div\
+      \ class=\"col-md-8 col-lg-8\">\n     <h2>\n      Rustam Mehmandarov\n     </h2>\n\
+      \     <h3>\n     </h3>\n     <p>\n      Rustam is the leader of the Norwegian\
+      \ Java User Group - javaBin, and a competency network coordinator for databases\
+      \ and information management at work. One of the organizers of JavaZone and\
+      \ Arctic IoT Challenge. Speaker. He holds a master\x92s degree in Computer Science\
+      \ from the University of Oslo, and he has been working as a developer, lead\
+      \ programmer and architect for over 10 years. In addition to being passionate\
+      \ about agile development, web development, architecture and geographical information\
+      \ systems, he is also a guru of both Linux and Windows worlds. On his spare\
+      \ time he enjoys working out, as well as coding in Python and Java [but not\
+      \ simultaneously]. Rustam frequently speaks at both national and international\
+      \ conferences, and events at various Norwegian universities.\n     </p>\n  \
+      \  </div>\n   </div>\n  </div>\n </div>\n</div>", header: "<div class=\"speaker\
+      \ col-xs-12 col-sm-4 col-md-3 col-lg-3\" id=\"Speaker_Rustam_Mehmandarov\">\n\
+      \ <figure>\n  <img alt=\"\" src=\"img/speakers/RustamMehmandarov.jpg\" style=\"\
+      width: 213px; height: 213px;\">\n   <figcaption>\n    <h4>\n     Rustam Mehmandarov\n\
+      \    </h4>\n    <p>\n     Passionate computer scientist. Leader of the Norwegian\
+      \ Java User Group - javaBin. Speaker.\n    </p>\n    <a class=\"speaker-detail\"\
+      \ href=\"speaker-detail.php?speakerId=50\">\n     <i class=\"fa fa-lg fa-external-link\"\
+      >\n     </i>\n    </a>\n    <div class=\"social\">\n     <a href=\"http://mehmandarov.com\"\
+      \ target=\"_blank\">\n      <i class=\"fa fa-2x fa-globe\">\n      </i>\n  \
+      \   </a>\n     <a href=\"http://twitter.com/rmehmandarov\" target=\"_blank\"\
+      >\n      <i class=\"fa fa-2x fa-twitter-square\">\n      </i>\n     </a>\n \
+      \   </div>\n   </figcaption>\n  </img>\n </figure>\n <h4>\n  Rustam Mehmandarov\n\
+      \ </h4>\n <span class=\"title hide\">\n </span>\n</div>\n"}
+  Sam_Tuke: {details: "<div class=\"container\">\n <div class=\"row\">\n  <div class=\"\
+      col-lg-8 col-lg-offset-2\" id=\"speaker-detail\">\n   <div class=\"row\">\n\
+      \    <button class=\"mfp-close\" title=\"Close (Esc)\" type=\"button\">\n  \
+      \   \xD7\n    </button>\n    <div class=\"col-md-4 col-lg-4\">\n     <img alt=\"\
+      \" class=\"img-responsive\" src=\"img/speakers/SamTuke.jpg\"/>\n     <i class=\"\
+      fa fa-lg fa-twitter\">\n     </i>\n     <a href=\"http://twitter.com/samtuke\"\
+      \ target=\"_blank\">\n      @samtuke\n     </a>\n     <br/>\n     <i class=\"\
+      fa fa-lg fa-globe\">\n     </i>\n     <a href=\"http://samtuke.com\" style=\"\
+      width: 30px\" target=\"_blank\">\n      Site\n     </a>\n    </div>\n    <div\
+      \ class=\"col-md-8 col-lg-8\">\n     <h2>\n      Sam Tuke\n     </h2>\n    \
+      \ <h3>\n      phpList\n     </h3>\n     <p>\n      Sam is an Open Source entrepreneur,\
+      \ developer, &amp; CEO of phpList. His past roles include Marketing Manager\
+      \ of LibreOffice at Collabora, Campaign Manager at the Free Software Foundation\
+      \ Europe and Gnu Privacy Guard (GnuPG), and Systems Engineer at ownCloud.\n\
+      \     </p>\n    </div>\n   </div>\n  </div>\n </div>\n</div>", header: "<div\
+      \ class=\"speaker col-xs-12 col-sm-4 col-md-3 col-lg-3\" id=\"Speaker_Sam_Tuke\"\
+      >\n <figure>\n  <img alt=\"\" src=\"img/speakers/SamTuke.jpg\" style=\"width:\
+      \ 213px; height: 213px;\">\n   <figcaption>\n    <h4>\n     Sam Tuke\n    </h4>\n\
+      \    <p>\n     Sam has driven global adoption of Free Software at Collabora,\
+      \ FSFE, GnuPG and ownCloud. He now..\n    </p>\n    <a class=\"speaker-detail\"\
+      \ href=\"speaker-detail.php?speakerId=27\">\n     <i class=\"fa fa-lg fa-external-link\"\
+      >\n     </i>\n    </a>\n    <div class=\"social\">\n     <a href=\"http://samtuke.com\"\
+      \ target=\"_blank\">\n      <i class=\"fa fa-2x fa-globe\">\n      </i>\n  \
+      \   </a>\n     <a href=\"http://twitter.com/samtuke\" target=\"_blank\">\n \
+      \     <i class=\"fa fa-2x fa-twitter-square\">\n      </i>\n     </a>\n    </div>\n\
+      \   </figcaption>\n  </img>\n </figure>\n <h4>\n  Sam Tuke\n </h4>\n <span class=\"\
+      title hide\">\n  phpList\n </span>\n</div>\n"}
+  Thomas_Levine: {details: "<div class=\"container\">\n <div class=\"row\">\n  <div\
+      \ class=\"col-lg-8 col-lg-offset-2\" id=\"speaker-detail\">\n   <div class=\"\
+      row\">\n    <button class=\"mfp-close\" title=\"Close (Esc)\" type=\"button\"\
+      >\n     \xD7\n    </button>\n    <div class=\"col-md-4 col-lg-4\">\n     <img\
+      \ alt=\"\" class=\"img-responsive\" src=\"img/speakers/Thomas-Levine.jpg\"/>\n\
+      \     <i class=\"fa fa-lg fa-globe\">\n     </i>\n     <a href=\"https://thomaslevine.com\"\
+      \ style=\"width: 30px\" target=\"_blank\">\n      Site\n     </a>\n    </div>\n\
+      \    <div class=\"col-md-8 col-lg-8\">\n     <h2>\n      Thomas Levine\n   \
+      \  </h2>\n     <h3>\n     </h3>\n     <p>\n      Thomas Levine researches how\
+      \ people interact with physical objects and digital data. Specific interests\
+      \ include multisensory representations of data, studying patterns in the publishing\
+      \ of government open data, the maintenance of sanitary conditions in bathrooms,\
+      \ and the creation of intuitive and minimal computer-user interfaces.\n    \
+      \ </p>\n    </div>\n   </div>\n  </div>\n </div>\n</div>", header: "<div class=\"\
+      speaker col-xs-12 col-sm-4 col-md-3 col-lg-3\" id=\"Speaker_Thomas_Levine\"\
+      >\n <figure>\n  <img alt=\"\" src=\"img/speakers/Thomas-Levine.jpg\" style=\"\
+      width: 213px; height: 213px;\">\n   <figcaption>\n    <h4>\n     Thomas Levine\n\
+      \    </h4>\n    <p>\n     Thomas Levine is a dada artist interested in sleep.\n\
+      \    </p>\n    <a class=\"speaker-detail\" href=\"speaker-detail.php?speakerId=32\"\
+      >\n     <i class=\"fa fa-lg fa-external-link\">\n     </i>\n    </a>\n    <div\
+      \ class=\"social\">\n     <a href=\"https://thomaslevine.com\" target=\"_blank\"\
+      >\n      <i class=\"fa fa-2x fa-globe\">\n      </i>\n     </a>\n    </div>\n\
+      \   </figcaption>\n  </img>\n </figure>\n <h4>\n  Thomas Levine\n </h4>\n <span\
+      \ class=\"title hide\">\n </span>\n</div>\n"}
+  Victor_Nitu: {details: "<div class=\"container\">\n <div class=\"row\">\n  <div\
+      \ class=\"col-lg-8 col-lg-offset-2\" id=\"speaker-detail\">\n   <div class=\"\
+      row\">\n    <button class=\"mfp-close\" title=\"Close (Esc)\" type=\"button\"\
+      >\n     \xD7\n    </button>\n    <div class=\"col-md-4 col-lg-4\">\n     <img\
+      \ alt=\"\" class=\"img-responsive\" src=\"img/speakers/VictorNitu.jpg\"/>\n\
+      \     <i class=\"fa fa-lg fa-globe\">\n     </i>\n     <a href=\"https://umbra.xyz\"\
+      \ style=\"width: 30px\" target=\"_blank\">\n      Site\n     </a>\n    </div>\n\
+      \    <div class=\"col-md-8 col-lg-8\">\n     <h2>\n      Victor Ni\u021Bu\n\
+      \     </h2>\n     <h3>\n     </h3>\n     <p>\n      Victor Ni\u021Bu is a developer,\
+      \ sysadmin and freedom enthusiast based in Cluj-Napoca, Romania. He is a long\
+      \ time advocate for freedom of movement, technology and information, currently\
+      \ part of the Open Knowledge International tech team, where he works at the\
+      \ OpenTrials project. His recent work was focused on developing and contributing\
+      \ to tools for transparency and investigative journalism. One of the most recent\
+      \ projects still in active development is Elvis, a tool enabling non-techies\
+      \ to investigate patterns in public spendings. In the past, Victor served as\
+      \ CTO, then CEO of Funda\u021Bia Ceata, a Romanian free software advocacy NGO,\
+      \ in which time he collaborated with multiple related organisations from Europe\
+      \ and beyond. He was the lead developer within The Sponge Media Innovation Lab\
+      \ for Eastern Europe, an umbrella informal coalition of non-profits focused\
+      \ on investigative journalism and freedom of information and technology.\n \
+      \    </p>\n    </div>\n   </div>\n  </div>\n </div>\n</div>", header: "<div\
+      \ class=\"speaker col-xs-12 col-sm-4 col-md-3 col-lg-3\" id=\"Speaker_Victor_Nitu\"\
+      >\n <figure>\n  <img alt=\"\" src=\"img/speakers/VictorNitu.jpg\" style=\"width:\
+      \ 213px; height: 213px;\">\n   <figcaption>\n    <h4>\n     Victor Ni\u021B\
+      u\n    </h4>\n    <p>\n     Victor Ni\u021Bu is a developer, sysadmin and freedom\
+      \ enthusiast based in Cluj-Napoca, Romania.\n    </p>\n    <a class=\"speaker-detail\"\
+      \ href=\"speaker-detail.php?speakerId=51\">\n     <i class=\"fa fa-lg fa-external-link\"\
+      >\n     </i>\n    </a>\n    <div class=\"social\">\n     <a href=\"https://umbra.xyz\"\
+      \ target=\"_blank\">\n      <i class=\"fa fa-2x fa-globe\">\n      </i>\n  \
+      \   </a>\n    </div>\n   </figcaption>\n  </img>\n </figure>\n <h4>\n  Victor\
+      \ Ni\u021Bu\n </h4>\n <span class=\"title hide\">\n </span>\n</div>\n"}
+  Zlatko_Trajcheski: {details: "<div class=\"container\">\n <div class=\"row\">\n\
+      \  <div class=\"col-lg-8 col-lg-offset-2\" id=\"speaker-detail\">\n   <div class=\"\
+      row\">\n    <button class=\"mfp-close\" title=\"Close (Esc)\" type=\"button\"\
+      >\n     \xD7\n    </button>\n    <div class=\"col-md-4 col-lg-4\">\n     <img\
+      \ alt=\"\" class=\"img-responsive\" src=\"img/speakers/ZlatkoTrajcheski.jpg\"\
+      />\n     <i class=\"fa fa-lg fa-globe\">\n     </i>\n     <a href=\"http://b10g.spodeli.org/\"\
+      \ style=\"width: 30px\" target=\"_blank\">\n      Site\n     </a>\n    </div>\n\
+      \    <div class=\"col-md-8 col-lg-8\">\n     <h2>\n      Zlatko Trajcheski\n\
+      \     </h2>\n     <h3>\n      Kika Hacklab - Skopje\n     </h3>\n     <p>\n\
+      \      Long time Free Software and Linux user and supporter. Has years of experience\
+      \ in teaching, developing and administering Linux Systems. Member of Kika Hacklab\
+      \ in Skopje where people share their computer knowledge. Head of IT in FX3X,\
+      \ VFX company in Skopje where he is responsible for IT team, design and maintenance\
+      \ of corporate network and technical security. He builds better and more reliable\
+      \ computer systems with Free Software, tries to organize people in the same\
+      \ open way and likes to spread the idea of those things.\n     </p>\n    </div>\n\
+      \   </div>\n  </div>\n </div>\n</div>", header: "<div class=\"speaker col-xs-12\
+      \ col-sm-4 col-md-3 col-lg-3\" id=\"Speaker_Zlatko_Trajcheski\">\n <figure>\n\
+      \  <img alt=\"\" src=\"img/speakers/ZlatkoTrajcheski.jpg\" style=\"width: 213px;\
+      \ height: 213px;\">\n   <figcaption>\n    <h4>\n     Zlatko Trajcheski\n   \
+      \ </h4>\n    <p>\n     Person that develops and improves computer systems.\n\
+      \    </p>\n    <a class=\"speaker-detail\" href=\"speaker-detail.php?speakerId=67\"\
+      >\n     <i class=\"fa fa-lg fa-external-link\">\n     </i>\n    </a>\n    <div\
+      \ class=\"social\">\n     <a href=\"http://b10g.spodeli.org/\" target=\"_blank\"\
+      >\n      <i class=\"fa fa-2x fa-globe\">\n      </i>\n     </a>\n    </div>\n\
+      \   </figcaption>\n  </img>\n </figure>\n <h4>\n  Zlatko Trajcheski\n </h4>\n\
+      \ <span class=\"title hide\">\n  Kika Hacklab - Skopje\n </span>\n</div>\n"}
+
