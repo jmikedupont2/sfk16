@@ -1,0 +1,721 @@
+- !!python/unicode 'capacity': 200
+  !!python/unicode 'capacity_is_custom': false
+  !!python/unicode 'category_id': null
+  !!python/unicode 'changed': !!python/unicode '2016-10-15T14:59:33Z'
+  !!python/unicode 'created': !!python/unicode '2016-10-13T17:15:38Z'
+  !!python/unicode 'currency': !!python/unicode 'USD'
+  !!python/unicode 'description': {!!python/unicode 'html': null, !!python/unicode 'text': null}
+  !!python/unicode 'end': {!!python/unicode 'local': !!python/unicode '2016-10-22T18:00:00',
+    !!python/unicode 'timezone': !!python/unicode 'Europe/Belgrade', !!python/unicode 'utc': !!python/unicode '2016-10-22T16:00:00Z'}
+  !!python/unicode 'format_id': null
+  !!python/unicode 'hide_end_date': false
+  !!python/unicode 'hide_start_date': false
+  !!python/unicode 'id': !!python/unicode '28584821972'
+  !!python/unicode 'is_locked': false
+  !!python/unicode 'is_reserved_seating': false
+  !!python/unicode 'is_series': false
+  !!python/unicode 'is_series_parent': false
+  !!python/unicode 'listed': true
+  !!python/unicode 'locale': !!python/unicode 'en_US'
+  !!python/unicode 'logo':
+    !!python/unicode 'aspect_ratio': !!python/unicode '2'
+    !!python/unicode 'crop_mask':
+      !!python/unicode 'height': 480
+      !!python/unicode 'top_left': {!!python/unicode 'x': 0, !!python/unicode 'y': 30}
+      !!python/unicode 'width': 960
+    !!python/unicode 'edge_color': !!python/unicode '#b3b2b0'
+    !!python/unicode 'edge_color_set': true
+    !!python/unicode 'id': !!python/unicode '25028716'
+    !!python/unicode 'original': {!!python/unicode 'height': 540, !!python/unicode 'url': !!python/unicode 'https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F25028716%2F190126692399%2F1%2Foriginal.jpg?s=4de2af539c5a2953c34f8fd0caa2510c',
+      !!python/unicode 'width': 960}
+    !!python/unicode 'url': !!python/unicode 'https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F25028716%2F190126692399%2F1%2Foriginal.jpg?h=200&w=450&rect=0%2C30%2C960%2C480&s=f377331699169be7c1f0c4f22e9af934'
+  !!python/unicode 'logo_id': !!python/unicode '25028716'
+  !!python/unicode 'name': {!!python/unicode 'html': !!python/unicode 'Software Freedom
+      Kosova - Conference Day', !!python/unicode 'text': !!python/unicode 'Software
+      Freedom Kosova - Conference Day'}
+  !!python/unicode 'online_event': false
+  !!python/unicode 'organizer_id': !!python/unicode '6873583621'
+  !!python/unicode 'privacy_setting': !!python/unicode 'unlocked'
+  !!python/unicode 'resource_uri': !!python/unicode 'https://www.eventbriteapi.com/v3/events/28584821972/'
+  !!python/unicode 'shareable': true
+  !!python/unicode 'source': !!python/unicode 'create_2.0'
+  !!python/unicode 'start': {!!python/unicode 'local': !!python/unicode '2016-10-22T09:15:00',
+    !!python/unicode 'timezone': !!python/unicode 'Europe/Belgrade', !!python/unicode 'utc': !!python/unicode '2016-10-22T07:15:00Z'}
+  !!python/unicode 'status': !!python/unicode 'live'
+  !!python/unicode 'subcategory_id': null
+  !!python/unicode 'tx_time_limit': 480
+  !!python/unicode 'url': !!python/unicode 'https://www.eventbrite.com/e/software-freedom-kosova-conference-day-tickets-28584821972?aff=ebapi'
+  !!python/unicode 'venue_id': !!python/unicode '17017211'
+- !!python/unicode 'capacity': 15
+  !!python/unicode 'capacity_is_custom': false
+  !!python/unicode 'category_id': null
+  !!python/unicode 'changed': !!python/unicode '2016-10-15T13:06:37Z'
+  !!python/unicode 'created': !!python/unicode '2016-10-13T17:25:09Z'
+  !!python/unicode 'currency': !!python/unicode 'USD'
+  !!python/unicode 'description': {!!python/unicode 'html': null, !!python/unicode 'text': null}
+  !!python/unicode 'end': {!!python/unicode 'local': !!python/unicode '2016-10-23T17:00:00',
+    !!python/unicode 'timezone': !!python/unicode 'Europe/Belgrade', !!python/unicode 'utc': !!python/unicode '2016-10-23T15:00:00Z'}
+  !!python/unicode 'format_id': null
+  !!python/unicode 'hide_end_date': false
+  !!python/unicode 'hide_start_date': false
+  !!python/unicode 'id': !!python/unicode '28584989473'
+  !!python/unicode 'is_locked': false
+  !!python/unicode 'is_reserved_seating': false
+  !!python/unicode 'is_series': false
+  !!python/unicode 'is_series_parent': false
+  !!python/unicode 'listed': true
+  !!python/unicode 'locale': !!python/unicode 'en_US'
+  !!python/unicode 'logo':
+    !!python/unicode 'aspect_ratio': !!python/unicode '2'
+    !!python/unicode 'crop_mask':
+      !!python/unicode 'height': 480
+      !!python/unicode 'top_left': {!!python/unicode 'x': 0, !!python/unicode 'y': 30}
+      !!python/unicode 'width': 960
+    !!python/unicode 'edge_color': !!python/unicode '#b3b2b0'
+    !!python/unicode 'edge_color_set': true
+    !!python/unicode 'id': !!python/unicode '25029113'
+    !!python/unicode 'original': {!!python/unicode 'height': 540, !!python/unicode 'url': !!python/unicode 'https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F25029113%2F190126692399%2F1%2Foriginal.jpg?s=c5fdb027eabfdd9f160d36ca704d3ee4',
+      !!python/unicode 'width': 960}
+    !!python/unicode 'url': !!python/unicode 'https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F25029113%2F190126692399%2F1%2Foriginal.jpg?h=200&w=450&rect=0%2C30%2C960%2C480&s=38d3b2c25ed99fb7b2adee34b209cc4a'
+  !!python/unicode 'logo_id': !!python/unicode '25029113'
+  !!python/unicode 'name': {!!python/unicode 'html': !!python/unicode 'Endrit Bytyqi
+      - Functional Programming with Javascript and Ramda.js', !!python/unicode 'text': !!python/unicode 'Endrit
+      Bytyqi - Functional Programming with Javascript and Ramda.js'}
+  !!python/unicode 'online_event': false
+  !!python/unicode 'organizer_id': !!python/unicode '6873583621'
+  !!python/unicode 'privacy_setting': !!python/unicode 'unlocked'
+  !!python/unicode 'resource_uri': !!python/unicode 'https://www.eventbriteapi.com/v3/events/28584989473/'
+  !!python/unicode 'shareable': true
+  !!python/unicode 'source': !!python/unicode 'create_2.0'
+  !!python/unicode 'start': {!!python/unicode 'local': !!python/unicode '2016-10-23T15:30:00',
+    !!python/unicode 'timezone': !!python/unicode 'Europe/Belgrade', !!python/unicode 'utc': !!python/unicode '2016-10-23T13:30:00Z'}
+  !!python/unicode 'status': !!python/unicode 'live'
+  !!python/unicode 'subcategory_id': null
+  !!python/unicode 'tx_time_limit': 480
+  !!python/unicode 'url': !!python/unicode 'http://www.eventbrite.com/e/endrit-bytyqi-functional-programming-with-javascript-and-ramdajs-tickets-28584989473?aff=ebapi'
+  !!python/unicode 'venue_id': !!python/unicode '17003392'
+- !!python/unicode 'capacity': 15
+  !!python/unicode 'capacity_is_custom': false
+  !!python/unicode 'category_id': null
+  !!python/unicode 'changed': !!python/unicode '2016-10-13T17:21:18Z'
+  !!python/unicode 'created': !!python/unicode '2016-10-13T17:21:15Z'
+  !!python/unicode 'currency': !!python/unicode 'USD'
+  !!python/unicode 'description': {!!python/unicode 'html': null, !!python/unicode 'text': null}
+  !!python/unicode 'end': {!!python/unicode 'local': !!python/unicode '2016-10-23T13:30:00',
+    !!python/unicode 'timezone': !!python/unicode 'Europe/Belgrade', !!python/unicode 'utc': !!python/unicode '2016-10-23T11:30:00Z'}
+  !!python/unicode 'format_id': null
+  !!python/unicode 'hide_end_date': false
+  !!python/unicode 'hide_start_date': false
+  !!python/unicode 'id': !!python/unicode '28584914248'
+  !!python/unicode 'is_locked': false
+  !!python/unicode 'is_reserved_seating': false
+  !!python/unicode 'is_series': false
+  !!python/unicode 'is_series_parent': false
+  !!python/unicode 'listed': true
+  !!python/unicode 'locale': !!python/unicode 'en_US'
+  !!python/unicode 'logo':
+    !!python/unicode 'aspect_ratio': !!python/unicode '2'
+    !!python/unicode 'crop_mask':
+      !!python/unicode 'height': 480
+      !!python/unicode 'top_left': {!!python/unicode 'x': 0, !!python/unicode 'y': 30}
+      !!python/unicode 'width': 960
+    !!python/unicode 'edge_color': null
+    !!python/unicode 'edge_color_set': true
+    !!python/unicode 'id': !!python/unicode '25028946'
+    !!python/unicode 'original': {!!python/unicode 'height': 540, !!python/unicode 'url': !!python/unicode 'https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F25028946%2F190126692399%2F1%2Foriginal.jpg?s=f8fcd7511ef3ab9dca3d89f55c5c28df',
+      !!python/unicode 'width': 960}
+    !!python/unicode 'url': !!python/unicode 'https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F25028946%2F190126692399%2F1%2Foriginal.jpg?h=200&w=450&rect=0%2C30%2C960%2C480&s=ded70fee2ff918dde4581c2d818f0a3c'
+  !!python/unicode 'logo_id': !!python/unicode '25028946'
+  !!python/unicode 'name': {!!python/unicode 'html': !!python/unicode 'Alket Rexhepi
+      - Creating a game with Godot', !!python/unicode 'text': !!python/unicode 'Alket
+      Rexhepi - Creating a game with Godot'}
+  !!python/unicode 'online_event': false
+  !!python/unicode 'organizer_id': !!python/unicode '6873583621'
+  !!python/unicode 'privacy_setting': !!python/unicode 'unlocked'
+  !!python/unicode 'resource_uri': !!python/unicode 'https://www.eventbriteapi.com/v3/events/28584914248/'
+  !!python/unicode 'shareable': true
+  !!python/unicode 'source': !!python/unicode 'create_2.0'
+  !!python/unicode 'start': {!!python/unicode 'local': !!python/unicode '2016-10-23T11:00:00',
+    !!python/unicode 'timezone': !!python/unicode 'Europe/Belgrade', !!python/unicode 'utc': !!python/unicode '2016-10-23T09:00:00Z'}
+  !!python/unicode 'status': !!python/unicode 'live'
+  !!python/unicode 'subcategory_id': null
+  !!python/unicode 'tx_time_limit': 480
+  !!python/unicode 'url': !!python/unicode 'https://www.eventbrite.com/e/alket-rexhepi-creating-a-game-with-godot-tickets-28584914248?aff=ebapi'
+  !!python/unicode 'venue_id': !!python/unicode '17017262'
+- !!python/unicode 'capacity': 15
+  !!python/unicode 'capacity_is_custom': false
+  !!python/unicode 'category_id': null
+  !!python/unicode 'changed': !!python/unicode '2016-10-12T19:10:12Z'
+  !!python/unicode 'created': !!python/unicode '2016-10-12T19:10:09Z'
+  !!python/unicode 'currency': !!python/unicode 'USD'
+  !!python/unicode 'description': {!!python/unicode 'html': null, !!python/unicode 'text': null}
+  !!python/unicode 'end': {!!python/unicode 'local': !!python/unicode '2016-10-21T12:55:00',
+    !!python/unicode 'timezone': !!python/unicode 'Europe/Belgrade', !!python/unicode 'utc': !!python/unicode '2016-10-21T10:55:00Z'}
+  !!python/unicode 'format_id': null
+  !!python/unicode 'hide_end_date': false
+  !!python/unicode 'hide_start_date': false
+  !!python/unicode 'id': !!python/unicode '28561961596'
+  !!python/unicode 'is_locked': false
+  !!python/unicode 'is_reserved_seating': false
+  !!python/unicode 'is_series': false
+  !!python/unicode 'is_series_parent': false
+  !!python/unicode 'listed': true
+  !!python/unicode 'locale': !!python/unicode 'en_US'
+  !!python/unicode 'logo':
+    !!python/unicode 'aspect_ratio': !!python/unicode '2'
+    !!python/unicode 'crop_mask':
+      !!python/unicode 'height': 960
+      !!python/unicode 'top_left': {!!python/unicode 'x': 0, !!python/unicode 'y': 60}
+      !!python/unicode 'width': 1920
+    !!python/unicode 'edge_color': !!python/unicode '#b2b2b0'
+    !!python/unicode 'edge_color_set': true
+    !!python/unicode 'id': !!python/unicode '24996378'
+    !!python/unicode 'original': {!!python/unicode 'height': 1081, !!python/unicode 'url': !!python/unicode 'https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F24996378%2F190126692399%2F1%2Foriginal.jpg?s=d0851af2a1416db4f2ce404e4d256a05',
+      !!python/unicode 'width': 1921}
+    !!python/unicode 'url': !!python/unicode 'https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F24996378%2F190126692399%2F1%2Foriginal.jpg?h=200&w=450&rect=0%2C60%2C1920%2C960&s=54c340ed22564f4d7c5b03b48357fbc9'
+  !!python/unicode 'logo_id': !!python/unicode '24996378'
+  !!python/unicode 'name': {!!python/unicode 'html': !!python/unicode 'Betim Drenica
+      - Designing in API in open sourced Asp.Net', !!python/unicode 'text': !!python/unicode 'Betim
+      Drenica - Designing in API in open sourced Asp.Net'}
+  !!python/unicode 'online_event': false
+  !!python/unicode 'organizer_id': !!python/unicode '6873583621'
+  !!python/unicode 'privacy_setting': !!python/unicode 'unlocked'
+  !!python/unicode 'resource_uri': !!python/unicode 'https://www.eventbriteapi.com/v3/events/28561961596/'
+  !!python/unicode 'shareable': true
+  !!python/unicode 'source': !!python/unicode 'create_2.0'
+  !!python/unicode 'start': {!!python/unicode 'local': !!python/unicode '2016-10-21T12:00:00',
+    !!python/unicode 'timezone': !!python/unicode 'Europe/Belgrade', !!python/unicode 'utc': !!python/unicode '2016-10-21T10:00:00Z'}
+  !!python/unicode 'status': !!python/unicode 'live'
+  !!python/unicode 'subcategory_id': null
+  !!python/unicode 'tx_time_limit': 480
+  !!python/unicode 'url': !!python/unicode 'https://www.eventbrite.com/e/betim-drenica-designing-in-api-in-open-sourced-aspnet-tickets-28561961596?aff=ebapi'
+  !!python/unicode 'venue_id': !!python/unicode '17003392'
+- !!python/unicode 'capacity': 15
+  !!python/unicode 'capacity_is_custom': false
+  !!python/unicode 'category_id': !!python/unicode '102'
+  !!python/unicode 'changed': !!python/unicode '2016-10-15T17:38:59Z'
+  !!python/unicode 'created': !!python/unicode '2016-10-12T18:56:13Z'
+  !!python/unicode 'currency': !!python/unicode 'USD'
+  !!python/unicode 'description': {!!python/unicode 'html': !!python/unicode '<H3>Own-Mailbox
+      (<A HREF="https://www.own-mailbox.com/" TARGET="_blank" REL="noreferrer noopener
+      nofollow noopener noreferrer nofollow">own-mailbox.com</A>,<A HREF="https://twitter.com/Own_Mailbox"
+      TARGET="_blank" TITLE="Own_Mailbox" REL="noreferrer noopener nofollow noopener
+      noreferrer nofollow">@Own_Mailbox</A>)</H3>
+
+      <P>is a personal and secure email server you can run in your home. In this workshop
+      we will install and set it up on RPi3 (<A HREF="https://www.raspberrypi.org/products/raspberry-pi-3-model-b/"
+      TARGET="_blank" REL="noreferrer noopener nofollow noopener noreferrer nofollow">raspberrypi.org</A>,<A
+      HREF="https://twitter.com/Raspberry_Pi" TARGET="_blank" REL="noreferrer noopener
+      nofollow noopener noreferrer nofollow">@Raspberry_Pi</A>).</P>
+
+      <H3>Dashamir Hoxha (<A HREF="http://dashohoxha.fs.al/" TARGET="_blank" REL="noreferrer
+      noopener nofollow noopener noreferrer nofollow"><SPAN>dashohoxha.fs.al</SPAN></A><SPAN>,</SPAN><A
+      HREF="https://twitter.com/dashohoxha" TARGET="_blank" REL="noreferrer noopener
+      nofollow noopener noreferrer nofollow"><SPAN>@dashohoxha</SPAN></A><SPAN>)</SPAN></H3>
+
+      <P><SPAN>a Computer Engineer with experience in software engineering, web application
+      developmenunt, Linux and network configuration/administration, configuration
+      management, documentation writing, and more</SPAN><BR></P>
+
+      <H3><SPAN>Venue</SPAN></H3>
+
+      <P><SPAN>Innovation Centre Kosovo (<A HREF="http://osm.org/go/xfpE5K9_c--?m=0"
+      TARGET="_blank" TITLE="Innovation Centre Kosovo" REL="noreferrer noopener nofollow
+      noopener noreferrer nofollow">http://osm.org/go/xfpE5K9_c--?m=0</A>)</SPAN></P>
+
+      <H3><SPAN>Conference</SPAN></H3>
+
+      <P><SPAN>This talk is part of #sfk16 <A HREF="http://sfk.flossk.org/sfk16/"
+      TARGET="_blank" REL="noreferrer noopener nofollow noopener noreferrer nofollow">sfk.flossk.org/sfk16/</A></SPAN></P>',
+    !!python/unicode 'text': !!python/unicode 'Own-Mailbox (own-mailbox.com,@Own_Mailbox)
+
+      is a personal and secure email server you can run in your home. In this workshop
+      we will install and set it up on RPi3 (raspberrypi.org,@Raspberry_Pi).
+
+      Dashamir Hoxha (dashohoxha.fs.al,@dashohoxha)
+
+      a Computer Engineer with experience in software engineering, web application
+      developmenunt, Linux and network configuration/administration, configuration
+      management, documentation writing, and more
+
+      Venue
+
+      Innovation Centre Kosovo (http://osm.org/go/xfpE5K9_c--?m=0)
+
+      Conference
+
+      This talk is part of #sfk16 sfk.flossk.org/sfk16/'}
+  !!python/unicode 'end': {!!python/unicode 'local': !!python/unicode '2016-10-21T10:55:00',
+    !!python/unicode 'timezone': !!python/unicode 'Europe/Belgrade', !!python/unicode 'utc': !!python/unicode '2016-10-21T08:55:00Z'}
+  !!python/unicode 'format_id': !!python/unicode '9'
+  !!python/unicode 'hide_end_date': false
+  !!python/unicode 'hide_start_date': false
+  !!python/unicode 'id': !!python/unicode '28561598510'
+  !!python/unicode 'is_locked': false
+  !!python/unicode 'is_reserved_seating': false
+  !!python/unicode 'is_series': false
+  !!python/unicode 'is_series_parent': false
+  !!python/unicode 'listed': true
+  !!python/unicode 'locale': !!python/unicode 'en_US'
+  !!python/unicode 'logo':
+    !!python/unicode 'aspect_ratio': !!python/unicode '2'
+    !!python/unicode 'crop_mask':
+      !!python/unicode 'height': 230
+      !!python/unicode 'top_left': {!!python/unicode 'x': 0, !!python/unicode 'y': 25}
+      !!python/unicode 'width': 460
+    !!python/unicode 'edge_color': null
+    !!python/unicode 'edge_color_set': true
+    !!python/unicode 'id': !!python/unicode '25076881'
+    !!python/unicode 'original': {!!python/unicode 'height': 400, !!python/unicode 'url': !!python/unicode 'https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F25076881%2F109005364417%2F1%2Foriginal.jpg?s=4592631cac16a4d7d84eb9ed072b0bc4',
+      !!python/unicode 'width': 461}
+    !!python/unicode 'url': !!python/unicode 'https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F25076881%2F109005364417%2F1%2Foriginal.jpg?h=200&w=450&rect=0%2C25%2C460%2C230&s=ed934a5e1ff110907fc82d7d48bde972'
+  !!python/unicode 'logo_id': !!python/unicode '25076881'
+  !!python/unicode 'name': {!!python/unicode 'html': !!python/unicode 'Dashamir Hoxha
+      - Install your Own-Mailbox on your RaspberryPi', !!python/unicode 'text': !!python/unicode 'Dashamir
+      Hoxha - Install your Own-Mailbox on your RaspberryPi'}
+  !!python/unicode 'online_event': false
+  !!python/unicode 'organizer_id': !!python/unicode '6873583621'
+  !!python/unicode 'privacy_setting': !!python/unicode 'unlocked'
+  !!python/unicode 'resource_uri': !!python/unicode 'https://www.eventbriteapi.com/v3/events/28561598510/'
+  !!python/unicode 'shareable': true
+  !!python/unicode 'source': !!python/unicode 'create_2.0'
+  !!python/unicode 'start': {!!python/unicode 'local': !!python/unicode '2016-10-21T10:00:00',
+    !!python/unicode 'timezone': !!python/unicode 'Europe/Belgrade', !!python/unicode 'utc': !!python/unicode '2016-10-21T08:00:00Z'}
+  !!python/unicode 'status': !!python/unicode 'live'
+  !!python/unicode 'subcategory_id': !!python/unicode '2004'
+  !!python/unicode 'tx_time_limit': 480
+  !!python/unicode 'url': !!python/unicode 'http://www.eventbrite.com/e/dashamir-hoxha-install-your-own-mailbox-on-your-raspberrypi-tickets-28561598510?aff=ebapi'
+  !!python/unicode 'venue_id': !!python/unicode '17038970'
+- !!python/unicode 'capacity': 15
+  !!python/unicode 'capacity_is_custom': false
+  !!python/unicode 'category_id': null
+  !!python/unicode 'changed': !!python/unicode '2016-10-13T17:23:28Z'
+  !!python/unicode 'created': !!python/unicode '2016-10-13T17:23:26Z'
+  !!python/unicode 'currency': !!python/unicode 'USD'
+  !!python/unicode 'description': {!!python/unicode 'html': null, !!python/unicode 'text': null}
+  !!python/unicode 'end': {!!python/unicode 'local': !!python/unicode '2016-10-23T15:30:00',
+    !!python/unicode 'timezone': !!python/unicode 'Europe/Belgrade', !!python/unicode 'utc': !!python/unicode '2016-10-23T13:30:00Z'}
+  !!python/unicode 'format_id': null
+  !!python/unicode 'hide_end_date': false
+  !!python/unicode 'hide_start_date': false
+  !!python/unicode 'id': !!python/unicode '28584954368'
+  !!python/unicode 'is_locked': false
+  !!python/unicode 'is_reserved_seating': false
+  !!python/unicode 'is_series': false
+  !!python/unicode 'is_series_parent': false
+  !!python/unicode 'listed': true
+  !!python/unicode 'locale': !!python/unicode 'en_US'
+  !!python/unicode 'logo':
+    !!python/unicode 'aspect_ratio': !!python/unicode '2'
+    !!python/unicode 'crop_mask':
+      !!python/unicode 'height': 480
+      !!python/unicode 'top_left': {!!python/unicode 'x': 0, !!python/unicode 'y': 30}
+      !!python/unicode 'width': 960
+    !!python/unicode 'edge_color': !!python/unicode '#b3b2b0'
+    !!python/unicode 'edge_color_set': true
+    !!python/unicode 'id': !!python/unicode '25029037'
+    !!python/unicode 'original': {!!python/unicode 'height': 540, !!python/unicode 'url': !!python/unicode 'https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F25029037%2F190126692399%2F1%2Foriginal.jpg?s=11739a38fd428884a1f4c22d20692f3a',
+      !!python/unicode 'width': 960}
+    !!python/unicode 'url': !!python/unicode 'https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F25029037%2F190126692399%2F1%2Foriginal.jpg?h=200&w=450&rect=0%2C30%2C960%2C480&s=a8b24eda159c9d7718313abce8e0f6cf'
+  !!python/unicode 'logo_id': !!python/unicode '25029037'
+  !!python/unicode 'name': {!!python/unicode 'html': "Gabriel Mi\u010Dko - WebRTC\
+      \ From Zero to Hero", !!python/unicode 'text': "Gabriel Mi\u010Dko - WebRTC\
+      \ From Zero to Hero"}
+  !!python/unicode 'online_event': false
+  !!python/unicode 'organizer_id': !!python/unicode '6873583621'
+  !!python/unicode 'privacy_setting': !!python/unicode 'unlocked'
+  !!python/unicode 'resource_uri': !!python/unicode 'https://www.eventbriteapi.com/v3/events/28584954368/'
+  !!python/unicode 'shareable': true
+  !!python/unicode 'source': !!python/unicode 'create_2.0'
+  !!python/unicode 'start': {!!python/unicode 'local': !!python/unicode '2016-10-23T13:00:00',
+    !!python/unicode 'timezone': !!python/unicode 'Europe/Belgrade', !!python/unicode 'utc': !!python/unicode '2016-10-23T11:00:00Z'}
+  !!python/unicode 'status': !!python/unicode 'live'
+  !!python/unicode 'subcategory_id': null
+  !!python/unicode 'tx_time_limit': 480
+  !!python/unicode 'url': !!python/unicode 'http://www.eventbrite.com/e/gabriel-micko-webrtc-from-zero-to-hero-tickets-28584954368?aff=ebapi'
+  !!python/unicode 'venue_id': !!python/unicode '17003392'
+- !!python/unicode 'capacity': 15
+  !!python/unicode 'capacity_is_custom': false
+  !!python/unicode 'category_id': null
+  !!python/unicode 'changed': !!python/unicode '2016-10-13T07:25:44Z'
+  !!python/unicode 'created': !!python/unicode '2016-10-13T07:25:42Z'
+  !!python/unicode 'currency': !!python/unicode 'USD'
+  !!python/unicode 'description': {!!python/unicode 'html': null, !!python/unicode 'text': null}
+  !!python/unicode 'end': {!!python/unicode 'local': !!python/unicode '2016-10-21T16:30:00',
+    !!python/unicode 'timezone': !!python/unicode 'Europe/Belgrade', !!python/unicode 'utc': !!python/unicode '2016-10-21T14:30:00Z'}
+  !!python/unicode 'format_id': null
+  !!python/unicode 'hide_end_date': false
+  !!python/unicode 'hide_start_date': false
+  !!python/unicode 'id': !!python/unicode '28572182166'
+  !!python/unicode 'is_locked': false
+  !!python/unicode 'is_reserved_seating': false
+  !!python/unicode 'is_series': false
+  !!python/unicode 'is_series_parent': false
+  !!python/unicode 'listed': true
+  !!python/unicode 'locale': !!python/unicode 'en_US'
+  !!python/unicode 'logo':
+    !!python/unicode 'aspect_ratio': !!python/unicode '2'
+    !!python/unicode 'crop_mask':
+      !!python/unicode 'height': 960
+      !!python/unicode 'top_left': {!!python/unicode 'x': 0, !!python/unicode 'y': 60}
+      !!python/unicode 'width': 1920
+    !!python/unicode 'edge_color': !!python/unicode '#b2b2b0'
+    !!python/unicode 'edge_color_set': true
+    !!python/unicode 'id': !!python/unicode '25012655'
+    !!python/unicode 'original': {!!python/unicode 'height': 1081, !!python/unicode 'url': !!python/unicode 'https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F25012655%2F190126692399%2F1%2Foriginal.jpg?s=bd5b2eba17257d359a9406d78c5a667d',
+      !!python/unicode 'width': 1921}
+    !!python/unicode 'url': !!python/unicode 'https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F25012655%2F190126692399%2F1%2Foriginal.jpg?h=200&w=450&rect=0%2C60%2C1920%2C960&s=04e6cf982115e58adba403a4da76b0a7'
+  !!python/unicode 'logo_id': !!python/unicode '25012655'
+  !!python/unicode 'name': {!!python/unicode 'html': !!python/unicode 'Egzontina Krasniqi
+      &amp; Dashamir Hoxha - Building a website with GitHub Pages + Jekyll', !!python/unicode 'text': !!python/unicode 'Egzontina
+      Krasniqi & Dashamir Hoxha - Building a website with GitHub Pages + Jekyll'}
+  !!python/unicode 'online_event': false
+  !!python/unicode 'organizer_id': !!python/unicode '6873583621'
+  !!python/unicode 'privacy_setting': !!python/unicode 'unlocked'
+  !!python/unicode 'resource_uri': !!python/unicode 'https://www.eventbriteapi.com/v3/events/28572182166/'
+  !!python/unicode 'shareable': true
+  !!python/unicode 'source': !!python/unicode 'create_2.0'
+  !!python/unicode 'start': {!!python/unicode 'local': !!python/unicode '2016-10-21T14:00:00',
+    !!python/unicode 'timezone': !!python/unicode 'Europe/Belgrade', !!python/unicode 'utc': !!python/unicode '2016-10-21T12:00:00Z'}
+  !!python/unicode 'status': !!python/unicode 'live'
+  !!python/unicode 'subcategory_id': null
+  !!python/unicode 'tx_time_limit': 480
+  !!python/unicode 'url': !!python/unicode 'https://www.eventbrite.com/e/egzontina-krasniqi-dashamir-hoxha-building-a-website-with-github-pages-jekyll-tickets-28572182166?aff=ebapi'
+  !!python/unicode 'venue_id': !!python/unicode '17010308'
+- !!python/unicode 'capacity': 15
+  !!python/unicode 'capacity_is_custom': false
+  !!python/unicode 'category_id': null
+  !!python/unicode 'changed': !!python/unicode '2016-10-15T11:52:15Z'
+  !!python/unicode 'created': !!python/unicode '2016-10-12T19:06:52Z'
+  !!python/unicode 'currency': !!python/unicode 'USD'
+  !!python/unicode 'description': {!!python/unicode 'html': null, !!python/unicode 'text': null}
+  !!python/unicode 'end': {!!python/unicode 'local': !!python/unicode '2016-10-21T11:55:00',
+    !!python/unicode 'timezone': !!python/unicode 'Europe/Belgrade', !!python/unicode 'utc': !!python/unicode '2016-10-21T09:55:00Z'}
+  !!python/unicode 'format_id': null
+  !!python/unicode 'hide_end_date': false
+  !!python/unicode 'hide_start_date': false
+  !!python/unicode 'id': !!python/unicode '28561882359'
+  !!python/unicode 'is_locked': false
+  !!python/unicode 'is_reserved_seating': false
+  !!python/unicode 'is_series': false
+  !!python/unicode 'is_series_parent': false
+  !!python/unicode 'listed': true
+  !!python/unicode 'locale': !!python/unicode 'en_US'
+  !!python/unicode 'logo':
+    !!python/unicode 'aspect_ratio': !!python/unicode '2'
+    !!python/unicode 'crop_mask':
+      !!python/unicode 'height': 960
+      !!python/unicode 'top_left': {!!python/unicode 'x': 0, !!python/unicode 'y': 60}
+      !!python/unicode 'width': 1920
+    !!python/unicode 'edge_color': !!python/unicode '#b2b2b0'
+    !!python/unicode 'edge_color_set': true
+    !!python/unicode 'id': !!python/unicode '24996244'
+    !!python/unicode 'original': {!!python/unicode 'height': 1081, !!python/unicode 'url': !!python/unicode 'https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F24996244%2F190126692399%2F1%2Foriginal.jpg?s=849749f1b7aeea86be225a9d44ee1d17',
+      !!python/unicode 'width': 1921}
+    !!python/unicode 'url': !!python/unicode 'https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F24996244%2F190126692399%2F1%2Foriginal.jpg?h=200&w=450&rect=0%2C60%2C1920%2C960&s=843c9ba7a5f58a76b9cec63161617443'
+  !!python/unicode 'logo_id': !!python/unicode '24996244'
+  !!python/unicode 'name': {!!python/unicode 'html': !!python/unicode 'James Michael
+      Dupont - Intro to Document Security with Gpg', !!python/unicode 'text': !!python/unicode 'James
+      Michael Dupont - Intro to Document Security with Gpg'}
+  !!python/unicode 'online_event': false
+  !!python/unicode 'organizer_id': !!python/unicode '6873583621'
+  !!python/unicode 'privacy_setting': !!python/unicode 'unlocked'
+  !!python/unicode 'resource_uri': !!python/unicode 'https://www.eventbriteapi.com/v3/events/28561882359/'
+  !!python/unicode 'shareable': true
+  !!python/unicode 'source': !!python/unicode 'create_2.0'
+  !!python/unicode 'start': {!!python/unicode 'local': !!python/unicode '2016-10-21T11:00:00',
+    !!python/unicode 'timezone': !!python/unicode 'Europe/Belgrade', !!python/unicode 'utc': !!python/unicode '2016-10-21T09:00:00Z'}
+  !!python/unicode 'status': !!python/unicode 'live'
+  !!python/unicode 'subcategory_id': null
+  !!python/unicode 'tx_time_limit': 480
+  !!python/unicode 'url': !!python/unicode 'http://www.eventbrite.com/e/james-michael-dupont-intro-to-document-security-with-gpg-tickets-28561882359?aff=ebapi'
+  !!python/unicode 'venue_id': !!python/unicode '17017262'
+- !!python/unicode 'capacity': 15
+  !!python/unicode 'capacity_is_custom': false
+  !!python/unicode 'category_id': null
+  !!python/unicode 'changed': !!python/unicode '2016-10-12T19:16:17Z'
+  !!python/unicode 'created': !!python/unicode '2016-10-12T19:16:14Z'
+  !!python/unicode 'currency': !!python/unicode 'USD'
+  !!python/unicode 'description': {!!python/unicode 'html': null, !!python/unicode 'text': null}
+  !!python/unicode 'end': {!!python/unicode 'local': !!python/unicode '2016-10-21T16:45:00',
+    !!python/unicode 'timezone': !!python/unicode 'Europe/Belgrade', !!python/unicode 'utc': !!python/unicode '2016-10-21T14:45:00Z'}
+  !!python/unicode 'format_id': null
+  !!python/unicode 'hide_end_date': false
+  !!python/unicode 'hide_start_date': false
+  !!python/unicode 'id': !!python/unicode '28562118064'
+  !!python/unicode 'is_locked': false
+  !!python/unicode 'is_reserved_seating': false
+  !!python/unicode 'is_series': false
+  !!python/unicode 'is_series_parent': false
+  !!python/unicode 'listed': true
+  !!python/unicode 'locale': !!python/unicode 'en_US'
+  !!python/unicode 'logo':
+    !!python/unicode 'aspect_ratio': !!python/unicode '2'
+    !!python/unicode 'crop_mask':
+      !!python/unicode 'height': 960
+      !!python/unicode 'top_left': {!!python/unicode 'x': 0, !!python/unicode 'y': 60}
+      !!python/unicode 'width': 1920
+    !!python/unicode 'edge_color': !!python/unicode '#b2b2b0'
+    !!python/unicode 'edge_color_set': true
+    !!python/unicode 'id': !!python/unicode '24996624'
+    !!python/unicode 'original': {!!python/unicode 'height': 1081, !!python/unicode 'url': !!python/unicode 'https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F24996624%2F190126692399%2F1%2Foriginal.jpg?s=0ffee279aec2de3b76a963693f893128',
+      !!python/unicode 'width': 1921}
+    !!python/unicode 'url': !!python/unicode 'https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F24996624%2F190126692399%2F1%2Foriginal.jpg?h=200&w=450&rect=0%2C60%2C1920%2C960&s=b1a9db0d0c012ada1d5bda1183abb4df'
+  !!python/unicode 'logo_id': !!python/unicode '24996624'
+  !!python/unicode 'name': {!!python/unicode 'html': !!python/unicode 'Anxhelo Lushka
+      &amp; Marinela Gogo - LibreOffice Localization Spring', !!python/unicode 'text': !!python/unicode 'Anxhelo
+      Lushka & Marinela Gogo - LibreOffice Localization Spring'}
+  !!python/unicode 'online_event': false
+  !!python/unicode 'organizer_id': !!python/unicode '6873583621'
+  !!python/unicode 'privacy_setting': !!python/unicode 'unlocked'
+  !!python/unicode 'resource_uri': !!python/unicode 'https://www.eventbriteapi.com/v3/events/28562118064/'
+  !!python/unicode 'shareable': true
+  !!python/unicode 'source': !!python/unicode 'create_2.0'
+  !!python/unicode 'start': {!!python/unicode 'local': !!python/unicode '2016-10-21T16:00:00',
+    !!python/unicode 'timezone': !!python/unicode 'Europe/Belgrade', !!python/unicode 'utc': !!python/unicode '2016-10-21T14:00:00Z'}
+  !!python/unicode 'status': !!python/unicode 'live'
+  !!python/unicode 'subcategory_id': null
+  !!python/unicode 'tx_time_limit': 480
+  !!python/unicode 'url': !!python/unicode 'http://www.eventbrite.com/e/anxhelo-lushka-marinela-gogo-libreoffice-localization-spring-tickets-28562118064?aff=ebapi'
+  !!python/unicode 'venue_id': !!python/unicode '17003392'
+- !!python/unicode 'capacity': 10
+  !!python/unicode 'capacity_is_custom': false
+  !!python/unicode 'category_id': null
+  !!python/unicode 'changed': !!python/unicode '2016-10-13T17:16:59Z'
+  !!python/unicode 'created': !!python/unicode '2016-10-13T07:21:51Z'
+  !!python/unicode 'currency': !!python/unicode 'USD'
+  !!python/unicode 'description': {!!python/unicode 'html': null, !!python/unicode 'text': null}
+  !!python/unicode 'end': {!!python/unicode 'local': !!python/unicode '2016-10-21T11:30:00',
+    !!python/unicode 'timezone': !!python/unicode 'Europe/Belgrade', !!python/unicode 'utc': !!python/unicode '2016-10-21T09:30:00Z'}
+  !!python/unicode 'format_id': null
+  !!python/unicode 'hide_end_date': false
+  !!python/unicode 'hide_start_date': false
+  !!python/unicode 'id': !!python/unicode '28572125998'
+  !!python/unicode 'is_locked': false
+  !!python/unicode 'is_reserved_seating': false
+  !!python/unicode 'is_series': false
+  !!python/unicode 'is_series_parent': false
+  !!python/unicode 'listed': true
+  !!python/unicode 'locale': !!python/unicode 'en_US'
+  !!python/unicode 'logo':
+    !!python/unicode 'aspect_ratio': !!python/unicode '2'
+    !!python/unicode 'crop_mask':
+      !!python/unicode 'height': 960
+      !!python/unicode 'top_left': {!!python/unicode 'x': 0, !!python/unicode 'y': 60}
+      !!python/unicode 'width': 1920
+    !!python/unicode 'edge_color': !!python/unicode '#b2b2b0'
+    !!python/unicode 'edge_color_set': true
+    !!python/unicode 'id': !!python/unicode '25012618'
+    !!python/unicode 'original': {!!python/unicode 'height': 1081, !!python/unicode 'url': !!python/unicode 'https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F25012618%2F190126692399%2F1%2Foriginal.jpg?s=40d3fd07c2636e11718582b5898bae58',
+      !!python/unicode 'width': 1921}
+    !!python/unicode 'url': !!python/unicode 'https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F25012618%2F190126692399%2F1%2Foriginal.jpg?h=200&w=450&rect=0%2C60%2C1920%2C960&s=04a01e2349f452098573191454ade96b'
+  !!python/unicode 'logo_id': !!python/unicode '25012618'
+  !!python/unicode 'name': {!!python/unicode 'html': !!python/unicode 'Andy Mabbett
+      - GLAM Wiki', !!python/unicode 'text': !!python/unicode 'Andy Mabbett - GLAM
+      Wiki'}
+  !!python/unicode 'online_event': false
+  !!python/unicode 'organizer_id': !!python/unicode '6873583621'
+  !!python/unicode 'privacy_setting': !!python/unicode 'unlocked'
+  !!python/unicode 'resource_uri': !!python/unicode 'https://www.eventbriteapi.com/v3/events/28572125998/'
+  !!python/unicode 'shareable': true
+  !!python/unicode 'source': !!python/unicode 'create_2.0'
+  !!python/unicode 'start': {!!python/unicode 'local': !!python/unicode '2016-10-21T10:00:00',
+    !!python/unicode 'timezone': !!python/unicode 'Europe/Belgrade', !!python/unicode 'utc': !!python/unicode '2016-10-21T08:00:00Z'}
+  !!python/unicode 'status': !!python/unicode 'live'
+  !!python/unicode 'subcategory_id': null
+  !!python/unicode 'tx_time_limit': 480
+  !!python/unicode 'url': !!python/unicode 'http://www.eventbrite.com/e/andy-mabbett-glam-wiki-tickets-28572125998?aff=ebapi'
+  !!python/unicode 'venue_id': !!python/unicode '17010308'
+- !!python/unicode 'capacity': 15
+  !!python/unicode 'capacity_is_custom': false
+  !!python/unicode 'category_id': null
+  !!python/unicode 'changed': !!python/unicode '2016-10-12T19:12:16Z'
+  !!python/unicode 'created': !!python/unicode '2016-10-12T19:12:13Z'
+  !!python/unicode 'currency': !!python/unicode 'USD'
+  !!python/unicode 'description': {!!python/unicode 'html': null, !!python/unicode 'text': null}
+  !!python/unicode 'end': {!!python/unicode 'local': !!python/unicode '2016-10-21T14:55:00',
+    !!python/unicode 'timezone': !!python/unicode 'Europe/Belgrade', !!python/unicode 'utc': !!python/unicode '2016-10-21T12:55:00Z'}
+  !!python/unicode 'format_id': null
+  !!python/unicode 'hide_end_date': false
+  !!python/unicode 'hide_start_date': false
+  !!python/unicode 'id': !!python/unicode '28562015758'
+  !!python/unicode 'is_locked': false
+  !!python/unicode 'is_reserved_seating': false
+  !!python/unicode 'is_series': false
+  !!python/unicode 'is_series_parent': false
+  !!python/unicode 'listed': true
+  !!python/unicode 'locale': !!python/unicode 'en_US'
+  !!python/unicode 'logo':
+    !!python/unicode 'aspect_ratio': !!python/unicode '2'
+    !!python/unicode 'crop_mask':
+      !!python/unicode 'height': 960
+      !!python/unicode 'top_left': {!!python/unicode 'x': 0, !!python/unicode 'y': 60}
+      !!python/unicode 'width': 1920
+    !!python/unicode 'edge_color': !!python/unicode '#b2b2b0'
+    !!python/unicode 'edge_color_set': true
+    !!python/unicode 'id': !!python/unicode '24996481'
+    !!python/unicode 'original': {!!python/unicode 'height': 1081, !!python/unicode 'url': !!python/unicode 'https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F24996481%2F190126692399%2F1%2Foriginal.jpg?s=49cf51c835baea8c3f3357d1f1bd3fe6',
+      !!python/unicode 'width': 1921}
+    !!python/unicode 'url': !!python/unicode 'https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F24996481%2F190126692399%2F1%2Foriginal.jpg?h=200&w=450&rect=0%2C60%2C1920%2C960&s=0c5f4262e8c80a6df7062e4dce0dd8e0'
+  !!python/unicode 'logo_id': !!python/unicode '24996481'
+  !!python/unicode 'name': {!!python/unicode 'html': !!python/unicode 'Kosovare Sahatqija
+      - #EcShlire Data Visualization', !!python/unicode 'text': !!python/unicode 'Kosovare
+      Sahatqija - #EcShlire Data Visualization'}
+  !!python/unicode 'online_event': false
+  !!python/unicode 'organizer_id': !!python/unicode '6873583621'
+  !!python/unicode 'privacy_setting': !!python/unicode 'unlocked'
+  !!python/unicode 'resource_uri': !!python/unicode 'https://www.eventbriteapi.com/v3/events/28562015758/'
+  !!python/unicode 'shareable': true
+  !!python/unicode 'source': !!python/unicode 'create_2.0'
+  !!python/unicode 'start': {!!python/unicode 'local': !!python/unicode '2016-10-21T14:00:00',
+    !!python/unicode 'timezone': !!python/unicode 'Europe/Belgrade', !!python/unicode 'utc': !!python/unicode '2016-10-21T12:00:00Z'}
+  !!python/unicode 'status': !!python/unicode 'live'
+  !!python/unicode 'subcategory_id': null
+  !!python/unicode 'tx_time_limit': 480
+  !!python/unicode 'url': !!python/unicode 'http://www.eventbrite.com/e/kosovare-sahatqija-ecshlire-data-visualization-tickets-28562015758?aff=ebapi'
+  !!python/unicode 'venue_id': !!python/unicode '17003392'
+- !!python/unicode 'capacity': 10
+  !!python/unicode 'capacity_is_custom': false
+  !!python/unicode 'category_id': null
+  !!python/unicode 'changed': !!python/unicode '2016-10-13T17:29:09Z'
+  !!python/unicode 'created': !!python/unicode '2016-10-13T17:29:06Z'
+  !!python/unicode 'currency': !!python/unicode 'USD'
+  !!python/unicode 'description': {!!python/unicode 'html': null, !!python/unicode 'text': null}
+  !!python/unicode 'end': {!!python/unicode 'local': !!python/unicode '2016-10-23T11:55:00',
+    !!python/unicode 'timezone': !!python/unicode 'Europe/Berlin', !!python/unicode 'utc': !!python/unicode '2016-10-23T09:55:00Z'}
+  !!python/unicode 'format_id': null
+  !!python/unicode 'hide_end_date': false
+  !!python/unicode 'hide_start_date': false
+  !!python/unicode 'id': !!python/unicode '28585077737'
+  !!python/unicode 'is_locked': false
+  !!python/unicode 'is_reserved_seating': false
+  !!python/unicode 'is_series': false
+  !!python/unicode 'is_series_parent': false
+  !!python/unicode 'listed': true
+  !!python/unicode 'locale': !!python/unicode 'en_US'
+  !!python/unicode 'logo':
+    !!python/unicode 'aspect_ratio': !!python/unicode '2'
+    !!python/unicode 'crop_mask':
+      !!python/unicode 'height': 480
+      !!python/unicode 'top_left': {!!python/unicode 'x': 0, !!python/unicode 'y': 30}
+      !!python/unicode 'width': 960
+    !!python/unicode 'edge_color': !!python/unicode '#b3b2b0'
+    !!python/unicode 'edge_color_set': true
+    !!python/unicode 'id': !!python/unicode '25029275'
+    !!python/unicode 'original': {!!python/unicode 'height': 540, !!python/unicode 'url': !!python/unicode 'https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F25029275%2F190126692399%2F1%2Foriginal.jpg?s=070385ba82c507c5c5476b19a2a66870',
+      !!python/unicode 'width': 960}
+    !!python/unicode 'url': !!python/unicode 'https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F25029275%2F190126692399%2F1%2Foriginal.jpg?h=200&w=450&rect=0%2C30%2C960%2C480&s=5a356f3f9503b9265385cdc679df2353'
+  !!python/unicode 'logo_id': !!python/unicode '25029275'
+  !!python/unicode 'name': {!!python/unicode 'html': !!python/unicode 'Peter Corbett
+      - A guide to the hardware and software that changes consumer experiences', !!python/unicode 'text': !!python/unicode 'Peter
+      Corbett - A guide to the hardware and software that changes consumer experiences'}
+  !!python/unicode 'online_event': false
+  !!python/unicode 'organizer_id': !!python/unicode '6873583621'
+  !!python/unicode 'privacy_setting': !!python/unicode 'unlocked'
+  !!python/unicode 'resource_uri': !!python/unicode 'https://www.eventbriteapi.com/v3/events/28585077737/'
+  !!python/unicode 'shareable': true
+  !!python/unicode 'source': !!python/unicode 'create_2.0'
+  !!python/unicode 'start': {!!python/unicode 'local': !!python/unicode '2016-10-23T11:00:00',
+    !!python/unicode 'timezone': !!python/unicode 'Europe/Berlin', !!python/unicode 'utc': !!python/unicode '2016-10-23T09:00:00Z'}
+  !!python/unicode 'status': !!python/unicode 'live'
+  !!python/unicode 'subcategory_id': null
+  !!python/unicode 'tx_time_limit': 480
+  !!python/unicode 'url': !!python/unicode 'http://www.eventbrite.com/e/peter-corbett-a-guide-to-the-hardware-and-software-that-changes-consumer-experiences-tickets-28585077737?aff=ebapi'
+  !!python/unicode 'venue_id': !!python/unicode '17017401'
+- !!python/unicode 'capacity': 15
+  !!python/unicode 'capacity_is_custom': false
+  !!python/unicode 'category_id': null
+  !!python/unicode 'changed': !!python/unicode '2016-10-12T19:13:53Z'
+  !!python/unicode 'created': !!python/unicode '2016-10-12T19:13:49Z'
+  !!python/unicode 'currency': !!python/unicode 'USD'
+  !!python/unicode 'description': {!!python/unicode 'html': null, !!python/unicode 'text': null}
+  !!python/unicode 'end': {!!python/unicode 'local': !!python/unicode '2016-10-21T15:55:00',
+    !!python/unicode 'timezone': !!python/unicode 'Europe/Belgrade', !!python/unicode 'utc': !!python/unicode '2016-10-21T13:55:00Z'}
+  !!python/unicode 'format_id': null
+  !!python/unicode 'hide_end_date': false
+  !!python/unicode 'hide_start_date': false
+  !!python/unicode 'id': !!python/unicode '28562054875'
+  !!python/unicode 'is_locked': false
+  !!python/unicode 'is_reserved_seating': false
+  !!python/unicode 'is_series': false
+  !!python/unicode 'is_series_parent': false
+  !!python/unicode 'listed': true
+  !!python/unicode 'locale': !!python/unicode 'en_US'
+  !!python/unicode 'logo':
+    !!python/unicode 'aspect_ratio': !!python/unicode '2'
+    !!python/unicode 'crop_mask':
+      !!python/unicode 'height': 960
+      !!python/unicode 'top_left': {!!python/unicode 'x': 0, !!python/unicode 'y': 60}
+      !!python/unicode 'width': 1920
+    !!python/unicode 'edge_color': !!python/unicode '#b2b2b0'
+    !!python/unicode 'edge_color_set': true
+    !!python/unicode 'id': !!python/unicode '24996539'
+    !!python/unicode 'original': {!!python/unicode 'height': 1081, !!python/unicode 'url': !!python/unicode 'https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F24996539%2F190126692399%2F1%2Foriginal.jpg?s=197aa3356d7e38b507df195e373dd3d8',
+      !!python/unicode 'width': 1921}
+    !!python/unicode 'url': !!python/unicode 'https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F24996539%2F190126692399%2F1%2Foriginal.jpg?h=200&w=450&rect=0%2C60%2C1920%2C960&s=e1ed1ed4726d424670dbe02ff463ac3a'
+  !!python/unicode 'logo_id': !!python/unicode '24996539'
+  !!python/unicode 'name': {!!python/unicode 'html': !!python/unicode 'Anxhela Hyseni
+      &amp; Ajkuna Mujo - Say it in your language in Zanata', !!python/unicode 'text': !!python/unicode 'Anxhela
+      Hyseni & Ajkuna Mujo - Say it in your language in Zanata'}
+  !!python/unicode 'online_event': false
+  !!python/unicode 'organizer_id': !!python/unicode '6873583621'
+  !!python/unicode 'privacy_setting': !!python/unicode 'unlocked'
+  !!python/unicode 'resource_uri': !!python/unicode 'https://www.eventbriteapi.com/v3/events/28562054875/'
+  !!python/unicode 'shareable': true
+  !!python/unicode 'source': !!python/unicode 'create_2.0'
+  !!python/unicode 'start': {!!python/unicode 'local': !!python/unicode '2016-10-21T15:00:00',
+    !!python/unicode 'timezone': !!python/unicode 'Europe/Belgrade', !!python/unicode 'utc': !!python/unicode '2016-10-21T13:00:00Z'}
+  !!python/unicode 'status': !!python/unicode 'live'
+  !!python/unicode 'subcategory_id': null
+  !!python/unicode 'tx_time_limit': 480
+  !!python/unicode 'url': !!python/unicode 'https://www.eventbrite.com/e/anxhela-hyseni-ajkuna-mujo-say-it-in-your-language-in-zanata-tickets-28562054875?aff=ebapi'
+  !!python/unicode 'venue_id': !!python/unicode '17003392'
+- !!python/unicode 'capacity': 10
+  !!python/unicode 'capacity_is_custom': false
+  !!python/unicode 'category_id': null
+  !!python/unicode 'changed': !!python/unicode '2016-10-13T17:30:39Z'
+  !!python/unicode 'created': !!python/unicode '2016-10-13T17:30:32Z'
+  !!python/unicode 'currency': !!python/unicode 'USD'
+  !!python/unicode 'description': {!!python/unicode 'html': null, !!python/unicode 'text': null}
+  !!python/unicode 'end': {!!python/unicode 'local': !!python/unicode '2016-10-23T22:00:00',
+    !!python/unicode 'timezone': !!python/unicode 'Europe/Berlin', !!python/unicode 'utc': !!python/unicode '2016-10-23T20:00:00Z'}
+  !!python/unicode 'format_id': null
+  !!python/unicode 'hide_end_date': false
+  !!python/unicode 'hide_start_date': false
+  !!python/unicode 'id': !!python/unicode '28585104818'
+  !!python/unicode 'is_locked': false
+  !!python/unicode 'is_reserved_seating': false
+  !!python/unicode 'is_series': false
+  !!python/unicode 'is_series_parent': false
+  !!python/unicode 'listed': true
+  !!python/unicode 'locale': !!python/unicode 'en_US'
+  !!python/unicode 'logo':
+    !!python/unicode 'aspect_ratio': !!python/unicode '2'
+    !!python/unicode 'crop_mask':
+      !!python/unicode 'height': 480
+      !!python/unicode 'top_left': {!!python/unicode 'x': 0, !!python/unicode 'y': 30}
+      !!python/unicode 'width': 960
+    !!python/unicode 'edge_color': !!python/unicode '#b3b2b0'
+    !!python/unicode 'edge_color_set': true
+    !!python/unicode 'id': !!python/unicode '25029324'
+    !!python/unicode 'original': {!!python/unicode 'height': 540, !!python/unicode 'url': !!python/unicode 'https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F25029324%2F190126692399%2F1%2Foriginal.jpg?s=d493ee6d9f0e4d1feb31ea216ca9cfa6',
+      !!python/unicode 'width': 960}
+    !!python/unicode 'url': !!python/unicode 'https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F25029324%2F190126692399%2F1%2Foriginal.jpg?h=200&w=450&rect=0%2C30%2C960%2C480&s=0604d7c161145b8d0b57e811a0c48197'
+  !!python/unicode 'logo_id': !!python/unicode '25029324'
+  !!python/unicode 'name': {!!python/unicode 'html': !!python/unicode 'Dren Imeraj  -
+      Electronics 101', !!python/unicode 'text': !!python/unicode 'Dren Imeraj  -
+      Electronics 101'}
+  !!python/unicode 'online_event': false
+  !!python/unicode 'organizer_id': !!python/unicode '6873583621'
+  !!python/unicode 'privacy_setting': !!python/unicode 'unlocked'
+  !!python/unicode 'resource_uri': !!python/unicode 'https://www.eventbriteapi.com/v3/events/28585104818/'
+  !!python/unicode 'shareable': true
+  !!python/unicode 'source': !!python/unicode 'create_2.0'
+  !!python/unicode 'start': {!!python/unicode 'local': !!python/unicode '2016-10-23T19:00:00',
+    !!python/unicode 'timezone': !!python/unicode 'Europe/Berlin', !!python/unicode 'utc': !!python/unicode '2016-10-23T17:00:00Z'}
+  !!python/unicode 'status': !!python/unicode 'live'
+  !!python/unicode 'subcategory_id': null
+  !!python/unicode 'tx_time_limit': 480
+  !!python/unicode 'url': !!python/unicode 'https://www.eventbrite.com/e/dren-imeraj-electronics-101-tickets-28585104818?aff=ebapi'
+  !!python/unicode 'venue_id': !!python/unicode '17017401'
+
