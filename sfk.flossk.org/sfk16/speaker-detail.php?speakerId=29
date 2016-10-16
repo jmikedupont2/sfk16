@@ -1,0 +1,28 @@
+<div class="container">
+	<div class="row">
+        <div id="speaker-detail" class="col-lg-8 col-lg-offset-2">
+            <div class="row">
+            	<button title="Close (Esc)" type="button" class="mfp-close">×</button>
+
+                <div class="col-md-4 col-lg-4">
+                    <img class="img-responsive" src="img/speakers/Redon_Skikuli_OpenLabs.jpg" alt="" />
+                                                                <i class="fa fa-lg fa-twitter"></i>
+                        <a href="http://twitter.com/rskikuli" target="_blank">
+                            @rskikuli                        </a>
+                    <br />
+                                                                <i class="fa fa-lg fa-globe"></i>
+                        <a href="http://redon.skikuli.com" target="_blank" style="width: 30px">
+                            Site
+                        </a>
+                                    </div>
+
+                <div class="col-md-8 col-lg-8">
+                    <h2>Redon Skikuli</h2>
+                    <h3>Open Labs Hackerspace</h3>
+                    <p>A hacktivist, open knowledge/culture promoter located in the Balkans area. In 2012 co-founded Open Labs Hackersace, the Tirana based community promoting the idea of free open source technologies, the concept of the commons, copyright reform in the digital age and open data.
+A Mozilla Representative for Albania, co-organizer of OSCAL, Wikipedia Weekend & Mozilla Weekend. Redon is also an OpenStreetMap editor, a Wikimedian and initiator of Wiki Loves Maps & Wiki Loves Audio projects.</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

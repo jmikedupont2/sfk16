@@ -1,0 +1,20 @@
+<div class="container">
+	<div class="row">
+        <div id="speaker-detail" class="col-lg-8 col-lg-offset-2">
+            <div class="row">
+            	<button title="Close (Esc)" type="button" class="mfp-close">×</button>
+
+                <div class="col-md-4 col-lg-4">
+                    <img class="img-responsive" src="img/speakers/AnxhelaHyseni.jpg" alt="" />
+                                                                            </div>
+
+                <div class="col-md-8 col-lg-8">
+                    <h2>Anxhela Hyseni</h2>
+                    <h3>Open Labs Hackerspace</h3>
+                    <p>Anxhela Hyseni (20 years old) was born in Tirana, Albania, in 1996. She is in the last year of her Bachelor studies for computer science, in the University of Tirana.
+She is a part time gamer, in March she had a training for creating games in GoDot, where she had great results. One month later, she joined Open Labs Hackerspace and started contributing in Fedora, since then her heart felt for open source technology. Volunteering in OSCAL 16 has been a great experience for her. She has attended the Girls Code Fest Marathon and the team she was in, was one of the winning teams. Anxhela is on her way of becoming a full stack developer and doing her best while being a member in a couple of organizations in her country. She strongly believes in her power as a woman and in open source as well.</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

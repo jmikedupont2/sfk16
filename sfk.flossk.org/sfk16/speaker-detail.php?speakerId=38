@@ -1,0 +1,24 @@
+<div class="container">
+	<div class="row">
+        <div id="speaker-detail" class="col-lg-8 col-lg-offset-2">
+            <div class="row">
+            	<button title="Close (Esc)" type="button" class="mfp-close">×</button>
+
+                <div class="col-md-4 col-lg-4">
+                    <img class="img-responsive" src="img/speakers/GIannisKonstantinidis.jpg" alt="" />
+                                                                                    <i class="fa fa-lg fa-globe"></i>
+                        <a href="http://konstantinidis.cc" target="_blank" style="width: 30px">
+                            Site
+                        </a>
+                                    </div>
+
+                <div class="col-md-8 col-lg-8">
+                    <h2>Giannis Konstantinidis</h2>
+                    <h3>Mozilla</h3>
+                    <p>Giannis Konstantinidis was born in Thessaloniki, Greece. He is currently an undergraduate student at the Dept. of Information & Communication Systems Engineering of the University of the Aegean in Samos island, Greece and also a freelance front-end web developer. For the last seven years, Giannis has been part of several free & open source communities, including the Fedora Project and Mozilla, where he has made multiple contributions. In total, he has contributed to more than twelve separate projects.
+Giannis loves traveling both domestically and abroad in order to participate at conferences and events. Within his university he helps drive certain community and project related efforts.</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

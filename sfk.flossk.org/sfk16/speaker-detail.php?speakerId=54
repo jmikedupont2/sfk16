@@ -1,0 +1,23 @@
+<div class="container">
+	<div class="row">
+        <div id="speaker-detail" class="col-lg-8 col-lg-offset-2">
+            <div class="row">
+            	<button title="Close (Esc)" type="button" class="mfp-close">×</button>
+
+                <div class="col-md-4 col-lg-4">
+                    <img class="img-responsive" src="img/speakers/EgzontinaKrasniqi.jpg" alt="" />
+                                                                                    <i class="fa fa-lg fa-globe"></i>
+                        <a href="https://egzontina.github.io/egzontina/" target="_blank" style="width: 30px">
+                            Site
+                        </a>
+                                    </div>
+
+                <div class="col-md-8 col-lg-8">
+                    <h2>Egzontina Krasniqi</h2>
+                    <h3>Open Data Kosovo</h3>
+                    <p>Egzontina works as a Software Developer at Open Data Kosovo. She is currently pursuing her master degrees in Computer Engineering at the University of Prishtina. She is also an active member of Girls Coding Kosova.</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

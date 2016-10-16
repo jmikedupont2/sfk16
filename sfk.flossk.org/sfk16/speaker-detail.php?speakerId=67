@@ -1,0 +1,23 @@
+<div class="container">
+	<div class="row">
+        <div id="speaker-detail" class="col-lg-8 col-lg-offset-2">
+            <div class="row">
+            	<button title="Close (Esc)" type="button" class="mfp-close">×</button>
+
+                <div class="col-md-4 col-lg-4">
+                    <img class="img-responsive" src="img/speakers/ZlatkoTrajcheski.jpg" alt="" />
+                                                                                    <i class="fa fa-lg fa-globe"></i>
+                        <a href="http://b10g.spodeli.org/" target="_blank" style="width: 30px">
+                            Site
+                        </a>
+                                    </div>
+
+                <div class="col-md-8 col-lg-8">
+                    <h2>Zlatko Trajcheski</h2>
+                    <h3>Kika Hacklab - Skopje</h3>
+                    <p>Long time Free Software and Linux user and supporter. Has years of experience in teaching, developing and administering Linux Systems. Member of Kika Hacklab in Skopje where people share their computer knowledge. Head of IT in FX3X, VFX company in Skopje where he is responsible for IT team, design and maintenance of corporate network and technical security. He builds better and more reliable computer systems with Free Software, tries to organize people in the same open way and likes to spread the idea of those things.</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

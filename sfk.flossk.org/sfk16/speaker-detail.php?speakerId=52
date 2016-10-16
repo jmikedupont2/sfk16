@@ -1,0 +1,27 @@
+<div class="container">
+	<div class="row">
+        <div id="speaker-detail" class="col-lg-8 col-lg-offset-2">
+            <div class="row">
+            	<button title="Close (Esc)" type="button" class="mfp-close">×</button>
+
+                <div class="col-md-4 col-lg-4">
+                    <img class="img-responsive" src="img/speakers/NickDoiron.jpg" alt="" />
+                                                                <i class="fa fa-lg fa-twitter"></i>
+                        <a href="http://twitter.com/mapmeld" target="_blank">
+                            @mapmeld                        </a>
+                    <br />
+                                                                <i class="fa fa-lg fa-globe"></i>
+                        <a href="https://github.com/mapmeld" target="_blank" style="width: 30px">
+                            Site
+                        </a>
+                                    </div>
+
+                <div class="col-md-8 col-lg-8">
+                    <h2>Nick Doiron</h2>
+                    <h3></h3>
+                    <p>Nick is a full-stack web developer and mapmaker based in New York. In the past, he has traveled to schools with One Laptop per Child, opened election data in Myanmar, mapped cities with Code for America, and made mobile sites for the Museum of Modern Art.</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

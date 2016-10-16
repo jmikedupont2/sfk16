@@ -1,0 +1,19 @@
+<div class="container">
+	<div class="row">
+        <div id="speaker-detail" class="col-lg-8 col-lg-offset-2">
+            <div class="row">
+            	<button title="Close (Esc)" type="button" class="mfp-close">×</button>
+
+                <div class="col-md-4 col-lg-4">
+                    <img class="img-responsive" src="img/speakers/BashkimShala.jpg" alt="" />
+                                                                            </div>
+
+                <div class="col-md-8 col-lg-8">
+                    <h2>Bashkim Shala</h2>
+                    <h3></h3>
+                    <p>Bashkim Shala has bachelor degree on "Computers Science" UP/FSHMN. He is about to graduate in master degree in AAB university. He has a long experience on Linux, Php/MySql. He has two certifications on Mikrotik. Since march 2015 he works as web scraper at "FirmaGraphix" company, where he has gained lot of experience on Python and Perl. </p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

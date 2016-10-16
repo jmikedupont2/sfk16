@@ -1,0 +1,23 @@
+<div class="container">
+	<div class="row">
+        <div id="speaker-detail" class="col-lg-8 col-lg-offset-2">
+            <div class="row">
+            	<button title="Close (Esc)" type="button" class="mfp-close">×</button>
+
+                <div class="col-md-4 col-lg-4">
+                    <img class="img-responsive" src="img/speakers/AlketRexhepi.jpg" alt="" />
+                                                                <i class="fa fa-lg fa-twitter"></i>
+                        <a href="http://twitter.com/alketii" target="_blank">
+                            @alketii                        </a>
+                    <br />
+                                                        </div>
+
+                <div class="col-md-8 col-lg-8">
+                    <h2>Alket Rexhepi</h2>
+                    <h3>Godot Engine</h3>
+                    <p>Alket is a hobbyist game developer also involved with development of Godot Game Engine. He developed or took part in development of several libre games.</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

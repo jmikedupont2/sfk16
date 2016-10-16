@@ -1,0 +1,27 @@
+<div class="container">
+	<div class="row">
+        <div id="speaker-detail" class="col-lg-8 col-lg-offset-2">
+            <div class="row">
+            	<button title="Close (Esc)" type="button" class="mfp-close">×</button>
+
+                <div class="col-md-4 col-lg-4">
+                    <img class="img-responsive" src="img/speakers/BhagyashreePadalkar.jpg" alt="" />
+                                                                <i class="fa fa-lg fa-twitter"></i>
+                        <a href="http://twitter.com/BeePadalkar" target="_blank">
+                            @BeePadalkar                        </a>
+                    <br />
+                                                                <i class="fa fa-lg fa-globe"></i>
+                        <a href="http://bee2502.github.io/" target="_blank" style="width: 30px">
+                            Site
+                        </a>
+                                    </div>
+
+                <div class="col-md-8 col-lg-8">
+                    <h2>Bhagyashree Padalkar</h2>
+                    <h3>Fedora</h3>
+                    <p>Bhagyashree(or Bee) is a recent graduate of the Indian Institute of Technology, Guwahati, India.She currently works as a researcher in decision making at Max Planck Institute, Berlin. Her primary research interests lie in understanding human behavior in information-rich online social environments. Her research draws heavily from Machine Learning and Natural Language Processing techniques. At Fedora, she works closely with the Community Operations team mostly contributing on metrics-related tasks. She is also a Google Summer of Code 2016 Mentor for Fedora, actively involved with the Fedora Women, Diversity Team and is a Marathi translator for Fedora. She also helped organize the 2015 Nov/Dec Fedora Election Cycle and is working towards being a Fedora Ambassador. She goes by bee2502 in IRC.</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

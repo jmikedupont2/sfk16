@@ -1,0 +1,27 @@
+<div class="container">
+	<div class="row">
+        <div id="speaker-detail" class="col-lg-8 col-lg-offset-2">
+            <div class="row">
+            	<button title="Close (Esc)" type="button" class="mfp-close">×</button>
+
+                <div class="col-md-4 col-lg-4">
+                    <img class="img-responsive" src="img/speakers/BetimDrenica.jpg" alt="" />
+                                                                <i class="fa fa-lg fa-twitter"></i>
+                        <a href="http://twitter.com/betimdrenica" target="_blank">
+                            @betimdrenica                        </a>
+                    <br />
+                                                                <i class="fa fa-lg fa-globe"></i>
+                        <a href="http://betimdrenica.com" target="_blank" style="width: 30px">
+                            Site
+                        </a>
+                                    </div>
+
+                <div class="col-md-8 col-lg-8">
+                    <h2>Betim Drenica</h2>
+                    <h3></h3>
+                    <p>Betim has more than 12 years experience as software developer. He is focused in software architectures with a dedication in cloud and mobile.</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

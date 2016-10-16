@@ -1,0 +1,19 @@
+<div class="container">
+	<div class="row">
+        <div id="speaker-detail" class="col-lg-8 col-lg-offset-2">
+            <div class="row">
+            	<button title="Close (Esc)" type="button" class="mfp-close">×</button>
+
+                <div class="col-md-4 col-lg-4">
+                    <img class="img-responsive" src="img/speakers/ItaloVignoli.jpg" alt="" />
+                                                                            </div>
+
+                <div class="col-md-8 col-lg-8">
+                    <h2>Italo Vignoli</h2>
+                    <h3>The Document Foundation </h3>
+                    <p>Italo Vignoli is a long time free software advocate, has been an active member of the OpenOffice project from 2004 to 2010, has founded the LibreOffice project in 2010, and is currently a team member at The Document Foundation handling marketing, certification and community development. He is also a director at Open Source Initiative (OSI). </p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

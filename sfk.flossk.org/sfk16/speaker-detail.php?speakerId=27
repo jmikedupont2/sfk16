@@ -1,0 +1,27 @@
+<div class="container">
+	<div class="row">
+        <div id="speaker-detail" class="col-lg-8 col-lg-offset-2">
+            <div class="row">
+            	<button title="Close (Esc)" type="button" class="mfp-close">×</button>
+
+                <div class="col-md-4 col-lg-4">
+                    <img class="img-responsive" src="img/speakers/SamTuke.jpg" alt="" />
+                                                                <i class="fa fa-lg fa-twitter"></i>
+                        <a href="http://twitter.com/samtuke" target="_blank">
+                            @samtuke                        </a>
+                    <br />
+                                                                <i class="fa fa-lg fa-globe"></i>
+                        <a href="http://samtuke.com" target="_blank" style="width: 30px">
+                            Site
+                        </a>
+                                    </div>
+
+                <div class="col-md-8 col-lg-8">
+                    <h2>Sam Tuke</h2>
+                    <h3>phpList</h3>
+                    <p>Sam is an Open Source entrepreneur, developer, & CEO of phpList. His past roles include Marketing Manager of LibreOffice at Collabora, Campaign Manager at the Free Software Foundation Europe and Gnu Privacy Guard (GnuPG), and Systems Engineer at ownCloud.</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

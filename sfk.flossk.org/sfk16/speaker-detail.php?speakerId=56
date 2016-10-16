@@ -1,0 +1,20 @@
+<div class="container">
+	<div class="row">
+        <div id="speaker-detail" class="col-lg-8 col-lg-offset-2">
+            <div class="row">
+            	<button title="Close (Esc)" type="button" class="mfp-close">×</button>
+
+                <div class="col-md-4 col-lg-4">
+                    <img class="img-responsive" src="img/speakers/MarinelaGogo.jpg" alt="" />
+                                                                            </div>
+
+                <div class="col-md-8 col-lg-8">
+                    <h2>Marinela Gogo</h2>
+                    <h3>Open Labs Albania</h3>
+                    <p>Marinela Gogo is a Business Informatics student and also a member of Open Labs Hackerspace. She believes in the "power" of open source software, that is the main reason why she is promoting free open source software and also contributing on localization projects. 
+She is currently working on the translations platform of The Document Foundation to complete translating as soon as possible the LibreOffice Userinterface, which is now very close to the finish. Programming is included in her hobies as she knows Java, C++, html, JavaScript and php bases. She is learning more languages and she thinks that knowledge should always be combined with at least a little bit of creativity- it is a combination that wins!</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

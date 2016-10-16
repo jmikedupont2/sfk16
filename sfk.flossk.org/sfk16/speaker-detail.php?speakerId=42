@@ -1,0 +1,19 @@
+<div class="container">
+	<div class="row">
+        <div id="speaker-detail" class="col-lg-8 col-lg-offset-2">
+            <div class="row">
+            	<button title="Close (Esc)" type="button" class="mfp-close">×</button>
+
+                <div class="col-md-4 col-lg-4">
+                    <img class="img-responsive" src="img/speakers/EndritBytyqi.jpg" alt="" />
+                                                                            </div>
+
+                <div class="col-md-8 col-lg-8">
+                    <h2>Endrit Bytyqi</h2>
+                    <h3></h3>
+                    <p>Endrit Bytyqi is an open data and knowledge advocate, who contributes on promoting local software development initiatives for social good and open society. As an open data advocate at Open Data Kosovo, hes all about making sense of abstract and puzzling data. A hacktivist with a passion on all things tech.</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

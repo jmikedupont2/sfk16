@@ -1,0 +1,27 @@
+<div class="container">
+	<div class="row">
+        <div id="speaker-detail" class="col-lg-8 col-lg-offset-2">
+            <div class="row">
+            	<button title="Close (Esc)" type="button" class="mfp-close">×</button>
+
+                <div class="col-md-4 col-lg-4">
+                    <img class="img-responsive" src="img/speakers/AndyMabbett.jpg" alt="" />
+                                                                <i class="fa fa-lg fa-twitter"></i>
+                        <a href="http://twitter.com/pigsonthewing" target="_blank">
+                            @pigsonthewing                        </a>
+                    <br />
+                                                                <i class="fa fa-lg fa-globe"></i>
+                        <a href="http://pigsonthewing.org.uk" target="_blank" style="width: 30px">
+                            Site
+                        </a>
+                                    </div>
+
+                <div class="col-md-8 col-lg-8">
+                    <h2>Andy Mabbett</h2>
+                    <h3></h3>
+                    <p>Andy Mabbett, FRSA,  has been a volunteer Wikipedia editor since 2003 and is also active on other Wikimedia projects, such as Wikidata. He provides professional consultancy and training to organisations interested in working with the Wikimedia community. He has given talks about Wikimedia projects on five continents. He has worked as Wikimedian in Residence at a number of art galleries and museums, with the Royal Society of Chemistry, and currently at ORCID.  He is also the author of books about Pink Floyd.</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

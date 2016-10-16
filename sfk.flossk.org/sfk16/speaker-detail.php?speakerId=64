@@ -1,0 +1,23 @@
+<div class="container">
+	<div class="row">
+        <div id="speaker-detail" class="col-lg-8 col-lg-offset-2">
+            <div class="row">
+            	<button title="Close (Esc)" type="button" class="mfp-close">×</button>
+
+                <div class="col-md-4 col-lg-4">
+                    <img class="img-responsive" src="img/speakers/AdamPodolcsak.jpg" alt="" />
+                                                                                    <i class="fa fa-lg fa-globe"></i>
+                        <a href="http://competterra.com/index.php?home_en" target="_blank" style="width: 30px">
+                            Site
+                        </a>
+                                    </div>
+
+                <div class="col-md-8 col-lg-8">
+                    <h2>&Aacute;d&aacute;m Podolcsd&aacute;k</h2>
+                    <h3></h3>
+                    <p>Mr. &Aacute;d&aacute;m Podolcsd&aacute;k is highly experienced project manager, with training in project management a strong background in Computer Science, and experience of the application of modern management methods for IT lifecycle management. He is experienced in planning and management of large international projects. He has degrees and certificates, which are highly relevant to managing changes, re-engineering business processes, design and implement software applications for Public Administration, especially Land Registration: MSc Economist in Management and Leadership, BSc in Computer Science, BSc Engineering with specialisation in Land Surveying, Completed university training in Project Management Expert (Absolutorium), Certificate for Public Administration, Professional Land Administration Qualification. As a senior IT expert with strong Land Administration background he is highly skilled in IT strategy development, conceptualisation of GIS/LIS systems, definition of architecture, leading the formation of physical architecture, system analysis, data modelling, elaboration of user and system requirements; knowledge of GIS software applications. Competent personal computer user, word-processing, spreadsheets, project management tools.</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

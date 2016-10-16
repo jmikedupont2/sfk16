@@ -1,0 +1,19 @@
+<div class="container">
+	<div class="row">
+        <div id="speaker-detail" class="col-lg-8 col-lg-offset-2">
+            <div class="row">
+            	<button title="Close (Esc)" type="button" class="mfp-close">×</button>
+
+                <div class="col-md-4 col-lg-4">
+                    <img class="img-responsive" src="img/speakers/DSC05696.JPG" alt="" />
+                                                                            </div>
+
+                <div class="col-md-8 col-lg-8">
+                    <h2>Besfort Guri</h2>
+                    <h3>FLOSSK</h3>
+                    <p>Besfort is founder and CEO of OpS-IN. OpS-IN is startup company focused in Spatial information and databases including GIS solutions. He was software developer in different companies. He is member of FLOSSK & HOTOSM. Open Data Advocate.</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

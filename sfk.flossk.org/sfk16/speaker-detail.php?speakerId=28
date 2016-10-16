@@ -1,0 +1,23 @@
+<div class="container">
+	<div class="row">
+        <div id="speaker-detail" class="col-lg-8 col-lg-offset-2">
+            <div class="row">
+            	<button title="Close (Esc)" type="button" class="mfp-close">×</button>
+
+                <div class="col-md-4 col-lg-4">
+                    <img class="img-responsive" src="img/speakers/BlineraMeta.jpg" alt="" />
+                                                                                    <i class="fa fa-lg fa-globe"></i>
+                        <a href="http://opendatakosovo.org" target="_blank" style="width: 30px">
+                            Site
+                        </a>
+                                    </div>
+
+                <div class="col-md-8 col-lg-8">
+                    <h2>Blinera Meta</h2>
+                    <h3>Open Data Kosovo</h3>
+                    <p>Blinera Meta is currently working as Deputy Director at Open Data Kosovo. She studied Public Policy and Management in Rochester Institute of Technology, Kosovo and International Relations in University of Georgia, USA. In her previous work she was been tackling issues of development, dealing closely with LGBT rights,  environmental protection and data collection, and promoting access to justice. She is excited about transformation through technology, travel, and beautiful eating.  </p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

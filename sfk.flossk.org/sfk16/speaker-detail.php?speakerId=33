@@ -1,0 +1,23 @@
+<div class="container">
+	<div class="row">
+        <div id="speaker-detail" class="col-lg-8 col-lg-offset-2">
+            <div class="row">
+            	<button title="Close (Esc)" type="button" class="mfp-close">×</button>
+
+                <div class="col-md-4 col-lg-4">
+                    <img class="img-responsive" src="img/speakers/DimitarPoposki.jpg" alt="" />
+                                                                                    <i class="fa fa-lg fa-globe"></i>
+                        <a href="http://dimitarwebpage.wix.com/dimitar" target="_blank" style="width: 30px">
+                            Site
+                        </a>
+                                    </div>
+
+                <div class="col-md-8 col-lg-8">
+                    <h2>Dimitar Poposki</h2>
+                    <h3></h3>
+                    <p>Information Professional with 15 years of academic library experience. Information literacy trainer that actively advocates Open Access, Open Educational Resources, Open Science and Open Data. Promoter of privacy and the role of libraries as providers of free and anonymous access to information in egalitarian societies as an answer to the global technological digital divide and mass surveillance. Profound understanding of the most essential parts of global information infrastructure and the role of openness in the development of global information highway. Involved in a PhD program at Open Universiteit in the Netherlands (Open Innovation in OER/MOOCs, Critical Consciousness in Pedagogy).</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

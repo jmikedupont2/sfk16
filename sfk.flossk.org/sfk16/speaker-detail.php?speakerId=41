@@ -1,0 +1,19 @@
+<div class="container">
+	<div class="row">
+        <div id="speaker-detail" class="col-lg-8 col-lg-offset-2">
+            <div class="row">
+            	<button title="Close (Esc)" type="button" class="mfp-close">×</button>
+
+                <div class="col-md-4 col-lg-4">
+                    <img class="img-responsive" src="img/speakers/elio_qoshi.jpg" alt="" />
+                                                                            </div>
+
+                <div class="col-md-8 col-lg-8">
+                    <h2>Elio Qoshi</h2>
+                    <h3>Ura</h3>
+                    <p>Elio Qoshi is founder of Open Source Design startup Ura which helps open source projects improve their visual design and User Experience. He is a Mozilla Tech Speaker & Representative, Fedora Ambassador, Tor UX Designer and Board Member at Open Labs Albania. He writes for SitePoint about topics he cares about, usually Free Open Source, Design &  Community. Elio is one of the organizers behind Open Source Conference Albania (OSCAL) which started back in 2014. He also contributes to the Free Software Foundation Europe, Wikimedia, Glucosio and GalliumOS. He loves cycling and playing video games in his free time.</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

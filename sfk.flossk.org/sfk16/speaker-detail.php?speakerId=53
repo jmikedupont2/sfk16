@@ -1,0 +1,27 @@
+<div class="container">
+	<div class="row">
+        <div id="speaker-detail" class="col-lg-8 col-lg-offset-2">
+            <div class="row">
+            	<button title="Close (Esc)" type="button" class="mfp-close">×</button>
+
+                <div class="col-md-4 col-lg-4">
+                    <img class="img-responsive" src="img/speakers/FatbardhVeseli.jpg" alt="" />
+                                                                <i class="fa fa-lg fa-twitter"></i>
+                        <a href="http://twitter.com/fatbardhi" target="_blank">
+                            @fatbardhi                        </a>
+                    <br />
+                                                                <i class="fa fa-lg fa-globe"></i>
+                        <a href="https://m-chair.de/index.php/staff/12" target="_blank" style="width: 30px">
+                            Site
+                        </a>
+                                    </div>
+
+                <div class="col-md-8 col-lg-8">
+                    <h2>Fatbardh Veseli</h2>
+                    <h3></h3>
+                    <p>Fatbardh is a researcher at Goethe University Frankfurt in the area of security and privacy technologies. He has been involved in various European research and innovation projects in this field of privacy-enhancing identity management, and held talks at conferences and workshops word-wide. His main research interests, which is also core of his doctoral studies, include assessment and evaluation of Privacy-enhancing attribute-based credential technologies, identification of their challenges, and their applications in real life.</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

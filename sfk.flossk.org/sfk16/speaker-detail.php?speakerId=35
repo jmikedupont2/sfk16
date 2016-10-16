@@ -1,0 +1,35 @@
+<div class="container">
+	<div class="row">
+        <div id="speaker-detail" class="col-lg-8 col-lg-offset-2">
+            <div class="row">
+            	<button title="Close (Esc)" type="button" class="mfp-close">×</button>
+
+                <div class="col-md-4 col-lg-4">
+                    <img class="img-responsive" src="img/speakers/AltinUkshini.jpg" alt="" />
+                                            <i class="fa fa-lg fa-facebook-square"></i>
+                        <a href="http://facebook.com/altinukshini" target="_blank">
+                            altinukshini                        </a>
+                    <br />
+                                                                <i class="fa fa-lg fa-twitter"></i>
+                        <a href="http://twitter.com/altinukshini" target="_blank">
+                            @altinukshini                        </a>
+                    <br />
+                                                                <i class="fa fa-lg fa-globe"></i>
+                        <a href="http://altinukshini.wordpress.com" target="_blank" style="width: 30px">
+                            Site
+                        </a>
+                                    </div>
+
+                <div class="col-md-8 col-lg-8">
+                    <h2>Altin Ukshini</h2>
+                    <h3>FLOSSK</h3>
+                    <p>Altin Ukshini (21 y/o), is a Free Libre and Open Source Software (FLOSS) and Open Knowledge activist since 2009. The last couple of years, he has been working on promoting, developing and translating Free and Open Source Software, alone and through FLOSSK.
+
+As an active community guy, he has passionately co-founded and led tech projects and events in Kosovo and United States. Altin currently works at IPKO Telecom in Prishtina as a Linux System administrator, and leads and manages Prishtina Hackerspace - a local hackerspace/makerspace which he co-founded in 2014.
+
+He ran FLOSSK (Free Libre and Open Source Software Kosova) as president of the executive board during 2014-2015. Altin was board member at STIKK (Kosovo Association of Information and Communication Technology), a Mozilla Representative, Senior Program Assistant at IPKO Foundation, and back at age 16 a Junior software developer at UNICEF Innovations Lab Kosovo.</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

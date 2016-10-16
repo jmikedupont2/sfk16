@@ -1,0 +1,27 @@
+<div class="container">
+	<div class="row">
+        <div id="speaker-detail" class="col-lg-8 col-lg-offset-2">
+            <div class="row">
+            	<button title="Close (Esc)" type="button" class="mfp-close">×</button>
+
+                <div class="col-md-4 col-lg-4">
+                    <img class="img-responsive" src="img/speakers/GabrielMicko.jpg" alt="" />
+                                                                <i class="fa fa-lg fa-twitter"></i>
+                        <a href="http://twitter.com/gabriel_micko" target="_blank">
+                            @gabriel_micko                        </a>
+                    <br />
+                                                                <i class="fa fa-lg fa-globe"></i>
+                        <a href="http://webrtc.rocks" target="_blank" style="width: 30px">
+                            Site
+                        </a>
+                                    </div>
+
+                <div class="col-md-8 col-lg-8">
+                    <h2>Gabriel Mi&#269;ko</h2>
+                    <h3>Mozilla</h3>
+                    <p>Gabriel is working as a Front-end Developer Specialist for DoclerHolding based in Budapest. Mozilla Tech Speaker and enthusiastic voluntary at Hungarian Mozilla Community. He is interested in everything related to web. The world of open source impresses him as well. WebRTC geek, React lover and devotee of the web platform.</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

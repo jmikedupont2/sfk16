@@ -1,0 +1,23 @@
+<div class="container">
+	<div class="row">
+        <div id="speaker-detail" class="col-lg-8 col-lg-offset-2">
+            <div class="row">
+            	<button title="Close (Esc)" type="button" class="mfp-close">×</button>
+
+                <div class="col-md-4 col-lg-4">
+                    <img class="img-responsive" src="img/speakers/Thomas-Levine.jpg" alt="" />
+                                                                                    <i class="fa fa-lg fa-globe"></i>
+                        <a href="https://thomaslevine.com" target="_blank" style="width: 30px">
+                            Site
+                        </a>
+                                    </div>
+
+                <div class="col-md-8 col-lg-8">
+                    <h2>Thomas Levine</h2>
+                    <h3></h3>
+                    <p>Thomas Levine researches how people interact with physical objects and digital data. Specific interests include multisensory representations of data, studying patterns in the publishing of government open data, the maintenance of sanitary conditions in bathrooms, and the creation of intuitive and minimal computer-user interfaces.</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

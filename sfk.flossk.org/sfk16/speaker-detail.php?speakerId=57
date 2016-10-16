@@ -1,0 +1,23 @@
+<div class="container">
+	<div class="row">
+        <div id="speaker-detail" class="col-lg-8 col-lg-offset-2">
+            <div class="row">
+            	<button title="Close (Esc)" type="button" class="mfp-close">×</button>
+
+                <div class="col-md-4 col-lg-4">
+                    <img class="img-responsive" src="img/speakers/ChristopherGuess.jpg" alt="" />
+                                                                <i class="fa fa-lg fa-twitter"></i>
+                        <a href="http://twitter.com/cguess" target="_blank">
+                            @cguess                        </a>
+                    <br />
+                                                        </div>
+
+                <div class="col-md-8 col-lg-8">
+                    <h2>Christopher Guess</h2>
+                    <h3>International Center For Journalists / Organized Crime and Corruption Reporting Project</h3>
+                    <p>Christopher Guess is a Knight International Journalism Fellow working with the Organized Crime and Corruption Reporting Project in Sarajevo. Originally from the United States, he has been based in Bosnia and Herzegovina for nearly two years working on open source and free technology solutions for journalism. He has previously worked on technology for low income citizens as a Blue Ridge Labs Fellow.  As a specialist in mobile development Christopher cofounded a number of tech startups in the US around disaster relief communications and transit ticketing. Aside from a technologist, Christopher has been a practicing writer and photojournalist covering such events as United States elections and African poverty.</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

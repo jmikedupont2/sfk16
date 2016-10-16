@@ -1,0 +1,19 @@
+<div class="container">
+	<div class="row">
+        <div id="speaker-detail" class="col-lg-8 col-lg-offset-2">
+            <div class="row">
+            	<button title="Close (Esc)" type="button" class="mfp-close">×</button>
+
+                <div class="col-md-4 col-lg-4">
+                    <img class="img-responsive" src="img/speakers/KosovareSahatqija.jpg" alt="" />
+                                                                            </div>
+
+                <div class="col-md-8 col-lg-8">
+                    <h2>Kosovare Sahatqija</h2>
+                    <h3>Open Data Kosovo</h3>
+                    <p>Kosovare Sahatqija works as a Project Coordinator/Software Developer at Open Data Kosovo. The leading of #EcShlirë related efforts. She has a bachelor degree in Computer Science at the South East European University (SEEU). She is also an active member of Girls Coding Kosova.</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

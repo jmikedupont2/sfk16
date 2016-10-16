@@ -1,0 +1,23 @@
+<div class="container">
+	<div class="row">
+        <div id="speaker-detail" class="col-lg-8 col-lg-offset-2">
+            <div class="row">
+            	<button title="Close (Esc)" type="button" class="mfp-close">×</button>
+
+                <div class="col-md-4 col-lg-4">
+                    <img class="img-responsive" src="img/speakers/KostaCipo.jpg" alt="" />
+                                                                                    <i class="fa fa-lg fa-globe"></i>
+                        <a href="http://www.c-systems.al" target="_blank" style="width: 30px">
+                            Site
+                        </a>
+                                    </div>
+
+                <div class="col-md-8 col-lg-8">
+                    <h2>Kostaq Cipo</h2>
+                    <h3></h3>
+                    <p>Programmer Analyst/Business Analyst experienced in various programming languages and platforms, system analysis and design with expertise in object-oriented software development using Java (JEE, J2SE), C, C++ and .NET. Passionate about Agile software development practices and quality improvement through the effective use of knowledge, information, and communication. IT Project Manager with expertise in developing and implementing complex projects according to PMI Standards and PMF (Project Management Framework).</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

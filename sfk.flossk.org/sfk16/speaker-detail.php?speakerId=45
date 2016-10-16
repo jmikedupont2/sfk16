@@ -1,0 +1,19 @@
+<div class="container">
+	<div class="row">
+        <div id="speaker-detail" class="col-lg-8 col-lg-offset-2">
+            <div class="row">
+            	<button title="Close (Esc)" type="button" class="mfp-close">×</button>
+
+                <div class="col-md-4 col-lg-4">
+                    <img class="img-responsive" src="img/speakers/AjkunaMujo.jpg" alt="" />
+                                                                            </div>
+
+                <div class="col-md-8 col-lg-8">
+                    <h2>Ajkuna Mujo</h2>
+                    <h3></h3>
+                    <p>Ajkuna Mujo is from Tirana, Albania. She studies Computer Science at Faculty of Natural Sciences (FSHN), University of Tirana. She was second best at a Godot competition. On April 2016, she joined Open Labs Hackerspace and learned about the importance of open source technology. There she met Fedora and started contributing with the translating team. Volunteering in OSCAL16 has been a one of the most beautiful experience for her. She has participated in the Girls Code Fest Marathon and the team (code eaters) she was in, was one of the winning teams. Ajkuna is member in a couple of organizations in her country and is working very hard to be one of the best developers. Her aim is to enforce woman power in open source.</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

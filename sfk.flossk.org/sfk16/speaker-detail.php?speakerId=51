@@ -1,0 +1,23 @@
+<div class="container">
+	<div class="row">
+        <div id="speaker-detail" class="col-lg-8 col-lg-offset-2">
+            <div class="row">
+            	<button title="Close (Esc)" type="button" class="mfp-close">×</button>
+
+                <div class="col-md-4 col-lg-4">
+                    <img class="img-responsive" src="img/speakers/VictorNitu.jpg" alt="" />
+                                                                                    <i class="fa fa-lg fa-globe"></i>
+                        <a href="https://umbra.xyz" target="_blank" style="width: 30px">
+                            Site
+                        </a>
+                                    </div>
+
+                <div class="col-md-8 col-lg-8">
+                    <h2>Victor Ni&#539;u</h2>
+                    <h3></h3>
+                    <p>Victor Ni&#539;u is a developer, sysadmin and freedom enthusiast based in Cluj-Napoca, Romania. He is a long time advocate for freedom of movement, technology and information, currently part of the Open Knowledge International tech team, where he works at the OpenTrials project. His recent work was focused on developing and contributing to tools for transparency and investigative journalism. One of the most recent projects still in active development is Elvis, a tool enabling non-techies to investigate patterns in public spendings. In the past, Victor served as CTO, then CEO of Funda&#539;ia Ceata, a Romanian free software advocacy NGO, in which time he collaborated with multiple related organisations from Europe and beyond. He was the lead developer within The Sponge Media Innovation Lab for Eastern Europe, an umbrella informal coalition of non-profits focused on investigative journalism and freedom of information and technology.</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,19 @@
+<div class="container">
+	<div class="row">
+        <div id="speaker-detail" class="col-lg-8 col-lg-offset-2">
+            <div class="row">
+            	<button title="Close (Esc)" type="button" class="mfp-close">×</button>
+
+                <div class="col-md-4 col-lg-4">
+                    <img class="img-responsive" src="img/speakers/AnxheloLushka.jpg" alt="" />
+                                                                            </div>
+
+                <div class="col-md-8 col-lg-8">
+                    <h2>Anxhelo Lushka</h2>
+                    <h3>Open Labs Hackerspace</h3>
+                    <p>Anxhelo is a 19 year old student from Albania, studying Computer Science Engineering in Tirana. He is a design passionate and a contributor in several open source projects, including Fedora, LibreOffice and etc. He enjoys spending his free time by working in projects, hanging out with friends and learning new things.</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

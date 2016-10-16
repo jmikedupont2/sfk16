@@ -1,0 +1,27 @@
+<div class="container">
+	<div class="row">
+        <div id="speaker-detail" class="col-lg-8 col-lg-offset-2">
+            <div class="row">
+            	<button title="Close (Esc)" type="button" class="mfp-close">×</button>
+
+                <div class="col-md-4 col-lg-4">
+                    <img class="img-responsive" src="img/speakers/JonaAzizaj.jpg" alt="" />
+                                                                <i class="fa fa-lg fa-twitter"></i>
+                        <a href="http://twitter.com/jonatoni" target="_blank">
+                            @jonatoni                        </a>
+                    <br />
+                                                                <i class="fa fa-lg fa-globe"></i>
+                        <a href="http://jona.azizaj.com" target="_blank" style="width: 30px">
+                            Site
+                        </a>
+                                    </div>
+
+                <div class="col-md-8 col-lg-8">
+                    <h2>Jona Azizaj</h2>
+                    <h3>Fedora Project and Open Labs Hackerspace</h3>
+                    <p>Jona is a student of Business Informatics at the University of Tirana, and also a hacktivist of Open Labs. She is passionate about philosophy of Open Source and she believes in transparency and cooperation, open and free Internet. She has been working on promoting FLOSS in Albania. Also she has been working on Fedora Localization Project to bring everything around Fedora closer to her community. She is really interested on empowering woman in society because women participation in open technology and culture is very important so we should all pay more attention."</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

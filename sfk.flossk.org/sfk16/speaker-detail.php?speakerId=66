@@ -1,0 +1,27 @@
+<div class="container">
+	<div class="row">
+        <div id="speaker-detail" class="col-lg-8 col-lg-offset-2">
+            <div class="row">
+            	<button title="Close (Esc)" type="button" class="mfp-close">×</button>
+
+                <div class="col-md-4 col-lg-4">
+                    <img class="img-responsive" src="img/speakers/JamesMichaelDupont.jpg" alt="" />
+                                                                <i class="fa fa-lg fa-twitter"></i>
+                        <a href="http://twitter.com/H4ck3rm1k3" target="_blank">
+                            @H4ck3rm1k3                        </a>
+                    <br />
+                                                                <i class="fa fa-lg fa-globe"></i>
+                        <a href="https://github.com/h4ck3rm1k3" target="_blank" style="width: 30px">
+                            Site
+                        </a>
+                                    </div>
+
+                <div class="col-md-8 col-lg-8">
+                    <h2>James Michael Dupont</h2>
+                    <h3>FLOSSK</h3>
+                    <p>Dedicated Software developer who is passionate about freedom.</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

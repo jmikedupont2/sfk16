@@ -1,0 +1,27 @@
+<div class="container">
+	<div class="row">
+        <div id="speaker-detail" class="col-lg-8 col-lg-offset-2">
+            <div class="row">
+            	<button title="Close (Esc)" type="button" class="mfp-close">×</button>
+
+                <div class="col-md-4 col-lg-4">
+                    <img class="img-responsive" src="img/speakers/JosPoortvliet.jpg" alt="" />
+                                                                <i class="fa fa-lg fa-twitter"></i>
+                        <a href="http://twitter.com/jospoortvliet" target="_blank">
+                            @jospoortvliet                        </a>
+                    <br />
+                                                                <i class="fa fa-lg fa-globe"></i>
+                        <a href="http://blog.jospoortvliet.com" target="_blank" style="width: 30px">
+                            Site
+                        </a>
+                                    </div>
+
+                <div class="col-md-8 col-lg-8">
+                    <h2>Jos Poortvliet</h2>
+                    <h3>Nextcloud</h3>
+                    <p>People person, technology enthusiast and all-things-open evangelist. I have managed and marketed communities for over a decade, getting started in the KDE community, followed by working as openSUSE Community Manager at SUSE and ownCloud. Currently I take care of communication and marketing at Nextcloud. I am busy growing the Nextcloud community, speaking at and organizing conferences and writing about my passions ranging from psychology and people in communities to innovative technology.</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
