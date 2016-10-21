@@ -1,8 +1,13 @@
 from bs4 import BeautifulSoup
 import re
 import unicodedata
-
+import requests
 import yaml
+import pprint
+
+import eventbritesecrets
+from eventbrite import Eventbrite
+eventbrite = Eventbrite(eventbritesecrets.PERSONAL_OAUTH_TOKEN)
 
 events = []
 # from http://stackoverflow.com/a/1774043/7026063
@@ -14,11 +19,14 @@ with open("events.yaml", 'r') as stream:
         
 #print (events)
 
-f = open ('index.html')
-html_doc=""
-for l in f.readlines():
-    #print l
-    html_doc += l
+f = open ('index.html','w')
+y = open ('merged.yaml','w')
+
+p = requests.get("http://sfk.flossk.org/sfk16/")
+html_doc=p.text
+f.write(html_doc)
+f.close
+
 soup = BeautifulSoup(html_doc, 'html.parser')
 
 
@@ -34,10 +42,9 @@ for d in soup.find_all('div', class_='speaker'):
     d['id']="Speaker_" + name
 
     detail=d.figure.figcaption.a['href']
-    f3 = open ("sfk16/" + detail)
-    details = ""
-    for l in f3:
-        details += l
+
+    p = requests.get("http://sfk.flossk.org/sfk16/" + detail)
+    details=p.text
     soup2 = BeautifulSoup(details, 'html.parser')
     #print(d.prettify())    
     #print(soup2.prettify())
@@ -50,15 +57,24 @@ for d in soup.find_all('div', class_='speaker'):
 for e in events:
     n=e['name']['text']
     #events2[n]=e
-    g=re.match('([\w\s])+\-\s+(.+)',n)
+    g=re.match('([\w\s]+)\s+\-\s+(.+)',n)
     if (g):
         
-        pprint.pprint(g.groups())
-        
         (speaker,title)=g.groups()
-        #print (title)
-        events2[title]=e
-        events2[title]['speaker']=speaker
+
+        event = eventbrite.get_event(e['id'])
+        people = eventbrite.get_event_attendees(e['id'])
+
+        #pprint.pprint(event.__dict__)
+        events2[title]= {
+            'people':  people,
+            'eventbrite' : event.__dict__,
+            'flossk' : {
+                'title' : title,
+                'speaker' : speaker
+            }
+        }
+
     
 for d in soup.find_all('div', class_='event'):
     #print ("Talk: "+ d.h3.text)
@@ -66,7 +82,7 @@ for d in soup.find_all('div', class_='event'):
 
     if t in events2:
         #print ("Talk: "+ t)
-        events2[t]['html'] = d.prettify()
+        events2[t]['flossk']['html'] = d.prettify()
         t=re.sub(r'\s+','_', t)
         t=unicodedata.normalize('NFKD', t).encode('ascii', 'ignore')
         d['id']="Talk_" + t.decode('utf-8')
@@ -80,8 +96,8 @@ for d in soup.find_all('div', class_='event'):
     
 
 #print(soup.prettify())
-print (yaml.dump({
+y.write (yaml.dump({
     'speakers' : speakers,
-    'events' :events,
-    'events2' :events2,
+#    'events' :events,
+    'events' :events2,
 }))
